@@ -373,6 +373,33 @@ const SOURCES = [
   ["Cached", fetchCached],
 ];
 
+// --- Remote-from-India filter (mirrors scripts/fetch_jobs.py) ----------------
+// Keep only jobs doable remotely from India: India-based, or remote and not
+// locked to a foreign region. Drops "local presence required" foreign roles.
+const REMOTE_HINTS = ["remote", "work from home", "wfh", "anywhere", "worldwide",
+  "work remotely", "fully remote", "remote-first", "remote first", "distributed",
+  "telecommute", "global", "work from anywhere"];
+const INDIA_HINTS = ["india", "indian", "bengaluru", "bangalore", "mumbai",
+  "new delhi", "delhi", "hyderabad", "pune", "chennai", "kolkata", "gurgaon",
+  "gurugram", "noida", " ist", "ist)", "remote, india", "remote india"];
+const FOREIGN_ONLY = ["us only", "u.s. only", "us-only", "united states only",
+  "usa only", "must be based in the united states", "must reside in the united states",
+  "must be located in the united states", "authorized to work in the united states",
+  "us work authorization", "must be us-based", "based in the us only", "uk only",
+  "united kingdom only", "must be based in the uk", "eu only", "europe only",
+  "emea only", "within the eu", "canada only", "australia only",
+  "must be based in canada", "remote (us", "remote, us", "remote - us", "us remote",
+  "remote (united states", "remote, united states", "remote (uk", "remote, uk",
+  "remote (canada", "onsite only", "on-site only", "in office", "in-office"];
+
+function remoteFromIndiaOk(job) {
+  const t = `${job.title} ${job.location} ${job.description}`.toLowerCase();
+  if (INDIA_HINTS.some((h) => t.includes(h))) return true;
+  if (!REMOTE_HINTS.some((h) => t.includes(h)) && job.workType !== "remote") return false;
+  if (FOREIGN_ONLY.some((h) => t.includes(h))) return false;
+  return true;
+}
+
 // Fetch everything in parallel. Returns { jobs, report } where report shows
 // per-source success/failure so the UI can tell the user what loaded.
 async function fetchAllJobs() {
@@ -382,8 +409,9 @@ async function fetchAllJobs() {
   results.forEach((r, i) => {
     const name = SOURCES[i][0];
     if (r.status === "fulfilled") {
-      jobs.push(...r.value);
-      report.push({ name, ok: true, count: r.value.length });
+      const kept = r.value.filter(remoteFromIndiaOk);
+      jobs.push(...kept);
+      report.push({ name, ok: true, count: kept.length });
     } else {
       report.push({ name, ok: false, error: String(r.reason && r.reason.message || r.reason) });
     }

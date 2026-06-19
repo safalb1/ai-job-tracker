@@ -45,17 +45,17 @@ def load_dotenv():
             if key and key not in os.environ:
                 os.environ[key] = val
 
-# Broad term set for Safal's target roles. Used for Jooble (generous free tier:
-# 3 locations x these terms x 8 runs/day stays well under 500 calls/day).
+# Target roles: AI trainer / specialist and similar. Deliberately NO annotation
+# or data-labeling terms. Used for Jooble (2 locations x these x 8 runs/day).
 SEARCH_TERMS = [
-    "AI trainer", "data annotation", "LLM", "AI analyst", "data labeling",
-    "RLHF", "prompt engineer", "model evaluation", "AI tutor",
-    "search evaluator", "content moderation", "computer vision annotation",
+    "AI trainer", "AI trainer specialist", "AI training specialist", "LLM trainer",
+    "AI specialist", "AI tutor", "generative AI trainer", "model trainer",
+    "prompt engineer", "AI evaluator", "RLHF", "AI quality specialist",
 ]
 
 # Focused subset for Adzuna ONLY — its free tier is ~250 calls/day and we query
-# 6 countries x these terms x 8 runs/day. Keep this list <= 5 terms (=240/day).
-ADZUNA_TERMS = ["AI trainer", "data annotation", "LLM", "AI analyst", "data labeling"]
+# 6 countries x these terms x ~9 runs/day. Keep this list <= 4 terms (~216/day).
+ADZUNA_TERMS = ["AI trainer", "LLM trainer", "AI specialist", "prompt engineer"]
 
 # Adzuna countries to query → gives INTERNATIONAL coverage + salary data.
 # Each entry: country code -> currency the API returns salaries in.
@@ -163,6 +163,45 @@ def guess_work_type(text):
     return "onsite"
 
 
+# --- Remote-from-India filter ----------------------------------------------
+# Keep only jobs that can realistically be done remotely from India: either the
+# posting is India-based, or it's remote and NOT locked to a foreign region.
+REMOTE_HINTS = (
+    "remote", "work from home", "wfh", "anywhere", "worldwide", "work remotely",
+    "fully remote", "remote-first", "remote first", "distributed", "telecommute",
+    "global", "work from anywhere",
+)
+INDIA_HINTS = (
+    "india", "indian", "bengaluru", "bangalore", "mumbai", "new delhi", "delhi",
+    "hyderabad", "pune", "chennai", "kolkata", "gurgaon", "gurugram", "noida",
+    " ist", "ist)", "remote, india", "remote india",
+)
+# Phrases that mean "you must be in <somewhere that isn't India>".
+FOREIGN_ONLY = (
+    "us only", "u.s. only", "us-only", "united states only", "usa only",
+    "must be based in the united states", "must reside in the united states",
+    "must be located in the united states", "authorized to work in the united states",
+    "us work authorization", "must be us-based", "based in the us only",
+    "uk only", "united kingdom only", "must be based in the uk",
+    "eu only", "europe only", "emea only", "within the eu",
+    "canada only", "australia only", "must be based in canada",
+    "remote (us", "remote, us", "remote - us", "us remote", "remote (united states",
+    "remote, united states", "remote (uk", "remote, uk", "remote (canada",
+    "onsite only", "on-site only", "in office", "in-office",
+)
+
+
+def remote_from_india_ok(*texts):
+    t = " ".join(x for x in texts if x).lower()
+    if any(h in t for h in INDIA_HINTS):
+        return True                       # India-based or India-remote: keep
+    if not any(h in t for h in REMOTE_HINTS):
+        return False                      # not remote at all: drop
+    if any(h in t for h in FOREIGN_ONLY):
+        return False                      # remote, but locked to a foreign region
+    return True                           # remote and open: keep
+
+
 def fetch_adzuna():
     """International coverage (multiple countries) + salary. Requires keys."""
     app_id = os.environ.get("ADZUNA_APP_ID")
@@ -190,6 +229,8 @@ def fetch_adzuna():
                     seen.add(jid)
                     loc = (j.get("location") or {}).get("display_name", "")
                     desc = j.get("description") or ""
+                    if not remote_from_india_ok(j.get("title"), desc, loc):
+                        continue
                     out.append(norm(
                         jid, j.get("title"), (j.get("company") or {}).get("display_name"),
                         loc, guess_work_type(f"{j.get('title','')} {desc} {loc}"),
@@ -227,7 +268,7 @@ def fetch_working_nomads():
 
 # Jooble aggregates postings from across the web (incl. listings that originate
 # on LinkedIn/Indeed/Naukri) via a legitimate API. Free key: https://jooble.org/api/about
-JOOBLE_LOCATIONS = ["India", "United States", "United Kingdom"]
+JOOBLE_LOCATIONS = ["India", "Remote"]
 
 
 def fetch_jooble():
@@ -251,6 +292,8 @@ def fetch_jooble():
                     if jid in seen:
                         continue
                     seen.add(jid)
+                    if not remote_from_india_ok(j.get("title"), j.get("snippet"), j.get("location")):
+                        continue
                     out.append(norm(
                         jid, j.get("title"), j.get("company"),
                         j.get("location") or loc, guess_work_type(

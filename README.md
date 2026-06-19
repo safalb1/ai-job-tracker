@@ -141,12 +141,15 @@ General → Workflow permissions** is set to **Read and write permissions**.
    aggregates postings from across the web (including listings that originate on
    LinkedIn / Indeed / Naukri) through a legitimate API.
 
-> **Rate limit:** Adzuna's free tier allows ~250 API calls/day, so it uses the
-> capped `ADZUNA_TERMS` list (6 countries × 5 terms × 8 runs/day = 240/day). The
-> broader `SEARCH_TERMS` list (12 terms) is used by **Jooble**, whose free tier is
-> larger (3 locations × 12 terms × 8 runs/day = 288/day, under its 500 limit). To
-> add terms: extend `SEARCH_TERMS` freely; keep `ADZUNA_TERMS` ≤ 5 (or widen the
-> cron interval). Both lists live in `scripts/fetch_jobs.py`.
+> **Targeting & rate limit:** searches focus on **AI trainer / specialist** roles
+> (no annotation/labeling terms), and results are filtered to jobs **doable
+> remotely from India** (`remote_from_india_ok` drops "local-presence-required"
+> foreign roles; the browser applies the same filter in `js/sources.js`). Adzuna's
+> free tier is ~250 calls/day, so it uses the capped `ADZUNA_TERMS` (6 countries ×
+> 4 terms ≈ 216/day incl. the daily digest run). The broader `SEARCH_TERMS` (12)
+> drives **Jooble** (2 locations × 12 × 8 ≈ 192/day, under its 500 limit). Both
+> lists live in `scripts/fetch_jobs.py`; CV keywords live in `js/profile.js` (and
+> are mirrored in `scripts/digest.py`).
 
 ---
 
