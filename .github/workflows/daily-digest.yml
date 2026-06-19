@@ -1,0 +1,52 @@
+name: Daily job digest email
+
+# Once a day: refresh the jobs snapshot, then email the top NEW matches.
+# Sender uses a Gmail App Password kept as encrypted repo secrets.
+
+on:
+  schedule:
+    - cron: "30 3 * * *"   # 03:30 UTC = 09:00 AM IST, daily
+  workflow_dispatch: {}      # run on demand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: true
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh jobs snapshot
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          JOOBLE_KEY: ${{ secrets.JOOBLE_KEY }}
+        run: python scripts/fetch_jobs.py
+
+      - name: Email the digest
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+        run: python scripts/digest.py
+
+      - name: Commit snapshot + sent-history if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json data/digest_seen.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: daily digest snapshot + sent history [skip ci]"
+            git push
+          fi

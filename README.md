@@ -164,10 +164,34 @@ General → Workflow permissions** is set to **Read and write permissions**.
 | `js/app.js` | UI orchestration |
 | `tools/autofill.user.js` | Userscript: one-click fill of ATS application forms |
 | `scripts/fetch_jobs.py` | Server-side fetcher (GitHub Actions, incl. Adzuna) |
+| `scripts/digest.py` | Builds + emails the daily top-matches digest |
+| `data/digest_seen.json` | Ids already emailed (so digests only show new roles) |
 | `.github/workflows/fetch-jobs.yml` | Scheduled refresh of `data/jobs.json` |
 | `data/jobs.json` | Cached snapshot (auto-updated) |
 
 ---
+
+## Daily digest email (top new matches)
+
+`scripts/digest.py` + `.github/workflows/daily-digest.yml` email you the day's
+**top ~12 NEW** roles each morning (09:00 IST), ranked by the same CV scoring the
+site uses. Already-emailed jobs are tracked in `data/digest_seen.json`, so you
+only ever get fresh roles. If there are no new matches, no email is sent.
+
+**Setup — create a Gmail App Password and add 3 secrets:**
+1. Turn on **2-Step Verification** for your Google account
+   (<https://myaccount.google.com/security>).
+2. Create an **App Password**: <https://myaccount.google.com/apppasswords> →
+   name it e.g. "Job Match" → Google shows a 16-character password.
+3. In the repo: **Settings → Secrets and variables → Actions → New repository
+   secret**, add:
+   - `GMAIL_USER` — your Gmail address (e.g. `you@gmail.com`)
+   - `GMAIL_APP_PASSWORD` — the 16-char App Password (spaces optional)
+   - `DIGEST_TO` *(optional)* — where to send; defaults to `GMAIL_USER`
+
+That's it — the digest then arrives daily. Trigger it manually any time from
+**Actions → Daily job digest email → Run workflow**. Without the secrets the
+workflow still runs and just prints a preview (no email, nothing marked sent).
 
 ## Auto-fill applications (Greenhouse / Lever / Ashby / Workable)
 
