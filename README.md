@@ -15,15 +15,49 @@ of LinkedIn/Indeed jobs) and takes you straight to the real application page.
 ## Features
 
 - **Real-time on load** — the browser fetches live jobs directly from
-  Remotive, RemoteOK, Arbeitnow, Jobicy and Himalayas (no delay, no server).
-- **Always-available fallback** — a GitHub Action refreshes `data/jobs.json`
-  every 30 min, and can pull **India / on-site** jobs from Adzuna.
+  Remotive, RemoteOK, Arbeitnow, Jobicy, Himalayas and The Muse (no delay, no server).
+- **International + higher-paying** — Adzuna (via the GitHub Action) adds jobs
+  from **India, USA, UK, Canada, Australia and Germany** with real salary data.
+- **Salary in any currency → INR** — salaries are parsed (from structured fields
+  *and* free text), converted to **₹/month**, shown on each card, and filterable.
+  Default filter hides jobs that state a salary **below ₹30,000/month**.
 - **CV matching** — scores each job on your skills (data annotation, AI/LLM
   evaluation, prompt writing, computer vision, QA, RLHF…). Matches if even one
   skill/qualification hits. Shows *why* each job matched.
-- **Filters** — keyword, work type (remote/hybrid/on-site), India-only, sort by
-  best match or newest.
+- **Filters & sort** — keyword, work type (remote/hybrid/on-site), India-only,
+  salary floor; sort by best match, newest, or **highest salary**.
 - **Tailored cover letter** — generated from your CV for each job, copy-paste ready.
+
+## Salary handling
+
+- Threshold lives in `js/profile.js` → `minSalaryInrPerMonth` (default `30000`,
+  i.e. **₹30k per month**). Change it to raise/lower the floor.
+- Currency conversion rates are in `js/salary.js` → `FX_TO_INR` (approximate;
+  edit if you want precision). Annual figures are divided by 12; hourly × 160.
+- The salary dropdown has three modes:
+  - **≥ ₹30k/mo (or unstated)** *(default)* — hides only jobs that *explicitly*
+    state a salary under the floor; keeps jobs with no stated salary.
+  - **Stated ≥ ₹30k/mo only** — strict: shows only jobs with a salary at/above the floor.
+  - **Any salary** — no salary filtering.
+
+## Job platforms & pay range
+
+| Platform | Source | Typical pay | In this app |
+|----------|--------|-------------|-------------|
+| RemoteOK | live API | High (global tech, USD) | ✅ with salary |
+| Jobicy | live API | Medium–High (global remote) | ✅ with salary |
+| Himalayas | live API | Medium–High (global remote) | ✅ with salary |
+| Remotive | live API | Medium–High (global remote) | ✅ |
+| The Muse | live API | Medium–High (mostly US) | ✅ |
+| Arbeitnow | live API | Medium (Europe) | ✅ |
+| Adzuna (IN/US/UK/CA/AU/DE) | Action + key | Medium–High, real salaries | ✅ with salary |
+
+**Other higher/medium-paying platforms worth applying on directly** (no open API,
+so not auto-aggregated — listed here for your manual search):
+Wellfound (AngelList Talent), Y Combinator "Work at a Startup", Otta, Dice,
+Built In, Turing, Toptal, Outlier / Scale AI, DataAnnotation.tech, Mercor,
+Invisible Tech, Appen, Welocalize, TELUS International AI (Raterlabs) — the last
+several specialise in **AI trainer / data-rating** roles that fit your CV.
 
 ---
 
@@ -73,11 +107,17 @@ The workflow in `.github/workflows/fetch-jobs.yml` runs automatically once Pages
 is set up. To allow it to commit the snapshot, ensure **Settings → Actions →
 General → Workflow permissions** is set to **Read and write permissions**.
 
-### (Optional) Add India / on-site jobs via Adzuna
+### (Optional) Add international jobs + salaries via Adzuna
 1. Get free API keys at <https://developer.adzuna.com/>.
 2. In the repo: **Settings → Secrets and variables → Actions → New repository
    secret** — add `ADZUNA_APP_ID` and `ADZUNA_APP_KEY`.
-3. The next workflow run will include Adzuna India results in `data/jobs.json`.
+3. The next workflow run will include Adzuna results (India, USA, UK, Canada,
+   Australia, Germany — with salaries) in `data/jobs.json`.
+
+> **Rate limit:** Adzuna's free tier allows ~250 API calls/day. The workflow
+> uses 6 countries × 4 search terms = 24 calls/run and runs every 3 hours
+> (~192/day). To add more countries/terms, edit `ADZUNA_COUNTRIES` / `SEARCH_TERMS`
+> in `scripts/fetch_jobs.py` and consider widening the cron interval.
 
 ---
 
@@ -87,7 +127,8 @@ General → Workflow permissions** is set to **Read and write permissions**.
 |------|---------|
 | `index.html` | Page structure |
 | `css/style.css` | Styling (dark theme) |
-| `js/profile.js` | **Your CV / keywords — edit this** |
+| `js/profile.js` | **Your CV / keywords / salary floor — edit this** |
+| `js/salary.js` | Salary parsing + currency→INR conversion |
 | `js/sources.js` | Live job-board fetchers (browser) |
 | `js/matcher.js` | Scoring & ranking |
 | `js/coverletter.js` | Cover-letter generator |

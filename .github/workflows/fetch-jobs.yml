@@ -6,7 +6,10 @@ name: Fetch jobs snapshot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (GitHub may throttle very frequent runs)
+    # Every 3 hours. The browser fetches live jobs on every page load anyway,
+    # so this snapshot is just the always-available fallback. 3h keeps Adzuna
+    # (6 countries x 4 terms = 24 calls/run = ~192/day) under its free limit.
+    - cron: "0 */3 * * *"
   workflow_dispatch: {}        # lets you trigger a refresh manually from the Actions tab
   push:
     branches: [ main ]

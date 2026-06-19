@@ -12,6 +12,13 @@ const PROFILE = {
   portfolio: "https://datascienceportfol.io/safalb",
   linkedin: "", // add your LinkedIn URL if you want it in cover letters
 
+  // Minimum acceptable salary, in INR per MONTH (not per year). Salaries in any
+  // currency are converted to a monthly INR figure before comparing (annual
+  // figures are divided by 12). See salary.js. Jobs that STATE a salary below
+  // this are hidden when the salary filter is on; jobs that don't state any
+  // salary are kept (we can't verify them).
+  minSalaryInrPerMonth: 30000,
+
   summary:
     "A working professional with expertise in data annotation, quality assurance, " +
     "and computer vision, with hands-on experience analysing and evaluating AI/LLM " +

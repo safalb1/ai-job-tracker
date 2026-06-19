@@ -24,11 +24,16 @@ UA = {"User-Agent": "job-match-bot/1.0 (+github actions)"}
 TIMEOUT = 20
 
 # Search terms aimed at Safal's target roles (used for the Adzuna queries).
-SEARCH_TERMS = [
-    "AI trainer", "data annotation", "data annotator", "LLM",
-    "AI analyst", "prompt", "RLHF", "AI quality", "annotation",
-    "data labeling", "AI QA", "model evaluation",
-]
+# Kept short to stay within Adzuna's free-tier daily call budget.
+SEARCH_TERMS = ["AI trainer", "data annotation", "LLM", "AI analyst"]
+
+# Adzuna countries to query → gives INTERNATIONAL coverage + salary data.
+# Each entry: country code -> currency the API returns salaries in.
+# in=India, us=USA, gb=UK, ca=Canada, au=Australia, de=Germany, sg=Singapore.
+ADZUNA_COUNTRIES = {
+    "in": "INR", "us": "USD", "gb": "GBP",
+    "ca": "CAD", "au": "AUD", "de": "EUR",
+}
 
 
 def http_get_json(url, data=None, headers=None):
@@ -48,7 +53,8 @@ def strip_html(s):
     return s.strip()
 
 
-def norm(id, title, company, location, work_type, url, date, description, tags, source):
+def norm(id, title, company, location, work_type, url, date, description, tags, source,
+         salary_min=None, salary_max=None, salary_currency=None, salary_period=None):
     return {
         "id": id,
         "title": title or "",
@@ -60,6 +66,10 @@ def norm(id, title, company, location, work_type, url, date, description, tags, 
         "description": strip_html(description)[:1200],
         "tags": tags or [],
         "source": source,
+        "salaryMin": salary_min,
+        "salaryMax": salary_max,
+        "salaryCurrency": salary_currency,
+        "salaryPeriod": salary_period,
     }
 
 
@@ -124,7 +134,7 @@ def guess_work_type(text):
 
 
 def fetch_adzuna():
-    """India + on-site coverage. Requires ADZUNA_APP_ID / ADZUNA_APP_KEY."""
+    """International coverage (multiple countries) + salary. Requires keys."""
     app_id = os.environ.get("ADZUNA_APP_ID")
     app_key = os.environ.get("ADZUNA_APP_KEY")
     if not app_id or not app_key:
@@ -133,32 +143,35 @@ def fetch_adzuna():
 
     out = []
     seen = set()
-    for term in SEARCH_TERMS:
-        try:
-            params = urllib.parse.urlencode({
-                "app_id": app_id, "app_key": app_key,
-                "results_per_page": 25, "what": term,
-                "content-type": "application/json", "max_days_old": 14,
-                "sort_by": "date",
-            })
-            # country "in" = India. Change to gb/us/etc for other markets.
-            d = http_get_json(f"https://api.adzuna.com/v1/api/jobs/in/search/1?{params}")
-            for j in d.get("results", []):
-                jid = f"adzuna:{j.get('id')}"
-                if jid in seen:
-                    continue
-                seen.add(jid)
-                loc = (j.get("location") or {}).get("display_name", "")
-                desc = j.get("description") or ""
-                out.append(norm(
-                    jid, j.get("title"), (j.get("company") or {}).get("display_name"),
-                    loc, guess_work_type(f"{j.get('title','')} {desc} {loc}"),
-                    j.get("redirect_url"), j.get("created"),
-                    desc, [j.get("category", {}).get("label", "")], "Adzuna (India)",
-                ))
-            time.sleep(0.4)  # be polite to the API
-        except Exception as e:
-            print(f"[adzuna:{term}] {e}", file=sys.stderr)
+    for country, currency in ADZUNA_COUNTRIES.items():
+        for term in SEARCH_TERMS:
+            try:
+                params = urllib.parse.urlencode({
+                    "app_id": app_id, "app_key": app_key,
+                    "results_per_page": 25, "what": term,
+                    "content-type": "application/json", "max_days_old": 21,
+                    "sort_by": "date",
+                })
+                d = http_get_json(f"https://api.adzuna.com/v1/api/jobs/{country}/search/1?{params}")
+                for j in d.get("results", []):
+                    jid = f"adzuna:{country}:{j.get('id')}"
+                    if jid in seen:
+                        continue
+                    seen.add(jid)
+                    loc = (j.get("location") or {}).get("display_name", "")
+                    desc = j.get("description") or ""
+                    out.append(norm(
+                        jid, j.get("title"), (j.get("company") or {}).get("display_name"),
+                        loc, guess_work_type(f"{j.get('title','')} {desc} {loc}"),
+                        j.get("redirect_url"), j.get("created"),
+                        desc, [j.get("category", {}).get("label", "")],
+                        f"Adzuna ({country.upper()})",
+                        salary_min=j.get("salary_min"), salary_max=j.get("salary_max"),
+                        salary_currency=currency, salary_period="year",
+                    ))
+                time.sleep(0.3)  # be polite + stay under rate limits
+            except Exception as e:
+                print(f"[adzuna:{country}:{term}] {e}", file=sys.stderr)
     return out
 
 

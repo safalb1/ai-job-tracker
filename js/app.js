@@ -12,6 +12,7 @@ const els = {
   results: document.getElementById("results"),
   search: document.getElementById("search"),
   workType: document.getElementById("workType"),
+  salary: document.getElementById("salary"),
   sort: document.getElementById("sort"),
   indiaOnly: document.getElementById("indiaOnly"),
   refresh: document.getElementById("refreshBtn"),
@@ -32,7 +33,7 @@ async function load() {
   const { jobs, report } = await fetchAllJobs();
   renderSourceReport(report);
 
-  state.allMatches = matchJobs(jobs, PROFILE);
+  state.allMatches = matchJobs(jobs, PROFILE).map((j) => ({ ...j, salary: getJobSalary(j) }));
   state.loadedAt = new Date();
   els.lastUpdated.textContent = `Updated ${state.loadedAt.toLocaleTimeString()} · ${state.allMatches.length} matches`;
 
@@ -43,12 +44,21 @@ async function load() {
 function applyFilters() {
   const q = els.search.value.trim().toLowerCase();
   const wt = els.workType.value;
+  const salaryMode = els.salary.value;
+  const floor = PROFILE.minSalaryInrPerMonth;
   const indiaOnly = els.indiaOnly.checked;
 
   let list = state.allMatches.filter((j) => {
     if (wt !== "all" && j.workType !== wt) {
       // 'unknown' work type: only show under "All"
       return false;
+    }
+    // Salary filter (all figures already normalised to INR/month).
+    if (salaryMode === "stated30k") {
+      if (!j.salary.known || j.salary.monthlyInr < floor) return false;
+    } else if (salaryMode === "min30k") {
+      // keep unstated; drop only those explicitly below the floor
+      if (j.salary.known && j.salary.monthlyInr < floor) return false;
     }
     if (indiaOnly && !/india|bengaluru|bangalore|mumbai|delhi|pune|hyderabad|chennai|noida|gurgaon|kolkata|remote|anywhere/i.test(j.location)) {
       return false;
@@ -62,6 +72,8 @@ function applyFilters() {
 
   if (els.sort.value === "newest") {
     list = [...list].sort((a, b) => (b.date?.getTime() || 0) - (a.date?.getTime() || 0));
+  } else if (els.sort.value === "salary") {
+    list = [...list].sort((a, b) => (b.salary.monthlyInr || -1) - (a.salary.monthlyInr || -1));
   }
 
   state.filtered = list;
@@ -106,6 +118,7 @@ function cardHtml(job) {
       </div>
       <div class="meta">
         <span class="tag work-${wt}">${escapeHtml(wtLabel)}</span>
+        ${job.salary.known ? `<span class="tag salary">💰 ${escapeHtml(job.salary.display)}</span>` : ""}
         ${job.location ? `<span class="tag">📍 ${escapeHtml(truncate(job.location, 30))}</span>` : ""}
         <span class="tag source">${escapeHtml(job.source)}</span>
         <span class="tag">🕒 ${dateStr}</span>
@@ -155,6 +168,7 @@ function timeAgo(date) {
 els.refresh.addEventListener("click", load);
 els.search.addEventListener("input", debounce(applyFilters, 200));
 els.workType.addEventListener("change", applyFilters);
+els.salary.addEventListener("change", applyFilters);
 els.sort.addEventListener("change", applyFilters);
 els.indiaOnly.addEventListener("change", applyFilters);
 els.modalClose.addEventListener("click", closeModal);

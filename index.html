@@ -30,9 +30,15 @@
       <option value="hybrid">Hybrid</option>
       <option value="onsite">On-site</option>
     </select>
+    <select id="salary">
+      <option value="min30k">Salary ≥ ₹30k/mo (or unstated)</option>
+      <option value="stated30k">Stated salary ≥ ₹30k/mo only</option>
+      <option value="any">Any salary</option>
+    </select>
     <select id="sort">
       <option value="best">Best match</option>
       <option value="newest">Newest first</option>
+      <option value="salary">Highest salary</option>
     </select>
     <label class="chk"><input type="checkbox" id="indiaOnly" /> India only</label>
   </section>
@@ -67,6 +73,7 @@
   </div>
 
   <script src="js/profile.js"></script>
+  <script src="js/salary.js"></script>
   <script src="js/sources.js"></script>
   <script src="js/matcher.js"></script>
   <script src="js/coverletter.js"></script>

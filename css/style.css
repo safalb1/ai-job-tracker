@@ -154,6 +154,7 @@ body {
 .tag.work-hybrid { color: var(--warn); }
 .tag.work-onsite { color: var(--accent); }
 .tag.source { color: #c4b5fd; }
+.tag.salary { color: var(--accent-2); border-color: #20543f; font-weight: 600; }
 
 .matched-terms { display: flex; flex-wrap: wrap; gap: 5px; }
 .matched-terms .mt {

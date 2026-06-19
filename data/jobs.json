@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-06-19T05:37:53.118267+00:00",
+ "generatedAt": "2026-06-19T05:55:56.377338+00:00",
  "count": 232,
  "jobs": [
   {
@@ -20,7 +20,11 @@
     "testing",
     "catalyst"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:1919265",
@@ -39,7 +43,11 @@
     "testing",
     "catalyst"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090991",
@@ -71,7 +79,11 @@
     "jest",
     "REST"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2069746",
@@ -108,7 +120,11 @@
     "github",
     "system architecture"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090881",
@@ -129,7 +145,11 @@
     "infrastructure",
     "insurance"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090989",
@@ -146,7 +166,11 @@
     "data entry",
     "outlook"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090983",
@@ -163,7 +187,11 @@
     "marketplace",
     "fundraising"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:1680495",
@@ -195,7 +223,11 @@
     "jQuery",
     "Ajax"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090988",
@@ -216,7 +248,11 @@
     "editing",
     "diversity"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090982",
@@ -257,7 +293,11 @@
     "NumPy",
     "marketplace"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:1956455",
@@ -286,7 +326,11 @@
     "MVVM",
     "mobile development"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090949",
@@ -304,7 +348,11 @@
     "financial services",
     "C-Suite"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2086540",
@@ -321,7 +369,11 @@
     "financial services",
     "Inside Sales"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090945",
@@ -337,7 +389,11 @@
     "social media",
     "research"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090946",
@@ -353,7 +409,11 @@
     "social media",
     "research"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090944",
@@ -369,7 +429,11 @@
     "social media",
     "research"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:1185979",
@@ -383,7 +447,11 @@
    "tags": [
     "REST"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090943",
@@ -404,7 +472,11 @@
     "performance management",
     "sales leadership"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:1749306",
@@ -427,7 +499,11 @@
     "insurance",
     "G Suite"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090910",
@@ -460,7 +536,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090911",
@@ -493,7 +573,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090909",
@@ -526,7 +610,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090912",
@@ -559,7 +647,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090942",
@@ -576,7 +668,11 @@
     "fundraising",
     "testing"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090913",
@@ -609,7 +705,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090899",
@@ -643,7 +743,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090900",
@@ -677,7 +781,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090901",
@@ -711,7 +819,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090903",
@@ -727,7 +839,11 @@
     "digital content",
     "spreadsheets"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090902",
@@ -761,7 +877,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090890",
@@ -795,7 +915,11 @@
     "REST",
     "datadog"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "remotive:2090887",
@@ -819,7 +943,11 @@
     "REST",
     "insurance"
    ],
-   "source": "Remotive"
+   "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:junior-produktmanagerin-b2c-commodity-customer-experience-bergisch-gladbach-451919",
@@ -834,7 +962,11 @@
     "Product Management",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:mitarbeiter-operatorenzentrale-sachbearbeitung-senden-295612",
@@ -849,7 +981,11 @@
     "Consulting",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:microsoft-365-azure-administratorin-oberboihingen-93533",
@@ -864,7 +1000,11 @@
     "Applications Administration",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:team-lead-ticketing-kundenmanagement-berlin-29126",
@@ -879,7 +1019,11 @@
     "Customer Service",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:data-analyst-bergisch-gladbach-424926",
@@ -894,7 +1038,11 @@
     "Data Scientist",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:assistenz-mit-schwerpunkt-marketing-rimpar-23248",
@@ -909,7 +1057,11 @@
     "Marketing and Communication",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:online-marketing-manager-customer-success-frankfurt-am-main-493516",
@@ -924,7 +1076,11 @@
     "Marketing and Communication",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:senior-sea-manager-google-ads-pmax-ai-advertising-100-remote-stuttgart-485107",
@@ -939,7 +1095,11 @@
     "Remote",
     "Online Marketing"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:head-of-paid-search-ai-advertising-100-remote-voll-oder-teilzeit-stuttgart-460879",
@@ -955,7 +1115,11 @@
     "Management",
     "Team Leader"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:full-stack-developer-berlin-338700",
@@ -971,7 +1135,11 @@
     "Software Development",
     "professional / experienced"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:technical-recruiter-engineering-munich-424090",
@@ -988,7 +1156,11 @@
     "Full-time permanent",
     "mid"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudentin-content-marketing-munich-382451",
@@ -1003,7 +1175,11 @@
     "Marketing and Communication",
     "Working student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudentin-performance-marketing-munich-244769",
@@ -1019,7 +1195,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:staff-software-engineer-berlin-131553",
@@ -1036,7 +1216,11 @@
     "Full-time permanent",
     "experienced"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudentin-quality-assurance-grafik-content-gesucht-kassel-29845",
@@ -1053,7 +1237,11 @@
     "Temporary",
     "student (college)"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:analyst-umwelt-energie-nachhaltigkeitsmanagement-all-genders-kronberg-222544",
@@ -1068,7 +1256,11 @@
     "Power Engineering and Environmental Engineering",
     "berufseinstieg"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:blockchain-developer-base-berlin-449610",
@@ -1085,7 +1277,11 @@
     "Contract",
     "professional / experienced"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-marketing-kommunikation-content-management-monchengladbach-314970",
@@ -1101,7 +1297,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:social-media-manager-vollzeit-augsburg-304629",
@@ -1115,7 +1315,11 @@
    "tags": [
     "Social Media Manager"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:systemadministrator-in-vollzeit-frankfurt-am-main-41426",
@@ -1132,7 +1336,11 @@
     "Full-time permanent",
     "experienced"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:fachinformatiker-in-vollzeit-frankfurt-am-main-109337",
@@ -1149,7 +1357,11 @@
     "Full-time permanent",
     "experienced"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:people-office-manager-cologne-388758",
@@ -1163,7 +1375,11 @@
    "tags": [
     "Administration and Secretariat"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-is-u-consultant-dortmund-94821",
@@ -1178,7 +1394,11 @@
     "Business Consulting",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:senior-go-backend-developer-hamburg-337563",
@@ -1193,7 +1413,11 @@
     "Software Development",
     "professional / experienced"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:senior-sap-developer-frankfurt-am-main-496690",
@@ -1210,7 +1434,11 @@
     "Development",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:principal-game-programmer-frankfurt-am-main-303768",
@@ -1225,7 +1453,11 @@
     "Remote",
     "IT"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:abap-entwickler-hamburg-161060",
@@ -1239,7 +1471,11 @@
    "tags": [
     "IT"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-pp-berater-wurzburg-472168",
@@ -1253,7 +1489,11 @@
    "tags": [
     "IT"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-fico-consultant-hamburg-303617",
@@ -1268,7 +1508,11 @@
     "Business Consulting",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-beraterin-frankfurt-am-main-497384",
@@ -1283,7 +1527,11 @@
     "Remote",
     "IT"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-ewm-consultant-frankfurt-am-main-162555",
@@ -1299,7 +1547,11 @@
     "Business Consulting",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-entwicklerin-frankfurt-am-main-206045",
@@ -1314,7 +1566,11 @@
     "Remote",
     "IT"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-abap-sd-entwickler-berater-mannheim-193128",
@@ -1328,7 +1584,11 @@
    "tags": [
     "IT"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-business-analyst-aachen-49926",
@@ -1343,7 +1603,11 @@
     "Business Analyst",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:system-engineer-windows-citrix-frankfurt-am-main-275012",
@@ -1358,7 +1622,11 @@
     "IT",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-hcm-consultant-hamburg-181954",
@@ -1373,7 +1641,11 @@
     "Business Consulting",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:solutions-architect-frankfurt-am-main-172032",
@@ -1389,7 +1661,11 @@
     "Software Development",
     "executive"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-s-4hana-inhouse-consultant-hanover-198996",
@@ -1404,7 +1680,11 @@
     "Business Consulting",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:projektingenieur-anlagenbau-rohrleitungsbau-dinklage-285098",
@@ -1418,7 +1698,11 @@
    "tags": [
     "Engineering"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudentin-content-creation-cologne-495392",
@@ -1434,7 +1718,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:junior-finance-consultant-gn-it-branche-berlin-1359",
@@ -1449,7 +1737,11 @@
     "Consulting",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-digitalisierung-40-60-neuenstadt-am-kocher-475518",
@@ -1464,7 +1756,11 @@
     "Process Management",
     "Working student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:steuerberater-ki-und-digitale-zukunft-dresden-67810",
@@ -1478,7 +1774,11 @@
    "tags": [
     "Finance"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:prufungsassistent-gemeinsam-bilanz-ziehen-und-zukunft-gestalten-bremen-51058",
@@ -1492,7 +1792,11 @@
    "tags": [
     "Finance"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:ankommen-statt-abarbeiten-lohnbuchhalter-gesucht-cologne-103807",
@@ -1506,7 +1810,11 @@
    "tags": [
     "Finance"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:kommunikationsdesigner-online-und-print-baesweiler-52294",
@@ -1520,7 +1828,11 @@
    "tags": [
     "Marketing and Communication"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:ki-entwickler-ai-engineer-fur-projekte-im-mittelstand-berlin-60205",
@@ -1536,7 +1848,11 @@
     "Consulting",
     "Engineering"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werksstudentenstelle-im-bereich-energiesysteme-kundenprojekte-15-20h-woche-cologne-384735",
@@ -1552,7 +1868,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:business-central-entwickler-marsberg-37893",
@@ -1568,7 +1888,11 @@
     "Development",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:burokauffrau-kaufmann-fur-die-buchhaltung-regensburg-52466",
@@ -1582,7 +1906,11 @@
    "tags": [
     "Finance"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:teamlead-crm-marketing-bremen-360975",
@@ -1598,7 +1926,11 @@
     "Direct Marketing",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:financial-analyst-hamburg-428170",
@@ -1612,7 +1944,11 @@
    "tags": [
     "Finance"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-drohnentechnik-elektronik-software-eberstadt-313718",
@@ -1627,7 +1963,11 @@
     "Engineering",
     "Working student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:senior-product-manager-connectivity-all-genders-berlin-66889",
@@ -1642,7 +1982,11 @@
     "Marketing and Communication",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-marketing-munich-410950",
@@ -1657,7 +2001,11 @@
     "Marketing and Communication",
     "Working student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:fachinformatiker-systemintegration-berlin-174492",
@@ -1671,7 +2019,11 @@
    "tags": [
     "System and Network Administration"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:mitarbeiter-finanzcontrolling-im-bereich-qualitatsmanagement-baesweiler-369236",
@@ -1685,7 +2037,11 @@
    "tags": [
     "Finance"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:senior-software-engineer-kotlinjava-munich-274953",
@@ -1697,7 +2053,11 @@
    "date": "2026-06-18T13:45:26+00:00",
    "description": "We're looking for a talented Senior Software Engineer with strong Kotlin skills (or&nbsp;Java&nbsp;and willing to learn Kotlin) to join us in Berlin or Munich. &nbsp; In the Foundation Division of FlixTech, our Finance Technology Stream helps the business grow efficiently by delivering smart, compliant, and automated finance solutions. We keep things simple for our internal users so they can spend less time on manual tasks and more time on what matters. The team you will join is not focused on user-facing experiences or polished UIs. Our success is measured by data correctness, consistency, and trustworthiness, even in complex and evolving business scenarios.&nbsp;You'll&nbsp;be part of a self-managed, cross-functional team with a Product Owner and fellow Software Engineers, directly supporting new country launches, new business models, and the continuous evolution of Flix's financial backbone. &nbsp; This role is well-suited for someone who enjoys ownership, working close to real business problems, and contributing to the long-term foundations of an international company. If you value collaboration, thoughtful engineering, and building systems that need to be right, not just fast,",
    "tags": [],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:senior-software-engineer-kotlinjava-berlin-325662",
@@ -1709,7 +2069,11 @@
    "date": "2026-06-18T13:45:26+00:00",
    "description": "We're looking for a talented Senior Software Engineer with strong Kotlin skills (or&nbsp;Java&nbsp;and willing to learn Kotlin) to join us in Berlin or Munich. &nbsp; In the Foundation Division of FlixTech, our Finance Technology Stream helps the business grow efficiently by delivering smart, compliant, and automated finance solutions. We keep things simple for our internal users so they can spend less time on manual tasks and more time on what matters. The team you will join is not focused on user-facing experiences or polished UIs. Our success is measured by data correctness, consistency, and trustworthiness, even in complex and evolving business scenarios.&nbsp;You'll&nbsp;be part of a self-managed, cross-functional team with a Product Owner and fellow Software Engineers, directly supporting new country launches, new business models, and the continuous evolution of Flix's financial backbone. &nbsp; This role is well-suited for someone who enjoys ownership, working close to real business problems, and contributing to the long-term foundations of an international company. If you value collaboration, thoughtful engineering, and building systems that need to be right, not just fast,",
    "tags": [],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:business-development-managerin-filderstadt-421206",
@@ -1725,7 +2089,11 @@
     "Business Development",
     "manager"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:finanzberater-im-nebenberuf-bis-hin-zum-hauptberuf-schweinfurt-453846",
@@ -1741,7 +2109,11 @@
     "Fonds Management",
     "berufseinstieg"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:mediengestalter-online-und-print-baesweiler-13286",
@@ -1755,7 +2127,11 @@
    "tags": [
     "Marketing and Communication"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudentin-social-media-marketing-15-20h-woche-hanover-128103",
@@ -1771,7 +2147,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:projektmanager-technisches-projektmanagement-fokus-offshore-netzanbindung-molbergen-101674",
@@ -1785,7 +2165,11 @@
    "tags": [
     "Project Management"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:projektmanagerin-stadtmarketing-in-teilzeit-60-bremen-427292",
@@ -1800,7 +2184,11 @@
     "Project Management",
     "teamleitung"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:junior-frontend-developer-e-commerce-shopify-frankfurt-146360",
@@ -1817,7 +2205,11 @@
     "Full-time permanent",
     "entry"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:junior-shopify-developer-frontend-frankfurt-382941",
@@ -1834,7 +2226,11 @@
     "Full-time permanent",
     "entry"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-grafik-design-regensburg-324378",
@@ -1851,7 +2247,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:ai-engineer-trainee-munich-272130",
@@ -1865,7 +2265,11 @@
    "tags": [
     "Process Management"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:marketing-generalist-ai-first-munich-76838",
@@ -1879,7 +2283,11 @@
    "tags": [
     "Marketing and Communication"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-automatisierung-ki-regensburg-265888",
@@ -1894,7 +2302,11 @@
     "Process Management",
     "Working student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:technical-marketing-managerin-websites-tracking-automation-munich-79763",
@@ -1909,7 +2321,11 @@
     "Web Development",
     "teamleitung"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:elektriker-mechatroniker-schmolln-234791",
@@ -1924,7 +2340,11 @@
     "IT",
     "berufseinstieg"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:landwirt-als-immissionsgutachter-syke-403274",
@@ -1938,7 +2358,11 @@
    "tags": [
     "Engineering"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:offentlichkeitsarbeit-fur-architektur-und-stadtentwicklungsburo-munchen-481289",
@@ -1954,7 +2378,11 @@
     "Corporate Communication",
     "Freelance"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-web-entwickler-regensburg-387085",
@@ -1970,7 +2398,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:kubernetes-platform-engineer-dresden-82567",
@@ -1985,7 +2417,11 @@
     "Information Systems",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:video-editorin-all-genders-pflichtpraktikum-frankfurt-am-main-127283",
@@ -2001,7 +2437,11 @@
     "Internship",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:inhouse-netzwerk-security-engineer-fur-firewalls-in-der-aws-cloud-cologne-197554",
@@ -2015,7 +2455,11 @@
    "tags": [
     "System and Network Administration"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:video-editorin-all-genders-werkstudentin-frankfurt-am-main-229880",
@@ -2031,7 +2475,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:head-of-finance-berlin-302331",
@@ -2046,7 +2494,11 @@
     "Finance",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:weg-und-mietenbuchhalter-berlin-350931",
@@ -2061,7 +2513,11 @@
     "Accounts Receivable",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:video-editorin-all-genders-vollzeit-frankfurt-am-main-483015",
@@ -2076,7 +2532,11 @@
     "Marketing and Communication",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:finanzberater-im-nebenberuf-wiesentheid-430164",
@@ -2091,7 +2551,11 @@
     "Private Banking",
     "berufseinstieg"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-customer-management-pulsnitz-442757",
@@ -2108,7 +2572,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-operatives-risk-pulsnitz-440830",
@@ -2125,7 +2593,11 @@
     "Working student",
     "hilfstätigkeit / student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:customer-risk-manager-im-finanzsektor-pulsnitz-482357",
@@ -2141,7 +2613,11 @@
     "Security",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:erfahrner-sea-manager-google-ads-gesucht-100-remote-vollzeit-sinsheim-277551",
@@ -2156,7 +2632,11 @@
     "Remote",
     "Marketing and Communication"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:amazon-e-commerce-manager-in-salzkotten-360863",
@@ -2171,7 +2651,11 @@
     "Distribution Marketing",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:teamleiter-customer-service-dresden-189905",
@@ -2187,7 +2671,11 @@
     "Team Leader",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:it-projektleiter-business-analyst-produktionssoftware-dresden-147251",
@@ -2202,7 +2690,11 @@
     "Project Management",
     "teamleitung"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:werkstudent-e-commerce-produktmanagement-softwareentwicklung-neumarkt-in-der-oberpfalz-383054",
@@ -2217,7 +2709,11 @@
     "Web Development",
     "Working student"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:immobiliengutachter-in-voll-und-teilzeit-haltern-am-see-183665",
@@ -2232,7 +2728,11 @@
     "Finance",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:it-und-e-commerce-allrounder-paderborn-332854",
@@ -2246,7 +2746,11 @@
    "tags": [
     "Applications Administration"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:head-of-production-werkstatt-produktionsleitung-sankt-egidien-154467",
@@ -2261,7 +2765,11 @@
     "Management",
     "Team Leader"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:senior-fullstack-developer-nuremberg-279222",
@@ -2275,7 +2783,11 @@
    "tags": [
     "Software Development"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:design-system-designer-fluegede-leipzig-307228",
@@ -2290,7 +2802,11 @@
     "Graphic Arts and Communication Design",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:customer-quality-engineer-gn-wallerfing-242976",
@@ -2305,7 +2821,11 @@
     "Quality Management",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:sap-is-u-s-4-utilities-consultant-remlingen-391830",
@@ -2322,7 +2842,11 @@
     "Engineering",
     "berufserfahren"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "arbeitnow:performance-marketing-lead-munich-312900",
@@ -2337,7 +2861,11 @@
     "Remote",
     "Marketing and Communication"
    ],
-   "source": "Arbeitnow"
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143884",
@@ -2349,7 +2877,11 @@
    "date": "2026-06-18T23:31:43+00:00",
    "description": "Job DescriptionJob SummaryThe Risk &amp; Quality Performance Manager position will support Molina&#8217;s Risk &amp; Quality Solutions (RQS) team. This position collaborates with various departments and stakeholders within Molina to plan,...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143892",
@@ -2361,7 +2893,11 @@
    "date": "2026-06-18T22:56:42+00:00",
    "description": "General information Requisition # R67723 Locations USA-Remote Work Posting Date 05/13/2026 Security Clearance Required None Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143896",
@@ -2373,7 +2909,11 @@
    "date": "2026-06-18T22:51:43+00:00",
    "description": "Our data centers are the foundation upon which our rapidly scaling infrastructure efficiently delivers our innovative services. Meta’s Energy Team is seeking a commercially-experienced and self-motivated energy professional to help...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143911",
@@ -2385,7 +2925,11 @@
    "date": "2026-06-18T22:11:45+00:00",
    "description": "Company DescriptionCint is a pioneer in research technology (ResTech). Our customers use the Cint platform to post questions and get answers from real people to build business strategies, confidently publish...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143913",
@@ -2397,7 +2941,11 @@
    "date": "2026-06-18T22:06:44+00:00",
    "description": "JOB DESCRIPTION:About AbbottAbbott is a global healthcare leader, creating breakthrough science to improve people’s health. We’re always looking towards the future, anticipating changes in medical science and technology.The Opportunity Abbott...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143977",
@@ -2409,7 +2957,11 @@
    "date": "2026-06-18T21:21:42+00:00",
    "description": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143979",
@@ -2421,7 +2973,11 @@
    "date": "2026-06-18T21:16:41+00:00",
    "description": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143991",
@@ -2433,7 +2989,11 @@
    "date": "2026-06-18T20:41:41+00:00",
    "description": "About ZuoraAt Zuora, we help businesses grow smarter and adapt faster. Our platform powers modern business models — from subscriptions and usage-based pricing to AI-driven and outcome-based offerings — helping...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144085",
@@ -2445,7 +3005,11 @@
    "date": "2026-06-18T19:56:42+00:00",
    "description": "Who we are:Formic is on a mission to reshape American manufacturing by making automation accessible to every factory. As labor constraints rise, costs increase, and global competition intensifies, automation is...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144089",
@@ -2457,7 +3021,11 @@
    "date": "2026-06-18T19:51:42+00:00",
    "description": "Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147195",
@@ -2469,7 +3037,11 @@
    "date": "2026-06-18T19:04:06+00:00",
    "description": "Description In order to deliver an exceptional customer experience, a leader creates a culture of engagement by inspiring passion in others. A leader explores opportunities to continuously improve within a...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147194",
@@ -2481,7 +3053,11 @@
    "date": "2026-06-18T19:04:05+00:00",
    "description": "Adjoint Professor, ASCENT Consortium(Job Number: 40262)Description University of Colorado AnschutzDepartment: Medicine, Division of General Internal MedicineJob Title: Adjoint Professor, ASCENT ConsortiumPosition #00801190 – Requisition #40262Job Summary:This part-time Adjoint Professor position will serve as a...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147193",
@@ -2493,7 +3069,11 @@
    "date": "2026-06-18T19:04:03+00:00",
    "description": "Advanced Practice Provider/(PA/NP)/Department of Medicine/General Internal Medicine/Instructor &#8211; Sr Instructor(Job Number: 40259)Description University of Colorado AnschutzDepartment: Medicine &#8211; General Internal MedicineJob Title: Advanced Practice Provider/(PA/NP)/Department of Medicine/General Internal Medicine/Instructor &#8211; Sr InstructorPosition #00702750 –...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147192",
@@ -2505,7 +3085,11 @@
    "date": "2026-06-18T19:04:01+00:00",
    "description": "Adjoint Professor, ASCENT Consortium &#8211; 40262 Faculty Description University of Colorado AnschutzDepartment: Medicine, Division of General Internal MedicineJob Title: Adjoint Professor, ASCENT ConsortiumPosition #00801190 – Requisition #40262Job Summary:This part-time Adjoint Professor position will serve as a Core...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147191",
@@ -2517,7 +3101,11 @@
    "date": "2026-06-18T19:03:59+00:00",
    "description": "Advanced Practice Provider/(PA/NP)/Department of Medicine/General Internal Medicine/Instructor &#8211; Sr Instructor &#8211; 40259 Faculty Description University of Colorado AnschutzDepartment: Medicine &#8211; General Internal MedicineJob Title: Advanced Practice Provider/(PA/NP)/Department of Medicine/General Internal Medicine/Instructor &#8211; Sr InstructorPosition #00702750 – Requisition...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147190",
@@ -2529,7 +3117,11 @@
    "date": "2026-06-18T19:03:58+00:00",
    "description": "Grow with us AI SoC Hardware ArchitectThe Architect Who Closes the Gap. The Engineer Who Makes Silicon Inevitable.Location: Austin, TX Team: Cross-functional leadership across Model Engineering, AI Infrastructure, and Silicon ArchitectureThe...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147189",
@@ -2541,7 +3133,11 @@
    "date": "2026-06-18T19:03:56+00:00",
    "description": "Grow with us AI Compiler Engineer — Research TeamAustin, TexasThis is not a remote work opportunity.MLIR Architecture | Compiler Infrastructure | 5G/6G Silicon | Bare-Metal AIThe MissionMost AI compiler engineers...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147188",
@@ -2553,7 +3149,11 @@
    "date": "2026-06-18T19:03:54+00:00",
    "description": "Skills: Node.js, TypeScriptInfisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era.We&#8217;re building a generational company with...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147187",
@@ -2565,7 +3165,11 @@
    "date": "2026-06-18T19:03:53+00:00",
    "description": "Overview We are seeking a detail-oriented and proactive Procurement Operations Coordinator to support the accurate processing, tracking, and reporting of purchase orders across multiple customer projects. This role serves as...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147186",
@@ -2577,7 +3181,11 @@
    "date": "2026-06-18T19:03:51+00:00",
    "description": "Grow with us System DeveloperLocation: Ottawa, ON. At this time, Ericsson Canada Inc. does not provide immigration assistance/sponsorship now or in the future for this positionPlease upload your unofficial transcript when...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144466",
@@ -2589,7 +3197,11 @@
    "date": "2026-06-18T18:51:43+00:00",
    "description": "Company DescriptionExperian is a global data and technology company, powering opportunities for people and businesses around the world. We help to redefine lending practices, uncover and prevent fraud, simplify healthcare,...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144968",
@@ -2601,7 +3213,11 @@
    "date": "2026-06-18T17:06:42+00:00",
    "description": "Job Requisition ID #26WD97758We are seeking a Finance Manager to join the Global Enterprise Sales Finance Analysis team. This individual contributor role focuses on developing scalable reporting and delivering high-quality...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144972",
@@ -2613,7 +3229,11 @@
    "date": "2026-06-18T17:01:42+00:00",
    "description": "Would you like develop innovative technology?Do you enjoy networking with a wide range of people?Join our Engineering and Technology teamASPIRE, our Emerging Talent development program, focuses on accelerating the careers...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:146855",
@@ -2625,7 +3245,11 @@
    "date": "2026-06-18T09:51:44+00:00",
    "description": "SOTI is committed to providing its employees with endless possibilities; learning new things, working with the latest technologies and making a difference in the world.Job Title: Sales EngineerLocation: Netherlands, RemoteEmployment...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143808",
@@ -2637,7 +3261,11 @@
    "date": "2026-06-18T08:26:43+00:00",
    "description": "We are seeking a candidate for a key leadership role in scheduling for a portfolio of Data Center projects of strategic importance to Meta. The Schedule lead will act as...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143809",
@@ -2649,7 +3277,11 @@
    "date": "2026-06-18T08:11:45+00:00",
    "description": "Dayforce is a global human capital management (HCM) company headquartered in Toronto, Ontario, and Minneapolis, Minnesota, with operations across North America, Europe, Middle East, Africa (EMEA), and the Asia Pacific...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143813",
@@ -2661,7 +3293,11 @@
    "date": "2026-06-18T08:01:41+00:00",
    "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143885",
@@ -2673,7 +3309,11 @@
    "date": "2026-06-18T07:41:42+00:00",
    "description": "General information Name Payroll Associate Posting Title Payroll Associate Ref # 2236775 Date Published Monday, May 11, 2026 Close Date 07/14/2026 Job Category Internal Firm Services Advertised Location US-Remote Working...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143887",
@@ -2685,7 +3325,11 @@
    "date": "2026-06-18T07:36:42+00:00",
    "description": "General information Requisition # R67728 Locations USA-Remote Work Posting Date 05/13/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143893",
@@ -2697,7 +3341,11 @@
    "date": "2026-06-18T07:11:42+00:00",
    "description": "General information Requisition # R67619 Locations USA-Remote Work Posting Date 05/14/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143895",
@@ -2709,7 +3357,11 @@
    "date": "2026-06-18T07:06:42+00:00",
    "description": "General information Requisition # R67617 Locations USA-Remote Work Posting Date 05/14/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description &amp; Requirements Shape the future of...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143908",
@@ -2721,7 +3373,11 @@
    "date": "2026-06-18T07:01:49+00:00",
    "description": "Who we areSamsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143906",
@@ -2733,7 +3389,11 @@
    "date": "2026-06-18T07:01:48+00:00",
    "description": "Senior Software EngineerLocation: Vilnius or Kaunas (Office-Based/Hybrid)Position Summary:We are seeking a Senior Software Engineer to design, build, and evolve core components of iModel Cloud Sync Services. This role focuses on...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143900",
@@ -2745,7 +3405,11 @@
    "date": "2026-06-18T07:01:46+00:00",
    "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.We&#8217;re looking for...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143973",
@@ -2757,7 +3421,11 @@
    "date": "2026-06-18T06:56:50+00:00",
    "description": "The Financial Analyst II plays a key role in providing financial analysis and operational support to senior management and executives. This individual supports the development and coordination of the company’s...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143967",
@@ -2769,7 +3437,11 @@
    "date": "2026-06-18T06:56:47+00:00",
    "description": "About the role:Gartner Analysts are industry thought leaders who create must-have insights, market predictions and best practices for a broad range of world-leading organizations. A Vice President serves as a...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143968",
@@ -2781,7 +3453,11 @@
    "date": "2026-06-18T06:56:46+00:00",
    "description": "The Senior Financial Analyst will play a critical role as a strategic finance partner to business leaders, providing insight, ownership, and financial leadership to support PROS’ continued profitable growth. This...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143971",
@@ -2793,7 +3469,11 @@
    "date": "2026-06-18T06:56:45+00:00",
    "description": "Job Requisition ID #26WD98364Enterprise Account ExecutiveJob Requisition SummaryAutodesk is seeking an Enterprise Account Executive to strategically grow and expand relationships across high-value enterprise accounts. This role is responsible for leading comprehensive account...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143969",
@@ -2805,7 +3485,11 @@
    "date": "2026-06-18T06:56:43+00:00",
    "description": "We are looking for an analytical, automation-driven, and technically versatile professional who thrives at the intersection of AI systems, workflow automation, and customer operations. The AI Automation Engineer combines deep...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143989",
@@ -2817,7 +3501,11 @@
    "date": "2026-06-18T06:51:51+00:00",
    "description": "We are seeking a skilled Customer Support Specialist with exceptional communication and interpersonal skills to be the primary point of contact for our clients. This role should be particularly exciting...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143980",
@@ -2829,7 +3517,11 @@
    "date": "2026-06-18T06:51:49+00:00",
    "description": "No Relocation Assistance OfferedJob Number #173342 &#8211; Bangkok, Bangkok, ThailandWho We AreColgate-Palmolive Company is a global consumer products company operating in over 200 countries specializing in Oral Care, Personal Care, Home...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143986",
@@ -2841,7 +3533,11 @@
    "date": "2026-06-18T06:51:48+00:00",
    "description": "At Counterpart Health, we are transforming healthcare and improving patient care with our innovative primary care tool, Counterpart Assistant. By supporting Primary Care Physicians (PCPs), we deliver improved outcomes at...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143983",
@@ -2853,7 +3549,11 @@
    "date": "2026-06-18T06:51:46+00:00",
    "description": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143984",
@@ -2865,7 +3565,11 @@
    "date": "2026-06-18T06:51:45+00:00",
    "description": "The RoleDo you want to work at a high-growth company where your impact is seen and rewarded? Are you looking for the autonomy to do your best work?We are seeking...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:143985",
@@ -2877,7 +3581,11 @@
    "date": "2026-06-18T06:51:43+00:00",
    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144037",
@@ -2889,7 +3597,11 @@
    "date": "2026-06-18T06:46:58+00:00",
    "description": "Meta designs, builds, leases, and operates high-performance, efficient data centers. Locating, developing and managing this data center infrastructure effectively is synonymous with ensuring high uptime, capacity availability, flexibility and capital...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144040",
@@ -2901,7 +3613,11 @@
    "date": "2026-06-18T06:46:55+00:00",
    "description": "About UsFieldguide is establishing a new state of trust for global commerce and capital markets by automating and streamlining the work of assurance and audit practitioners—specifically in cybersecurity, privacy, and...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144041",
@@ -2913,7 +3629,11 @@
    "date": "2026-06-18T06:46:54+00:00",
    "description": "The Opportunity:As a Customer Success Manager at DataGrail, you’ll partner with customers to help them operationalize and scale their privacy programs using our agentic privacy platform. Acting as a trusted...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144042",
@@ -2925,7 +3645,11 @@
    "date": "2026-06-18T06:46:52+00:00",
    "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144043",
@@ -2937,7 +3661,11 @@
    "date": "2026-06-18T06:46:51+00:00",
    "description": "*This is a fully remote position and is only available for people located in LATAM*Insight Assurance is a global audit firm on a mission to transform how organizations achieve cybersecurity and...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144044",
@@ -2949,7 +3677,11 @@
    "date": "2026-06-18T06:46:49+00:00",
    "description": "OUR COMPANY:EOS IT Solutions is a Global Technology and Logistics company, providing Collaboration and Business IT Support services to some of the world’s largest industry leaders, delivering forward-thinking solutions based...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144082",
@@ -2961,7 +3693,11 @@
    "date": "2026-06-18T06:46:48+00:00",
    "description": "About Customer.ioOver 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144098",
@@ -2973,7 +3709,11 @@
    "date": "2026-06-18T06:41:54+00:00",
    "description": "Company Description✨ About Voyage PrivéBorn in France in 2006, Voyage Privé has grown from an ambitious startup into becoming Europe’s leading travel tech platform. Operating across 9 markets with tens of...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144093",
@@ -2985,7 +3725,11 @@
    "date": "2026-06-18T06:41:52+00:00",
    "description": "Company DescriptionAbout M3: A Japanese global leader in the provision of ground-breaking and innovative technological and research solutions to the healthcare industry. The M3 Group operates in the US, Asia, and...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144092",
@@ -2997,7 +3741,11 @@
    "date": "2026-06-18T06:41:51+00:00",
    "description": "Zone &amp; Company Software Consulting LLC (“Zone”) is the ERP-native AI platform for financial operations, purpose-built for organizations running on Oracle NetSuite. We are redefining how finance teams operate by...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144095",
@@ -3009,7 +3757,11 @@
    "date": "2026-06-18T06:41:50+00:00",
    "description": "Who we are At Fortis Games we aspire to make great games that bring people together while redefining how game companies work. We believe in building a sense of belonging...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144090",
@@ -3021,7 +3773,11 @@
    "date": "2026-06-18T06:41:48+00:00",
    "description": "Recruitment Fraud AlertWe’ve learned that scammers are impersonating Commvault team members—including HR and leadership—via email or text. These bad actors may conduct fake interviews and ask for personal information, such...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144099",
@@ -3033,7 +3789,11 @@
    "date": "2026-06-18T06:41:47+00:00",
    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144094",
@@ -3045,7 +3805,11 @@
    "date": "2026-06-18T06:41:45+00:00",
    "description": "Feedzai is the world’s first RiskOps platform for financial risk management, and the market leader in safeguarding global commerce with today’s most advanced cloud-based risk management platform, powered by machine...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144109",
@@ -3057,7 +3821,11 @@
    "date": "2026-06-18T06:36:47+00:00",
    "description": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144110",
@@ -3069,7 +3837,11 @@
    "date": "2026-06-18T06:36:45+00:00",
    "description": "We’re on a mission to make money work for everyone.We’re waving goodbye to the complicated and confusing ways of traditional banking.After starting as a prepaid card, our product offering...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144103",
@@ -3081,7 +3853,11 @@
    "date": "2026-06-18T06:36:44+00:00",
    "description": "AI Engineer &#8211; FDE (Forward Deployed Engineer) (ALL LEVELS)MissionThe AI Forward Deployed Engineering (AI FDE) team is a highly specialized customer-facing AI team at Databricks. We deliver professional services engagements...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144405",
@@ -3093,7 +3869,11 @@
    "date": "2026-06-18T06:26:45+00:00",
    "description": "About the companySide is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in 2009 and...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144503",
@@ -3105,7 +3885,11 @@
    "date": "2026-06-18T06:21:45+00:00",
    "description": "ABOUT QUINCE Founded in 2018, Quince was built to challenge the idea that nice things have to cost a lot. Our mission is simple: to make really high quality essentials...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144483",
@@ -3117,7 +3901,11 @@
    "date": "2026-06-18T06:21:44+00:00",
    "description": "Are you passionate about driving service sales growth and building lasting customer relationships in the pump industry? Then join us in our mission to pioneer smarter solutions for moving and...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144641",
@@ -3129,7 +3917,11 @@
    "date": "2026-06-18T06:17:28+00:00",
    "description": "What this Job Entails: The Field Technician II will provide support to all assigned locations, including data centers and Points of Presence (POPs), and physical site services. The person in this...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144839",
@@ -3141,7 +3933,11 @@
    "date": "2026-06-18T06:06:46+00:00",
    "description": "Libertex Group Overview Established in 1997, the Libertex Group has helped shape the online trading industry by merging innovative technology, market movements and digital trends. The multi-awarded online trading platform, Libertex, enables...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144843",
@@ -3153,7 +3949,11 @@
    "date": "2026-06-18T06:01:42+00:00",
    "description": "Closing Date for Application:Saturday 06/06/2026About UsPolypipe Ulster, part of the Genuit Group, designs and manufactures products for the domestic, commercial, and industrial construction sectors.Our exceptional teams apply their first-class technical,...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144988",
@@ -3165,7 +3965,11 @@
    "date": "2026-06-18T05:51:48+00:00",
    "description": "Company DescriptionWe are a Digital Product Engineering company that is scaling in a big way! We build products, services, and experiences that inspire, excite, and delight. We work at scale...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144973",
@@ -3177,7 +3981,11 @@
    "date": "2026-06-18T05:51:46+00:00",
    "description": "Job TitleClinical Consultant &#8211; Radiology Informatics (PACS)Job DescriptionAs a clinical consultant in our Radiology Informatics organization, you will be responsible for coordinating and implementing activities required to provide application configuration,...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144974",
@@ -3189,7 +3997,11 @@
    "date": "2026-06-18T05:51:45+00:00",
    "description": "Job TitleClinical Consultant &#8211; Radiology Informatics (RIS)Job DescriptionAs a clinical consultant in our Radiology Informatics organization, you will be responsible for coordinating and implementing activities required to provide application configuration,...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144995",
@@ -3201,7 +4013,11 @@
    "date": "2026-06-18T05:51:44+00:00",
    "description": "Job TitleCustomer Project Manager &#8211; Patient Monitoring (Field: Cincinnati/Columbus, OH)Job DescriptionLead high‑impact healthcare technology solution implementations as a Customer Project Manager for our Hospital Patient Monitoring (HPM) business, driving end‑to‑end...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:144998",
@@ -3213,7 +4029,11 @@
    "date": "2026-06-18T05:51:42+00:00",
    "description": "Job DescriptionAre you looking for an opportunity to apply your project management and technical leadership skills in a highly impactful, customer-facing role? Join our team and help deliver complex laboratory...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:145063",
@@ -3225,7 +4045,11 @@
    "date": "2026-06-18T05:46:42+00:00",
    "description": "Senior Product Manager – Simulation Product designers, engineers, and manufacturing teams face increasing pressure to bring high-quality products to market faster than ever. As a Senior Product Manager at Autodesk...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:145306",
@@ -3237,7 +4061,11 @@
    "date": "2026-06-18T05:31:46+00:00",
    "description": "What happens when you have fascinating clients with challenging problems on the one hand and passionate software developers looking to build future-focused solutions on the other? This in-between is where...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:145555",
@@ -3249,7 +4077,11 @@
    "date": "2026-06-18T05:31:44+00:00",
    "description": "For over 20 years, Smartsheet has helped people and teams achieve–well, anything. From seamless work management to smart, scalable solutions, we’ve always worked with flow. We’re building tools that empower...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:145683",
@@ -3261,7 +4093,11 @@
    "date": "2026-06-18T05:26:45+00:00",
    "description": "By joining Sedgwick, you&#8217;ll be part of something truly meaningful. It’s what our 33,000 colleagues do every day for people around the world who are facing the unexpected. We invite...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:145826",
@@ -3273,7 +4109,11 @@
    "date": "2026-06-18T05:21:48+00:00",
    "description": "Bilingual Customer Care RepresentativeLocation: Remote | Job Type: Full-TimeSchedule: Shifts may include evenings and weekendsCompensation: Competitive pay + shift differentials for nights/weekendsWhy Join Us?At Assurant, our Customer Care Representatives are the voice of our organization...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:145916",
@@ -3285,7 +4125,11 @@
    "date": "2026-06-18T05:16:44+00:00",
    "description": "Lead Machine Learning Engineers at Thoughtworks use modern architectures to develop end-to-end scalable machine learning systems and applications. They use their specialized depth and breadth of knowledge to impact the...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:145884",
@@ -3297,7 +4141,11 @@
    "date": "2026-06-18T05:16:42+00:00",
    "description": "Company DescriptionCome join us and make a difference in the world!Discover more at www.necsws.comJob DescriptionWithin our Public Safety division, we provide mission‑critical systems to Emergency Services across the UK, leveraging our...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:146130",
@@ -3309,7 +4157,11 @@
    "date": "2026-06-18T05:11:43+00:00",
    "description": "General information Name Payroll Associate Posting Title Payroll Associate Ref # 2236775 Date Published Monday, May 11, 2026 Close Date 07/14/2026 Job Category Internal Firm Services Advertised Location US-Remote Working...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:146256",
@@ -3321,7 +4173,11 @@
    "date": "2026-06-18T05:06:43+00:00",
    "description": "General information Name Payroll Tax Associate Posting Title Payroll Tax Associate Ref # 2236775 Date Published Monday, May 11, 2026 Close Date 07/14/2026 Job Category Internal Firm Services Advertised Location...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:146861",
@@ -3333,7 +4189,11 @@
    "date": "2026-06-18T04:51:44+00:00",
    "description": "Work ScheduleStandard (Mon-Fri)Environmental ConditionsOfficeJob DescriptionAs part of the Thermo Fisher Scientific team, you’ll discover meaningful work that makes a positive impact on a global scale. Join our colleagues in bringing...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147145",
@@ -3345,7 +4205,11 @@
    "date": "2026-06-18T04:27:42+00:00",
    "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147143",
@@ -3357,7 +4221,11 @@
    "date": "2026-06-18T04:27:39+00:00",
    "description": "Work Flexibility: Field-basedStrykerPosition Title: Foot &amp; Ankle Sales AssociateWhat you will doThe Foot &amp; Ankle Sales Associate will partner closely with Sales Representative(s) in the area to quickly learn the...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147142",
@@ -3369,7 +4237,11 @@
    "date": "2026-06-18T04:27:37+00:00",
    "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147141",
@@ -3381,7 +4253,11 @@
    "date": "2026-06-18T04:27:36+00:00",
    "description": "Work Flexibility: Field-basedWho we want to work with: You’re a sales professional at heart. You love engaging with customers and colleagues – wherever that might take you. Being responsible for other’s perception of a company’s brand and...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147140",
@@ -3393,7 +4269,11 @@
    "date": "2026-06-18T04:27:34+00:00",
    "description": "Company DescriptionAbout Us: At Sutherland Bulgaria, we’re all about bringing great people together to do exceptional things. We’re currently looking for motivated Customer Service Professionals to join our team supporting...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147139",
@@ -3405,7 +4285,11 @@
    "date": "2026-06-18T04:21:55+00:00",
    "description": "Job TitleKey Account Manager Customer ServiceJob DescriptionAs a Key Account Manager for Customer Service, you will be responsible for developing and driving profitable long-term growth in the accounts within the...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147138",
@@ -3417,7 +4301,11 @@
    "date": "2026-06-18T04:21:53+00:00",
    "description": "Wati is the world&#8217;s leading WhatsApp-first conversational growth platform, empowering businesses to build deeper customer relationships and accelerate revenue growth.Trusted and loved by over 14,000 customers across 100+ countries, Wati...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147137",
@@ -3429,7 +4317,11 @@
    "date": "2026-06-18T04:21:51+00:00",
    "description": "Joining Collibra’s Customer Engineering team We’re shaping the way some of the largest organizations in the world manage data by helping customers connect the right data and insights for all Data...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147136",
@@ -3441,7 +4333,11 @@
    "date": "2026-06-18T04:21:49+00:00",
    "description": "Company DescriptionWho We AreCint is a pioneer in research technology (ResTech). Our customers use the Cint platform to post questions and get answers from real people to build business strategies,...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147135",
@@ -3453,7 +4349,11 @@
    "date": "2026-06-18T04:21:48+00:00",
    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147134",
@@ -3465,7 +4365,11 @@
    "date": "2026-06-18T04:21:46+00:00",
    "description": "About Nebius: Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147133",
@@ -3477,7 +4381,11 @@
    "date": "2026-06-18T04:21:45+00:00",
    "description": "Dataiku is the Platform for AI Success, the enterprise orchestration layer for building, deploying, and governing AI. In a single environment, teams design and operate analytics, machine learning, and AI...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147132",
@@ -3489,7 +4397,11 @@
    "date": "2026-06-18T04:21:43+00:00",
    "description": "Company DescriptionWise is a global technology company, building the best way to move and manage the world’s money. Min fees. Max ease. Full speed.Whether people and businesses are sending money...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147131",
@@ -3501,7 +4413,11 @@
    "date": "2026-06-18T04:21:41+00:00",
    "description": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147130",
@@ -3513,7 +4429,11 @@
    "date": "2026-06-18T04:21:39+00:00",
    "description": "Cordance is dedicated to accelerating the growth of vertically focused business-to-business (B2B) software-as-a-service (SaaS) companies through acquisition and long-term tactical and financial guidance. We’re experienced operators and subject-matter experts with...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147129",
@@ -3525,7 +4445,11 @@
    "date": "2026-06-18T04:21:38+00:00",
    "description": "Job DescriptionIf you&#8217;re interested in being a part of an extraordinary mission, working with our customer who runs the DoD’s largest supercomputing centers and operating some of the most powerful...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   },
   {
    "id": "jobicy:147128",
@@ -3537,7 +4461,11 @@
    "date": "2026-06-18T04:21:36+00:00",
    "description": "Job DescriptionAgilent is a global leader in laboratory technologies for the life sciences, diagnostics, and applied chemical markets. Our Pathology and Genomics Solutions are at the core of our mission...",
    "tags": [],
-   "source": "Jobicy"
+   "source": "Jobicy",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
   }
  ]
 }

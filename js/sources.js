@@ -5,7 +5,8 @@
 // ===========================================================================
 
 // Normalised job shape used everywhere downstream.
-function makeJob({ id, title, company, location, workType, url, date, description, tags, source }) {
+function makeJob({ id, title, company, location, workType, url, date, description, tags, source,
+  salaryMin, salaryMax, salaryCurrency, salaryPeriod, salaryText }) {
   return {
     id: id || `${source}:${(company || "")}:${(title || "")}`.toLowerCase(),
     title: title || "",
@@ -17,6 +18,12 @@ function makeJob({ id, title, company, location, workType, url, date, descriptio
     description: description || "",
     tags: tags || [],
     source: source,
+    // Structured salary (when the source provides it); else parsed from text later.
+    salaryMin: salaryMin != null ? Number(salaryMin) : null,
+    salaryMax: salaryMax != null ? Number(salaryMax) : null,
+    salaryCurrency: salaryCurrency || null,
+    salaryPeriod: salaryPeriod || null,
+    salaryText: salaryText || "",
   };
 }
 
@@ -64,6 +71,7 @@ async function fetchRemotive() {
       description: stripHtml(j.description),
       tags: j.tags || [],
       source: "Remotive",
+      salaryText: j.salary || "", // Remotive salary is free text; parsed later
     })
   );
 }
@@ -86,8 +94,39 @@ async function fetchRemoteOK() {
         description: stripHtml(j.description),
         tags: j.tags || [],
         source: "RemoteOK",
+        salaryMin: j.salary_min || null, // RemoteOK gives USD annual
+        salaryMax: j.salary_max || null,
+        salaryCurrency: "USD",
+        salaryPeriod: "year",
       })
     );
+}
+
+// --- The Muse (global, all work types) -------------------------------------
+async function fetchTheMuse() {
+  const all = [];
+  for (let page = 1; page <= 2; page++) {
+    const data = await fetchJson(`https://www.themuse.com/api/public/jobs?page=${page}`);
+    for (const j of data.results || []) {
+      const locs = (j.locations || []).map((l) => l.name);
+      const locStr = locs.join(", ");
+      all.push(
+        makeJob({
+          id: `themuse:${j.id}`,
+          title: j.name,
+          company: j.company && j.company.name,
+          location: locStr || "Flexible",
+          workType: /flexible|remote/i.test(locStr) ? "remote" : guessWorkType(locStr),
+          url: j.refs && j.refs.landing_page,
+          date: j.publication_date,
+          description: stripHtml(j.contents),
+          tags: (j.categories || []).map((c) => c.name).concat((j.levels || []).map((l) => l.name)),
+          source: "The Muse",
+        })
+      );
+    }
+  }
+  return all;
 }
 
 // --- Arbeitnow --------------------------------------------------------------
@@ -124,6 +163,10 @@ async function fetchJobicy() {
       description: stripHtml(j.jobExcerpt || j.jobDescription),
       tags: [].concat(j.jobIndustry || [], j.jobType || []),
       source: "Jobicy",
+      salaryMin: j.annualSalaryMin || null,
+      salaryMax: j.annualSalaryMax || null,
+      salaryCurrency: j.salaryCurrency || "USD",
+      salaryPeriod: "year",
     })
   );
 }
@@ -143,6 +186,10 @@ async function fetchHimalayas() {
       description: stripHtml(j.description || j.excerpt),
       tags: (j.categories || []).concat(j.seniority || []),
       source: "Himalayas",
+      salaryMin: j.minSalary || null, // Himalayas gives USD annual when present
+      salaryMax: j.maxSalary || null,
+      salaryCurrency: "USD",
+      salaryPeriod: "year",
     })
   );
 }
@@ -165,6 +212,7 @@ const SOURCES = [
   ["Arbeitnow", fetchArbeitnow],
   ["Jobicy", fetchJobicy],
   ["Himalayas", fetchHimalayas],
+  ["The Muse", fetchTheMuse],
   ["Cached", fetchCached],
 ];
 
