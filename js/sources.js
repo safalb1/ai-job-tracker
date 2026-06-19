@@ -60,9 +60,18 @@ function guessWorkType(text) {
 // own freely — these run live in the browser, no API key needed.
 // ===========================================================================
 const COMPANY_BOARDS = {
-  greenhouse: ["anthropic", "scaleai", "databricks", "stripe", "figma", "airbnb"],
-  lever: ["palantir", "netflix", "spotify"],
-  ashby: ["openai", "ramp"],
+  // AI labs + data-annotation/ops employers (best fit for the CV) come first,
+  // then major tech with ML/data teams. All tokens verified to resolve.
+  greenhouse: [
+    "anthropic", "scaleai", "labelbox", "invisible", "turing", "databricks",
+    "gitlab", "dropbox", "cloudflare", "datadog", "mongodb", "elastic",
+    "reddit", "pinterest", "coinbase", "stripe", "figma", "airbnb",
+  ],
+  lever: ["palantir", "toptal", "plaid", "netflix", "spotify"],
+  ashby: [
+    "openai", "cohere", "perplexity", "character", "runway", "writer",
+    "harvey", "notion", "linear", "vercel", "ramp",
+  ],
 };
 
 // Decode HTML entities then strip tags (Greenhouse double-encodes its content).

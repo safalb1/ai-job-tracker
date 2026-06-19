@@ -45,9 +45,17 @@ def load_dotenv():
             if key and key not in os.environ:
                 os.environ[key] = val
 
-# Search terms aimed at Safal's target roles (used for the Adzuna queries).
-# Kept short to stay within Adzuna's free-tier daily call budget.
-SEARCH_TERMS = ["AI trainer", "data annotation", "LLM", "AI analyst"]
+# Broad term set for Safal's target roles. Used for Jooble (generous free tier:
+# 3 locations x these terms x 8 runs/day stays well under 500 calls/day).
+SEARCH_TERMS = [
+    "AI trainer", "data annotation", "LLM", "AI analyst", "data labeling",
+    "RLHF", "prompt engineer", "model evaluation", "AI tutor",
+    "search evaluator", "content moderation", "computer vision annotation",
+]
+
+# Focused subset for Adzuna ONLY — its free tier is ~250 calls/day and we query
+# 6 countries x these terms x 8 runs/day. Keep this list <= 5 terms (=240/day).
+ADZUNA_TERMS = ["AI trainer", "data annotation", "LLM", "AI analyst", "data labeling"]
 
 # Adzuna countries to query → gives INTERNATIONAL coverage + salary data.
 # Each entry: country code -> currency the API returns salaries in.
@@ -166,7 +174,7 @@ def fetch_adzuna():
     out = []
     seen = set()
     for country, currency in ADZUNA_COUNTRIES.items():
-        for term in SEARCH_TERMS:
+        for term in ADZUNA_TERMS:
             try:
                 params = urllib.parse.urlencode({
                     "app_id": app_id, "app_key": app_key,

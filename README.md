@@ -141,10 +141,12 @@ General → Workflow permissions** is set to **Read and write permissions**.
    aggregates postings from across the web (including listings that originate on
    LinkedIn / Indeed / Naukri) through a legitimate API.
 
-> **Rate limit:** Adzuna's free tier allows ~250 API calls/day. The workflow
-> uses 6 countries × 4 search terms = 24 calls/run and runs every 3 hours
-> (~192/day). To add more countries/terms, edit `ADZUNA_COUNTRIES` / `SEARCH_TERMS`
-> in `scripts/fetch_jobs.py` and consider widening the cron interval.
+> **Rate limit:** Adzuna's free tier allows ~250 API calls/day, so it uses the
+> capped `ADZUNA_TERMS` list (6 countries × 5 terms × 8 runs/day = 240/day). The
+> broader `SEARCH_TERMS` list (12 terms) is used by **Jooble**, whose free tier is
+> larger (3 locations × 12 terms × 8 runs/day = 288/day, under its 500 limit). To
+> add terms: extend `SEARCH_TERMS` freely; keep `ADZUNA_TERMS` ≤ 5 (or widen the
+> cron interval). Both lists live in `scripts/fetch_jobs.py`.
 
 ---
 
