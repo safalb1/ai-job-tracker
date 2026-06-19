@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Match — AI/LLM & Data Annotation</title>
+  <meta name="description" content="Live job aggregator matched to Safal Bhalerao's CV." />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">⚡</span>
+      <div>
+        <h1>Job Match</h1>
+        <p class="tagline">AI/LLM Trainer · Data Annotation · AI QA — live across remote job boards</p>
+      </div>
+    </div>
+    <div class="actions">
+      <button id="refreshBtn" class="btn primary">↻ Refresh jobs</button>
+      <span id="lastUpdated" class="muted"></span>
+    </div>
+  </header>
+
+  <section class="controls">
+    <input id="search" type="search" placeholder="Filter by keyword (e.g. annotation, prompt, QA)…" />
+    <select id="workType">
+      <option value="all">All work types</option>
+      <option value="remote">Remote only</option>
+      <option value="hybrid">Hybrid</option>
+      <option value="onsite">On-site</option>
+    </select>
+    <select id="sort">
+      <option value="best">Best match</option>
+      <option value="newest">Newest first</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="indiaOnly" /> India only</label>
+  </section>
+
+  <section id="sourceReport" class="source-report"></section>
+
+  <main id="results" class="results">
+    <div class="loading">Loading live jobs from multiple boards…</div>
+  </main>
+
+  <footer class="footer">
+    <p>
+      Matched to your CV. Always review the job before applying — this tool links
+      you to the real application page; it does not auto-submit (keeps your
+      accounts safe). Built for Safal S. Bhalerao.
+    </p>
+  </footer>
+
+  <!-- Cover letter modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-box">
+      <div class="modal-head">
+        <h3 id="modalTitle">Tailored cover letter</h3>
+        <button id="modalClose" class="btn ghost">✕</button>
+      </div>
+      <textarea id="coverText" rows="22" spellcheck="false"></textarea>
+      <div class="modal-foot">
+        <button id="copyCover" class="btn primary">Copy to clipboard</button>
+        <a id="applyLink" class="btn" target="_blank" rel="noopener">Open application page ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/profile.js"></script>
+  <script src="js/sources.js"></script>
+  <script src="js/matcher.js"></script>
+  <script src="js/coverletter.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
