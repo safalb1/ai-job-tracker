@@ -7,8 +7,8 @@ const PROFILE = {
   name: "Safal S. Bhalerao",
   title: "Analyst - AI/LLM Practice & Data Annotator",
   email: "safbhalerao@gmail.com",
-  phone: "+91 9130771065",
-  location: "Bhandara, Maharashtra, India",
+  phone: "", // intentionally blank on the public site; add when applying privately
+  location: "India",
   portfolio: "https://datascienceportfol.io/safalb",
   linkedin: "", // add your LinkedIn URL if you want it in cover letters
 

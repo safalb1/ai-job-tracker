@@ -14,8 +14,11 @@ function generateCoverLetter(job, profile) {
     ? matched.slice(0, 4).map(titleCase).join(", ")
     : "data annotation, AI/LLM evaluation and prompt design";
 
+  // Build the contact line from whatever details are filled in.
+  const contactLine = [profile.email, profile.phone].filter(Boolean).join(" | ");
+
   return `${profile.name}
-${profile.email} | ${profile.phone}
+${contactLine}
 ${profile.location}
 ${profile.portfolio}
 
