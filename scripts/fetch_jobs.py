@@ -23,6 +23,28 @@ from datetime import datetime, timezone
 UA = {"User-Agent": "job-match-bot/1.0 (+github actions)"}
 TIMEOUT = 20
 
+
+def load_dotenv():
+    """Load KEY=VALUE lines from a local .env (gitignored) into os.environ.
+
+    Lets you run this script locally with secrets (JOOBLE_KEY, ADZUNA_*) without
+    ever committing them. In GitHub Actions these come from encrypted repo
+    secrets instead, so no .env exists there and this is a harmless no-op.
+    Existing environment variables always win over the file.
+    """
+    path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
+    if not os.path.exists(path):
+        return
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, val = line.partition("=")
+            key, val = key.strip(), val.strip().strip('"').strip("'")
+            if key and key not in os.environ:
+                os.environ[key] = val
+
 # Search terms aimed at Safal's target roles (used for the Adzuna queries).
 # Kept short to stay within Adzuna's free-tier daily call budget.
 SEARCH_TERMS = ["AI trainer", "data annotation", "LLM", "AI analyst"]
@@ -175,6 +197,66 @@ def fetch_adzuna():
     return out
 
 
+def fetch_working_nomads():
+    """Remote-job aggregator. No CORS headers, so it must run here (not browser)."""
+    out = []
+    try:
+        d = http_get_json("https://www.workingnomads.com/api/exposed_jobs/")
+        rows = d if isinstance(d, list) else d.get("jobs", [])
+        for j in rows:
+            out.append(norm(
+                f"workingnomads:{j.get('url')}", j.get("title"), j.get("company_name"),
+                j.get("location") or "Remote", "remote", j.get("url"),
+                j.get("pub_date"), j.get("description"),
+                [t.strip() for t in (j.get("tags") or "").split(",") if t.strip()]
+                + ([j.get("category_name")] if j.get("category_name") else []),
+                "Working Nomads",
+            ))
+    except Exception as e:
+        print(f"[workingnomads] {e}", file=sys.stderr)
+    return out
+
+
+# Jooble aggregates postings from across the web (incl. listings that originate
+# on LinkedIn/Indeed/Naukri) via a legitimate API. Free key: https://jooble.org/api/about
+JOOBLE_LOCATIONS = ["India", "United States", "United Kingdom"]
+
+
+def fetch_jooble():
+    """Broad IN/US/UK coverage. Requires a free JOOBLE_KEY repo secret."""
+    key = os.environ.get("JOOBLE_KEY")
+    if not key:
+        print("[jooble] skipped (no JOOBLE_KEY)", file=sys.stderr)
+        return []
+
+    out, seen = [], set()
+    for loc in JOOBLE_LOCATIONS:
+        for term in SEARCH_TERMS:
+            try:
+                body = json.dumps({"keywords": term, "location": loc}).encode("utf-8")
+                d = http_get_json(
+                    f"https://jooble.org/api/{key}", data=body,
+                    headers={"Content-Type": "application/json"},
+                )
+                for j in d.get("jobs", []):
+                    jid = f"jooble:{j.get('id')}"
+                    if jid in seen:
+                        continue
+                    seen.add(jid)
+                    out.append(norm(
+                        jid, j.get("title"), j.get("company"),
+                        j.get("location") or loc, guess_work_type(
+                            f"{j.get('title','')} {j.get('snippet','')} {j.get('location','')}"),
+                        j.get("link"), j.get("updated"),
+                        j.get("snippet"), [j.get("type")] if j.get("type") else [],
+                        f"Jooble ({loc})",
+                    ))
+                time.sleep(0.3)
+            except Exception as e:
+                print(f"[jooble:{loc}:{term}] {e}", file=sys.stderr)
+    return out
+
+
 def dedupe(jobs):
     seen, out = set(), []
     for j in jobs:
@@ -187,8 +269,10 @@ def dedupe(jobs):
 
 
 def main():
+    load_dotenv()
     jobs = []
-    for fn in (fetch_remotive, fetch_arbeitnow, fetch_jobicy, fetch_adzuna):
+    for fn in (fetch_remotive, fetch_arbeitnow, fetch_jobicy,
+               fetch_working_nomads, fetch_jooble, fetch_adzuna):
         jobs.extend(fn())
 
     jobs = dedupe(jobs)

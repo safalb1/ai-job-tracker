@@ -43,6 +43,33 @@ function guessWorkType(text) {
   return "unknown";
 }
 
+// ===========================================================================
+// COMPANY CAREER BOARDS — direct from the employer's own ATS (no recruiter,
+// often the SAME jobs LinkedIn/Indeed re-list but applied to at the source).
+// These three ATS vendors expose a public, CORS-friendly JSON board per company.
+//
+// HOW TO ADD A COMPANY:
+//   1. Open the company's careers page and look at the URL of its job board.
+//   2. Greenhouse → boards.greenhouse.io/<token>  OR job-boards.greenhouse.io/<token>
+//      Lever      → jobs.lever.co/<token>
+//      Ashby      → jobs.ashbyhq.com/<token>
+//   3. Add the <token> (the slug after the domain) to the matching list below.
+//   A wrong/closed token just returns nothing — it never breaks the app.
+//
+// Seeded with AI-lab / data-annotation employers that fit Safal's CV. Add your
+// own freely — these run live in the browser, no API key needed.
+// ===========================================================================
+const COMPANY_BOARDS = {
+  greenhouse: ["anthropic", "scaleai", "databricks", "stripe", "figma", "airbnb"],
+  lever: ["palantir", "netflix", "spotify"],
+  ashby: ["openai", "ramp"],
+};
+
+// Decode HTML entities then strip tags (Greenhouse double-encodes its content).
+function decodeAndStrip(s) {
+  return stripHtml(stripHtml(s));
+}
+
 // Generic fetch with timeout so a slow source can't hang the whole load.
 async function fetchJson(url, { timeout = 12000, options = {} } = {}) {
   const controller = new AbortController();
@@ -194,6 +221,123 @@ async function fetchHimalayas() {
   );
 }
 
+// --- Greenhouse (per-company boards) ----------------------------------------
+async function fetchGreenhouse() {
+  const all = [];
+  await Promise.all(COMPANY_BOARDS.greenhouse.map(async (token) => {
+    try {
+      const data = await fetchJson(
+        `https://boards-api.greenhouse.io/v1/boards/${token}/jobs?content=true`
+      );
+      for (const j of data.jobs || []) {
+        const locType = (j.metadata || []).find(
+          (m) => /location type|remote/i.test(m.name || "")
+        );
+        const locName = (j.location && j.location.name) || "";
+        all.push(
+          makeJob({
+            id: `greenhouse:${token}:${j.id}`,
+            title: j.title,
+            company: j.company_name || token,
+            location: locName,
+            workType: locType ? guessWorkType(locType.value) : guessWorkType(locName + " " + j.title),
+            url: j.absolute_url,
+            date: j.updated_at || j.first_published,
+            description: decodeAndStrip(j.content),
+            tags: (j.metadata || []).map((m) => m.value).filter((v) => typeof v === "string"),
+            source: `${j.company_name || token} (Greenhouse)`,
+          })
+        );
+      }
+    } catch { /* one company failing must not break the rest */ }
+  }));
+  return all;
+}
+
+// --- Lever (per-company boards) ---------------------------------------------
+async function fetchLever() {
+  const all = [];
+  await Promise.all(COMPANY_BOARDS.lever.map(async (token) => {
+    try {
+      const data = await fetchJson(`https://api.lever.co/v0/postings/${token}?mode=json`);
+      for (const j of Array.isArray(data) ? data : []) {
+        const cat = j.categories || {};
+        const loc = cat.location || (cat.allLocations || []).join(", ");
+        all.push(
+          makeJob({
+            id: `lever:${token}:${j.id}`,
+            title: j.text,
+            company: token,
+            location: loc,
+            workType: j.workplaceType
+              ? guessWorkType(j.workplaceType)
+              : guessWorkType(loc + " " + j.text),
+            url: j.hostedUrl,
+            date: j.createdAt || null,
+            description: stripHtml(j.descriptionPlain || j.description),
+            tags: [cat.team, cat.commitment].filter(Boolean),
+            source: `${token} (Lever)`,
+          })
+        );
+      }
+    } catch { /* skip this company */ }
+  }));
+  return all;
+}
+
+// --- Ashby (per-company boards) ---------------------------------------------
+async function fetchAshby() {
+  const all = [];
+  await Promise.all(COMPANY_BOARDS.ashby.map(async (token) => {
+    try {
+      const data = await fetchJson(
+        `https://api.ashbyhq.com/posting-api/job-board/${token}?includeCompensation=true`
+      );
+      for (const j of data.jobs || []) {
+        all.push(
+          makeJob({
+            id: `ashby:${token}:${j.id}`,
+            title: j.title,
+            company: token,
+            location: j.location || "",
+            workType: j.isRemote ? "remote" : guessWorkType((j.workplaceType || "") + " " + j.location),
+            url: j.jobUrl || j.applyUrl,
+            date: j.publishedAt || null,
+            description: stripHtml(j.descriptionHtml),
+            tags: [j.department, j.team, j.employmentType].filter(Boolean),
+            source: `${token} (Ashby)`,
+          })
+        );
+      }
+    } catch { /* skip this company */ }
+  }));
+  return all;
+}
+
+// --- Landing.jobs (Europe tech, remote-friendly, salary in EUR) -------------
+async function fetchLandingJobs() {
+  const data = await fetchJson("https://landing.jobs/api/v1/jobs");
+  const list = Array.isArray(data) ? data : data.jobs || [];
+  return list.map((j) =>
+    makeJob({
+      id: `landingjobs:${j.id}`,
+      title: j.title,
+      company: j.company_name || (j.company && j.company.name) || "Unknown",
+      location: (j.locations || []).join(", ") || (j.remote ? "Remote" : ""),
+      workType: j.remote ? "remote" : guessWorkType((j.locations || []).join(" ")),
+      url: j.url,
+      date: j.published_at || j.created_at,
+      description: stripHtml([j.role_description, j.main_requirements].filter(Boolean).join(" ")),
+      tags: (j.tags || []).map((t) => (typeof t === "string" ? t : t && t.name)).filter(Boolean),
+      source: "Landing.jobs",
+      salaryMin: j.gross_salary_low || null,
+      salaryMax: j.gross_salary_high || null,
+      salaryCurrency: j.currency_code || "EUR",
+      salaryPeriod: "year",
+    })
+  );
+}
+
 // --- Cached snapshot written by GitHub Actions (data/jobs.json) -------------
 // This is the fallback / India + on-site source (e.g. Adzuna via Actions).
 async function fetchCached() {
@@ -213,6 +357,10 @@ const SOURCES = [
   ["Jobicy", fetchJobicy],
   ["Himalayas", fetchHimalayas],
   ["The Muse", fetchTheMuse],
+  ["Landing.jobs", fetchLandingJobs],
+  ["Greenhouse boards", fetchGreenhouse],
+  ["Lever boards", fetchLever],
+  ["Ashby boards", fetchAshby],
   ["Cached", fetchCached],
 ];
 

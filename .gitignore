@@ -5,3 +5,10 @@ __pycache__/
 .vscode/
 .idea/
 node_modules/
+
+# Local secrets — API keys live here for local runs; NEVER commit these.
+# In GitHub Actions the same keys come from encrypted repo secrets instead.
+.env
+.env.*
+!.env.example
+secrets.local.json

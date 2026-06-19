@@ -50,7 +50,21 @@ of LinkedIn/Indeed jobs) and takes you straight to the real application page.
 | Remotive | live API | Medium–High (global remote) | ✅ |
 | The Muse | live API | Medium–High (mostly US) | ✅ |
 | Arbeitnow | live API | Medium (Europe) | ✅ |
+| Landing.jobs | live API | Medium–High (EU tech) | ✅ with salary |
+| Greenhouse boards | live API | High (direct employer) | ✅ per-company |
+| Lever boards | live API | High (direct employer) | ✅ per-company |
+| Ashby boards | live API | High (direct employer) | ✅ per-company |
+| Working Nomads | Action | Medium–High (remote) | ✅ |
 | Adzuna (IN/US/UK/CA/AU/DE) | Action + key | Medium–High, real salaries | ✅ with salary |
+| Jooble (IN/US/UK) | Action + key | Broad (re-lists LinkedIn/Indeed/Naukri) | ✅ |
+
+### Company career boards (Greenhouse / Lever / Ashby)
+These pull jobs **straight from the employer's own ATS** — often the same roles
+LinkedIn/Indeed re-list, but applied to at the source. Edit the `COMPANY_BOARDS`
+object at the top of `js/sources.js` to add companies: find the company's job-board
+URL and add the slug — e.g. `jobs.lever.co/`**`netflix`** → add `"netflix"` to the
+`lever` list. Seeded with AI-lab / data employers (Anthropic, OpenAI, Scale AI,
+Databricks…). A wrong slug just returns nothing; it never breaks the app. No key needed.
 
 **Other higher/medium-paying platforms worth applying on directly** (no open API,
 so not auto-aggregated — listed here for your manual search):
@@ -85,6 +99,11 @@ python -m http.server 8000
 (Opening `index.html` directly via `file://` mostly works, but a local server
 avoids browser CORS quirks.)
 
+### Local API keys (Jooble / Adzuna)
+For local runs of `scripts/fetch_jobs.py`, copy `.env.example` to `.env` and fill
+in your keys. `.env` is **gitignored** — it is never committed. In GitHub Actions
+the same keys come from encrypted repo secrets instead, so no key is ever exposed.
+
 ---
 
 ## Deploy to GitHub Pages (free)
@@ -113,6 +132,14 @@ General → Workflow permissions** is set to **Read and write permissions**.
    secret** — add `ADZUNA_APP_ID` and `ADZUNA_APP_KEY`.
 3. The next workflow run will include Adzuna results (India, USA, UK, Canada,
    Australia, Germany — with salaries) in `data/jobs.json`.
+
+### (Optional) Add broad IN/US/UK coverage via Jooble
+1. Get a free API key at <https://jooble.org/api/about>.
+2. Add it as a repo secret named `JOOBLE_KEY` (Settings → Secrets and variables →
+   Actions → New repository secret).
+3. The next workflow run includes Jooble results for India, USA and UK — Jooble
+   aggregates postings from across the web (including listings that originate on
+   LinkedIn / Indeed / Naukri) through a legitimate API.
 
 > **Rate limit:** Adzuna's free tier allows ~250 API calls/day. The workflow
 > uses 6 countries × 4 search terms = 24 calls/run and runs every 3 hours
