@@ -160,16 +160,37 @@ General → Workflow permissions** is set to **Read and write permissions**.
 | `js/matcher.js` | Scoring & ranking |
 | `js/coverletter.js` | Cover-letter generator |
 | `js/app.js` | UI orchestration |
+| `tools/autofill.user.js` | Userscript: one-click fill of ATS application forms |
 | `scripts/fetch_jobs.py` | Server-side fetcher (GitHub Actions, incl. Adzuna) |
 | `.github/workflows/fetch-jobs.yml` | Scheduled refresh of `data/jobs.json` |
 | `data/jobs.json` | Cached snapshot (auto-updated) |
 
 ---
 
-## A note on "auto-apply"
+## Auto-fill applications (Greenhouse / Lever / Ashby / Workable)
 
-Truly auto-submitting applications across LinkedIn/Indeed/Naukri is against their
+`tools/autofill.user.js` is a **userscript** that fills application forms on the
+big ATS platforms in one click — identity, contact, links, common screening
+questions, and a tailored cover letter — then **you review and submit**. It does
+*not* submit anything by itself.
+
+**Install:**
+1. Add the [Tampermonkey](https://www.tampermonkey.net/) extension (Chrome/Edge/Firefox).
+2. Tampermonkey → **Create a new script**, paste in `tools/autofill.user.js`, save.
+3. Edit the `ME = { … }` block at the top with your details. **`phone` and
+   `linkedin` are blank in the repo copy on purpose** (it's public) — fill them in
+   your *local* install. Nothing you enter is ever uploaded.
+
+**Use:** open any Greenhouse/Lever/Ashby/Workable application page → click the
+floating **⚡ Autofill** button → attach your résumé (file uploads can't be
+auto-set by a script, so they're highlighted) → review → submit.
+
+## A note on full "auto-submit" to LinkedIn/Indeed/Naukri
+
+Truly auto-*submitting* applications across LinkedIn/Indeed/Naukri is against their
 terms of service, is fragile (they change constantly + use anti-bot detection),
-and frequently gets real accounts **permanently banned**. This tool deliberately
-stops at the *apply page* with your cover letter ready, so you stay in control and
-your accounts stay safe — which is also what recruiters respond to better.
+and frequently gets real accounts **permanently banned**. Their apply forms are
+also CORS-locked and their submission APIs need the *employer's* key — a candidate
+can't post through them. So this project maximises *reach* (many job APIs) and
+*speed* (one-click deep links + the ATS auto-fill above) while keeping you in
+control and your accounts safe — which is also what recruiters respond to better.
