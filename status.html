@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Job Match — Live Status</title>
+  <style>
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: #0b1020; color: #e5e9f0; }
+    .wrap { max-width: 980px; margin: 0 auto; padding: 28px 20px 60px; }
+    h1 { font-size: 22px; margin: 0 0 4px; }
+    .sub { color: #8b95ad; font-size: 13px; margin: 0 0 22px; }
+    .live { display: inline-flex; align-items: center; gap: 7px; font-size: 13px;
+      color: #9be7a0; background: #102417; border: 1px solid #1f4429; padding: 4px 10px;
+      border-radius: 999px; }
+    .dot { width: 9px; height: 9px; border-radius: 50%; background: #34d058;
+      box-shadow: 0 0 0 0 rgba(52,208,88,.6); animation: pulse 1.8s infinite; }
+    @keyframes pulse { 0%{box-shadow:0 0 0 0 rgba(52,208,88,.6)} 70%{box-shadow:0 0 0 9px rgba(52,208,88,0)} 100%{box-shadow:0 0 0 0 rgba(52,208,88,0)} }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px,1fr)); gap: 14px; margin: 20px 0; }
+    .card { background: #131a2e; border: 1px solid #1e2942; border-radius: 12px; padding: 16px 18px; }
+    .card .n { font-size: 30px; font-weight: 700; color: #fff; }
+    .card .l { font-size: 12px; color: #8b95ad; margin-top: 2px; }
+    h2 { font-size: 15px; margin: 28px 0 10px; color: #c7d0e0; }
+    table { width: 100%; border-collapse: collapse; background: #131a2e; border-radius: 12px; overflow: hidden; }
+    th, td { text-align: left; padding: 9px 14px; font-size: 13px; border-bottom: 1px solid #1e2942; }
+    th { color: #8b95ad; font-weight: 600; }
+    tr:last-child td { border-bottom: none; }
+    .bar { height: 7px; background: #2563eb; border-radius: 4px; min-width: 3px; }
+    a { color: #6ea8ff; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .match-row td { vertical-align: top; }
+    .why { color: #7f8aa3; font-size: 11px; }
+    .err { background:#2a1416; border:1px solid #5a2326; padding:14px; border-radius:10px; color:#f7b9bd; }
+    .foot { margin-top: 30px; font-size: 12px; color:#6b748c; }
+    .pill { font-size:11px; color:#9fb0d0; background:#172037; border:1px solid #243154; padding:2px 8px; border-radius:999px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="live"><span class="dot"></span> Engine running 24/7 on GitHub Actions</div>
+    <h1 style="margin-top:14px;">Job Match — Live Status</h1>
+    <p class="sub" id="updated">Loading…</p>
+
+    <div class="cards" id="cards"></div>
+
+    <h2>Where the jobs come from</h2>
+    <div id="sources"></div>
+
+    <h2>Top matches right now <span class="pill">ranked against your CV</span></h2>
+    <div id="top"></div>
+
+    <p class="foot" id="foot"></p>
+  </div>
+
+  <!-- Reuse the site's real scoring so this matches what you see in the app -->
+  <script src="js/profile.js"></script>
+  <script src="js/salary.js"></script>
+  <script src="js/matcher.js"></script>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const esc = (s) => (s || "").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+    function timeAgo(iso) {
+      if (!iso) return "unknown";
+      const mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+      if (mins < 1) return "just now";
+      if (mins < 60) return `${mins} min ago`;
+      const h = Math.round(mins / 60);
+      if (h < 24) return `${h} hour${h>1?'s':''} ago`;
+      return `${Math.round(h/24)} day(s) ago`;
+    }
+
+    async function load() {
+      let data, seen = { seen: [] };
+      try {
+        data = await (await fetch(`data/jobs.json?t=${Date.now()}`)).json();
+      } catch (e) {
+        $("updated").innerHTML = `<span class="err">Couldn't load data/jobs.json — ${esc(String(e))}</span>`;
+        return;
+      }
+      try { seen = await (await fetch(`data/digest_seen.json?t=${Date.now()}`)).json(); } catch {}
+
+      // Normalise dates/tags so matcher.js works exactly like in the app.
+      const jobs = (data.jobs || []).map(j => ({ ...j, date: j.date ? new Date(j.date) : null, tags: j.tags || [] }));
+      const matches = matchJobs(jobs, PROFILE);
+
+      $("updated").innerHTML =
+        `Snapshot refreshed <b>${timeAgo(data.generatedAt)}</b> · auto-refreshes every 3 hours · ` +
+        `digest emailed daily 9:00 AM IST`;
+
+      const emailed = (seen.seen || []).length;
+      $("cards").innerHTML = [
+        [data.count ?? jobs.length, "jobs aggregated"],
+        [matches.length, "match your CV"],
+        [new Set(jobs.map(j => j.source)).size, "live sources"],
+        [emailed, "emailed to you so far"],
+      ].map(([n, l]) => `<div class="card"><div class="n">${n}</div><div class="l">${l}</div></div>`).join("");
+
+      // Source breakdown with little bars.
+      const counts = {};
+      jobs.forEach(j => counts[j.source] = (counts[j.source] || 0) + 1);
+      const top = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+      const max = top.length ? top[0][1] : 1;
+      $("sources").innerHTML = `<table><tr><th>Source</th><th>Jobs</th><th style="width:45%"></th></tr>` +
+        top.map(([s,c]) => `<tr><td>${esc(s)}</td><td>${c}</td>
+          <td><div class="bar" style="width:${Math.max(3, c/max*100)}%"></div></td></tr>`).join("") +
+        `</table>`;
+
+      // Top 10 matches.
+      $("top").innerHTML = `<table>` + matches.slice(0, 10).map((j, i) => `
+        <tr class="match-row">
+          <td>${i+1}</td>
+          <td><b>${esc(j.title)}</b> — ${esc(j.company)}<br>
+            <span class="why">${esc((j.match.matched||[]).join(", "))}</span></td>
+          <td>${esc(j.location || "")}<br><span class="why">${esc(j.source)} · score ${j.match.score}</span></td>
+          <td><a href="${esc(j.url)}" target="_blank" rel="noopener">Apply ▸</a></td>
+        </tr>`).join("") + `</table>`;
+
+      $("foot").textContent =
+        `This dashboard reads the same live snapshot the engine produces. Applications are not auto-submitted — ` +
+        `open a role, use the ⚡ Autofill userscript, review, and submit (keeps your accounts safe).`;
+    }
+    load();
+    setInterval(load, 5 * 60 * 1000); // self-refresh every 5 min
+  </script>
+</body>
+</html>

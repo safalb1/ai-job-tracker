@@ -241,10 +241,7 @@
   }
 
   // ---- UI -----------------------------------------------------------------
-  function notify(filled, files) {
-    let msg = `Filled ${filled} field${filled === 1 ? "" : "s"}.`;
-    if (files) msg += ` ⚠ Attach your résumé manually (${files} upload field${files === 1 ? "" : "s"} highlighted).`;
-    msg += " Review everything, then submit.";
+  function toast(msg) {
     const t = document.createElement("div");
     t.textContent = msg;
     Object.assign(t.style, {
@@ -255,6 +252,113 @@
     });
     document.body.appendChild(t);
     setTimeout(() => t.remove(), 7000);
+  }
+
+  function notify(filled, files) {
+    let msg = `Filled ${filled} field${filled === 1 ? "" : "s"}.`;
+    if (files) msg += ` ⚠ Attach your résumé manually (${files} upload field${files === 1 ? "" : "s"} highlighted).`;
+    msg += " Review everything, then submit.";
+    toast(msg);
+  }
+
+  // ---- Application log (saved in this browser, exportable) ----------------
+  const LOG_KEY = "jm_applications";
+  const getLog = () => { try { return JSON.parse(localStorage.getItem(LOG_KEY)) || []; } catch { return []; } };
+  const saveLog = (a) => localStorage.setItem(LOG_KEY, JSON.stringify(a));
+
+  function logApplication() {
+    const url = location.href.split("?")[0];
+    const log = getLog();
+    if (log.some((e) => e.url === url)) return; // already recorded this page
+    log.unshift({ role: pageRole(), company: pageCompany(), url, at: new Date().toISOString() });
+    saveLog(log);
+    updatePill();
+    toast(`✓ Logged: ${pageRole() || "application"} — saved to your local log (${log.length} total).`);
+  }
+
+  // Detect a real submit (native form submit OR a click on a submit/apply button).
+  function installSubmitWatch() {
+    if (window.__jmSubmitWatch) return;
+    window.__jmSubmitWatch = true;
+    document.addEventListener("submit", () => setTimeout(logApplication, 200), true);
+    document.addEventListener("click", (e) => {
+      const el = e.target.closest("button, input[type=submit], a[role=button], a");
+      if (!el) return;
+      const t = (el.textContent || el.value || "").trim().toLowerCase();
+      if (/submit application|submit your application|^submit$|send application|^apply now$/.test(t)) {
+        setTimeout(logApplication, 400);
+      }
+    }, true);
+  }
+
+  function updatePill() {
+    const pill = document.getElementById("jm-applied-pill");
+    if (pill) pill.textContent = `📋 ${getLog().length}`;
+  }
+
+  function showLogPanel() {
+    document.getElementById("jm-log-panel")?.remove();
+    const log = getLog();
+    const panel = document.createElement("div");
+    panel.id = "jm-log-panel";
+    Object.assign(panel.style, {
+      position: "fixed", bottom: "70px", right: "20px", width: "380px",
+      maxHeight: "60vh", overflow: "auto", background: "#0f172a", color: "#e5e9f0",
+      border: "1px solid #243154", borderRadius: "12px", padding: "14px",
+      font: "13px/1.45 system-ui, sans-serif", zIndex: 2147483647,
+      boxShadow: "0 10px 40px rgba(0,0,0,.5)",
+    });
+    const rows = log.length
+      ? log.map((e) => {
+          const d = new Date(e.at).toLocaleString();
+          return `<div style="padding:8px 0;border-bottom:1px solid #1e2942;">
+            <div style="font-weight:600;">${e.role || "Application"}${e.company ? " — " + e.company : ""}</div>
+            <div style="color:#8b95ad;font-size:11px;">${d}</div>
+            <a href="${e.url}" target="_blank" style="color:#6ea8ff;font-size:11px;">${e.url}</a></div>`;
+        }).join("")
+      : `<div style="color:#8b95ad;">No applications logged yet. They'll appear here automatically when you submit one.</div>`;
+    panel.innerHTML =
+      `<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+        <b>Applications logged (${log.length})</b>
+        <span style="cursor:pointer;color:#8b95ad;" id="jm-log-x">✕</span></div>${rows}
+      <div style="display:flex;gap:8px;margin-top:12px;">
+        <button id="jm-log-csv" style="flex:1;padding:8px;border:none;border-radius:8px;cursor:pointer;background:#2563eb;color:#fff;font-weight:600;">Export CSV</button>
+        <button id="jm-log-clear" style="padding:8px 12px;border:1px solid #3a2530;border-radius:8px;cursor:pointer;background:#1a1014;color:#f7b9bd;">Clear</button>
+      </div>`;
+    document.body.appendChild(panel);
+    panel.querySelector("#jm-log-x").onclick = () => panel.remove();
+    panel.querySelector("#jm-log-csv").onclick = () => exportCsv();
+    panel.querySelector("#jm-log-clear").onclick = () => {
+      if (confirm("Clear your local application log?")) { saveLog([]); updatePill(); showLogPanel(); }
+    };
+  }
+
+  function exportCsv() {
+    const log = getLog();
+    const rows = [["Date", "Role", "Company", "URL"]].concat(
+      log.map((e) => [new Date(e.at).toISOString(), e.role, e.company, e.url])
+    );
+    const csv = rows.map((r) => r.map((c) => `"${String(c || "").replace(/"/g, '""')}"`).join(",")).join("\n");
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
+    a.download = "job-applications.csv";
+    a.click();
+  }
+
+  function mountPill() {
+    if (document.getElementById("jm-applied-pill")) return;
+    const pill = document.createElement("button");
+    pill.id = "jm-applied-pill";
+    pill.textContent = `📋 ${getLog().length}`;
+    pill.title = "Applications you've logged (click to view / export)";
+    Object.assign(pill.style, {
+      position: "fixed", bottom: "20px", right: "120px", zIndex: 2147483647,
+      background: "#0f766e", color: "#fff", border: "none", cursor: "pointer",
+      padding: "12px 14px", borderRadius: "999px", fontWeight: "600",
+      font: "14px system-ui, sans-serif", boxShadow: "0 6px 24px rgba(0,0,0,.35)",
+    });
+    pill.addEventListener("click", showLogPanel);
+    document.body.appendChild(pill);
   }
 
   function mountButton() {
@@ -273,9 +377,12 @@
     document.body.appendChild(btn);
   }
 
-  mountButton();
-  // ATS forms render late / on route changes — keep the button alive.
-  new MutationObserver(mountButton).observe(document.documentElement, {
+  function mountAll() { mountButton(); mountPill(); }
+
+  mountAll();
+  installSubmitWatch();
+  // ATS forms render late / on route changes — keep the buttons alive.
+  new MutationObserver(mountAll).observe(document.documentElement, {
     childList: true, subtree: true,
   });
 })();

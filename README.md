@@ -155,6 +155,7 @@ General → Workflow permissions** is set to **Read and write permissions**.
 | File | Purpose |
 |------|---------|
 | `index.html` | Page structure |
+| `status.html` | Live status dashboard (engine activity + top matches) |
 | `css/style.css` | Styling (dark theme) |
 | `js/profile.js` | **Your CV / keywords / salary floor — edit this** |
 | `js/salary.js` | Salary parsing + currency→INR conversion |
@@ -170,6 +171,22 @@ General → Workflow permissions** is set to **Read and write permissions**.
 | `data/jobs.json` | Cached snapshot (auto-updated) |
 
 ---
+
+## Seeing it work: status dashboard + application log
+
+Two ways to *see* the system working (it never silently submits — see the note at
+the bottom):
+
+- **Live status dashboard** — open `status.html` (the **📊 Status** button on the
+  main page). It reads the live snapshot and shows: when it last refreshed, how
+  many jobs were aggregated, how many match your CV, the per-source breakdown, how
+  many roles have been emailed to you, and the current top 10 matches. It
+  self-refreshes every 5 minutes and proves the 24/7 engine is running.
+- **Application log** — the `tools/autofill.user.js` userscript records every
+  application you submit. When you submit an ATS form it auto-logs the role,
+  company, URL and timestamp (stored in your browser). The **📋** pill (next to
+  the ⚡ Autofill button) shows the count; click it to view the list, **Export
+  CSV**, or clear it. This is your running record of what you've applied to.
 
 ## Daily digest email (top new matches)
 
