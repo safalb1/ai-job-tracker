@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Job Match — ATS Auto-Fill
 // @namespace    https://github.com/safalb1/ai-job-tracker
-// @version      1.0.0
+// @version      1.1.0
 // @description  One-click fill of Greenhouse / Lever / Ashby / Workable application forms from your profile. You review and submit — nothing is sent automatically.
 // @author       Safal Bhalerao
 // @match        https://boards.greenhouse.io/*
@@ -284,6 +284,8 @@
   };
 
   // On the status dashboard, fill the "Your applications" cards from the log.
+  // Only writes when the content actually changes (writing innerHTML is itself a
+  // DOM mutation, so an unconditional write under a MutationObserver would loop).
   function renderDashboardStats() {
     const host = document.getElementById("jm-app-stats");
     if (!host) return false;
@@ -291,10 +293,14 @@
     const weekAgo = Date.now() - 7 * 86400000;
     const week = log.filter((e) => new Date(e.at).getTime() >= weekAgo).length;
     const today = log.filter((e) => new Date(e.at).toDateString() === new Date().toDateString()).length;
-    host.innerHTML =
+    const html =
       `<div class="card"><div class="n">${log.length}</div><div class="l">applications logged (total)</div></div>
        <div class="card"><div class="n">${week}</div><div class="l">applied in last 7 days</div></div>
        <div class="card"><div class="n">${today}</div><div class="l">applied today</div></div>`;
+    if (host.dataset.jmRendered !== html) {
+      host.innerHTML = html;
+      host.dataset.jmRendered = html;
+    }
     return true;
   }
 
@@ -409,17 +415,33 @@
     document.body.appendChild(btn);
   }
 
-  function mountAll() {
-    // On the status dashboard there's no form to fill — just populate the stats.
-    if (renderDashboardStats()) return;
+  // Is this the status dashboard / our own site (not an application form)?
+  const onDashboardSite = /(^|\.)github\.io$/.test(location.hostname)
+    || /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+
+  if (onDashboardSite) {
+    // Dashboard mode: render the stats a few times as the page settles, then a
+    // gentle interval. NO MutationObserver here (writing stats mutates the DOM,
+    // which would retrigger the observer — that was the "page unresponsive" loop).
+    const tryRender = () => renderDashboardStats();
+    tryRender();
+    setTimeout(tryRender, 800);
+    setTimeout(tryRender, 2000);
+    setInterval(tryRender, 30000);
+  } else {
+    // Application-form mode: mount the buttons and watch for late/SPA renders.
+    // Debounced so a chatty React page can't peg the CPU.
     mountButton();
     mountPill();
+    installSubmitWatch();
+    let scheduled = false;
+    const remount = () => {
+      if (scheduled) return;
+      scheduled = true;
+      requestAnimationFrame(() => { scheduled = false; mountButton(); mountPill(); });
+    };
+    new MutationObserver(remount).observe(document.documentElement, {
+      childList: true, subtree: true,
+    });
   }
-
-  mountAll();
-  if (!document.getElementById("jm-app-stats")) installSubmitWatch();
-  // ATS forms / dashboard render late or on route changes — keep things alive.
-  new MutationObserver(mountAll).observe(document.documentElement, {
-    childList: true, subtree: true,
-  });
 })();
