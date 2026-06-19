@@ -10,8 +10,12 @@
 // @match        https://jobs.lever.co/*
 // @match        https://jobs.ashbyhq.com/*
 // @match        https://apply.workable.com/*
+// @match        https://safalb1.github.io/*
+// @match        http://localhost/*
+// @match        http://127.0.0.1/*
 // @run-at       document-idle
-// @grant        none
+// @grant        GM_setValue
+// @grant        GM_getValue
 // ==/UserScript==
 
 (function () {
@@ -262,9 +266,37 @@
   }
 
   // ---- Application log (saved in this browser, exportable) ----------------
+  // Stored in the userscript's cross-domain store (GM_*) so the SAME log is
+  // visible on the ATS pages where it's written AND on the status dashboard.
+  // Falls back to localStorage if GM storage isn't available.
   const LOG_KEY = "jm_applications";
-  const getLog = () => { try { return JSON.parse(localStorage.getItem(LOG_KEY)) || []; } catch { return []; } };
-  const saveLog = (a) => localStorage.setItem(LOG_KEY, JSON.stringify(a));
+  const hasGM = typeof GM_getValue === "function" && typeof GM_setValue === "function";
+  const getLog = () => {
+    try {
+      const raw = hasGM ? GM_getValue(LOG_KEY, "[]") : localStorage.getItem(LOG_KEY);
+      return JSON.parse(raw || "[]") || [];
+    } catch { return []; }
+  };
+  const saveLog = (a) => {
+    const raw = JSON.stringify(a);
+    if (hasGM) GM_setValue(LOG_KEY, raw);
+    try { localStorage.setItem(LOG_KEY, raw); } catch {}
+  };
+
+  // On the status dashboard, fill the "Your applications" cards from the log.
+  function renderDashboardStats() {
+    const host = document.getElementById("jm-app-stats");
+    if (!host) return false;
+    const log = getLog();
+    const weekAgo = Date.now() - 7 * 86400000;
+    const week = log.filter((e) => new Date(e.at).getTime() >= weekAgo).length;
+    const today = log.filter((e) => new Date(e.at).toDateString() === new Date().toDateString()).length;
+    host.innerHTML =
+      `<div class="card"><div class="n">${log.length}</div><div class="l">applications logged (total)</div></div>
+       <div class="card"><div class="n">${week}</div><div class="l">applied in last 7 days</div></div>
+       <div class="card"><div class="n">${today}</div><div class="l">applied today</div></div>`;
+    return true;
+  }
 
   function logApplication() {
     const url = location.href.split("?")[0];
@@ -377,11 +409,16 @@
     document.body.appendChild(btn);
   }
 
-  function mountAll() { mountButton(); mountPill(); }
+  function mountAll() {
+    // On the status dashboard there's no form to fill — just populate the stats.
+    if (renderDashboardStats()) return;
+    mountButton();
+    mountPill();
+  }
 
   mountAll();
-  installSubmitWatch();
-  // ATS forms render late / on route changes — keep the buttons alive.
+  if (!document.getElementById("jm-app-stats")) installSubmitWatch();
+  // ATS forms / dashboard render late or on route changes — keep things alive.
   new MutationObserver(mountAll).observe(document.documentElement, {
     childList: true, subtree: true,
   });

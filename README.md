@@ -184,9 +184,12 @@ the bottom):
   self-refreshes every 5 minutes and proves the 24/7 engine is running.
 - **Application log** — the `tools/autofill.user.js` userscript records every
   application you submit. When you submit an ATS form it auto-logs the role,
-  company, URL and timestamp (stored in your browser). The **📋** pill (next to
-  the ⚡ Autofill button) shows the count; click it to view the list, **Export
-  CSV**, or clear it. This is your running record of what you've applied to.
+  company, URL and timestamp (stored in the userscript's cross-domain store).
+  The **📋** pill (next to the ⚡ Autofill button) shows the count; click it to
+  view the list, **Export CSV**, or clear it. The userscript also runs on the
+  status page, so the dashboard's **"Your applications"** cards (total / last 7
+  days / today) fill in automatically — in any browser where it's installed.
+  *(Re-paste the script into Tampermonkey after updating to pick up these changes.)*
 
 ## Daily digest email (top new matches)
 
