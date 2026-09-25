@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-09-25T08:17:32.438589+00:00",
- "count": 817,
+ "generatedAt": "2026-09-25T08:58:08.017941+00:00",
+ "count": 818,
  "jobs": [
   {
    "id": "remotive:2091144",
@@ -8950,12 +8950,12 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:8307467127002582188",
+   "id": "jooble:2312987685486317484",
    "title": "Software Engineer II",
    "company": "Mastercard",
    "location": "India",
    "workType": "onsite",
-   "url": "https://jooble.org/jdp/8307467127002582188",
+   "url": "https://jooble.org/jdp/2312987685486317484",
    "date": "2026-09-21T00:00:00.0000000",
    "description": "&nbsp;...realize their greatest potential. Title and Summary Software Engineer II Overview: Mastercard is a global technology company in...&nbsp;&nbsp;...technologies across the Software Development Lifecycle (SDLC), utilizing prompt engineering, generative AI, coding assistants, agent-based...&nbsp;",
    "tags": [
@@ -8979,22 +8979,6 @@
    "tags": [
     "Full-time"
    ],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:2655306400969503121",
-   "title": "Senior Engineer - Identity and Access Management",
-   "company": "Dish",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/2655306400969503121",
-   "date": "2026-08-17T08:26:26.5330000",
-   "description": "&nbsp;...facilities in India are some of EchoStar's largest development centers outside the U.S. As a hub for technological convergence, our engineering talent is a catalyst for innovation in multimedia network and communications development. EchoStar does not charge any fees...&nbsp;",
-   "tags": [],
    "source": "Jooble (India)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9036,6 +9020,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:2655306400969503121",
+   "title": "Senior Engineer - Identity and Access Management",
+   "company": "Dish",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/2655306400969503121",
+   "date": "2026-08-17T08:26:26.5330000",
+   "description": "&nbsp;...facilities in India are some of EchoStar's largest development centers outside the U.S. As a hub for technological convergence, our engineering talent is a catalyst for innovation in multimedia network and communications development. EchoStar does not charge any fees...&nbsp;",
+   "tags": [],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-1358643884670095630",
    "title": "Manager, Software Engineering",
    "company": "Mastercard",
@@ -9044,6 +9044,24 @@
    "url": "https://jooble.org/jdp/-1358643884670095630",
    "date": "2026-09-21T00:00:00.0000000",
    "description": "&nbsp;...and services that help people, businesses and governments realize their greatest potential. Title and Summary Manager, Software Engineering Overview We are seeking a hands-on Manager, Software Engineering to lead the development of scalable data platforms,...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:8582662898868338522",
+   "title": "Director, Software Engineering",
+   "company": "Mastercard",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/8582662898868338522",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "&nbsp;...and services that help people, businesses and governments realize their greatest potential. Title and Summary Director, Software Engineering Who is Mastercard? Mastercard is a global technology company in the payments industry. Our mission is to connect and power...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -9072,14 +9090,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:8582662898868338522",
-   "title": "Director, Software Engineering",
-   "company": "Mastercard",
+   "id": "jooble:-2631049242219111590",
+   "title": "Staff UI Engineer",
+   "company": "Ping Identity",
    "location": "India",
    "workType": "onsite",
-   "url": "https://jooble.org/jdp/8582662898868338522",
+   "url": "https://jooble.org/jdp/-2631049242219111590",
    "date": "2026-09-21T00:00:00.0000000",
-   "description": "&nbsp;...and services that help people, businesses and governments realize their greatest potential. Title and Summary Director, Software Engineering Who is Mastercard? Mastercard is a global technology company in the payments industry. Our mission is to connect and power...&nbsp;",
+   "description": "&nbsp;...taking governance concepts from design to reality in a fast-paced, collaborative, cross-functional environment, partnering with engineering, security, compliance, and product teams to shape the future of AI adoption. You Will: Design, develop, and maintain intuitive...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -9126,14 +9144,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-2631049242219111590",
-   "title": "Staff UI Engineer",
-   "company": "Ping Identity",
+   "id": "jooble:-1324281268218510080",
+   "title": "Senior Platform Engineer",
+   "company": "Mastercard",
    "location": "India",
    "workType": "onsite",
-   "url": "https://jooble.org/jdp/-2631049242219111590",
+   "url": "https://jooble.org/jdp/-1324281268218510080",
    "date": "2026-09-21T00:00:00.0000000",
-   "description": "&nbsp;...taking governance concepts from design to reality in a fast-paced, collaborative, cross-functional environment, partnering with engineering, security, compliance, and product teams to shape the future of AI adoption. You Will: Design, develop, and maintain intuitive...&nbsp;",
+   "description": "&nbsp;...products and services that help people, businesses and governments realize their greatest potential. Title and Summary Senior Platform Engineer ABOUT MASTERCARD Mastercard is a global technology company in the payments industry. Our mission is to connect and power an...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -9144,14 +9162,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-1324281268218510080",
-   "title": "Senior Platform Engineer",
+   "id": "jooble:-7525152723460361489",
+   "title": "Lead Software Engineer",
    "company": "Mastercard",
    "location": "India",
    "workType": "onsite",
-   "url": "https://jooble.org/jdp/-1324281268218510080",
+   "url": "https://jooble.org/jdp/-7525152723460361489",
    "date": "2026-09-21T00:00:00.0000000",
-   "description": "&nbsp;...products and services that help people, businesses and governments realize their greatest potential. Title and Summary Senior Platform Engineer ABOUT MASTERCARD Mastercard is a global technology company in the payments industry. Our mission is to connect and power an...&nbsp;",
+   "description": "&nbsp;...products and services that help people, businesses and governments realize their greatest potential. Title and Summary Lead Software Engineer Job Description Summary Job Overview: As part of an exciting, fast paced environment developing authentication and...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -9171,24 +9189,6 @@
    "date": "2026-09-08T00:00:00.0000000",
    "description": "&nbsp;...facilities in India are some of EchoStar's largest development centers outside the U.S. As a hub for technological convergence, our engineering talent is a catalyst for innovation in multimedia network and communications development. EchoStar does not charge any fees...&nbsp;",
    "tags": [],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-7525152723460361489",
-   "title": "Lead Software Engineer",
-   "company": "Mastercard",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/-7525152723460361489",
-   "date": "2026-09-21T00:00:00.0000000",
-   "description": "&nbsp;...products and services that help people, businesses and governments realize their greatest potential. Title and Summary Lead Software Engineer Job Description Summary Job Overview: As part of an exciting, fast paced environment developing authentication and...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
    "source": "Jooble (India)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9330,22 +9330,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-8399812803995333884",
-   "title": "Remote AI Trainer & Data Annotator (Freelance)",
-   "company": "Mindrift Data Annotation Projects",
-   "location": "El Paso, TX",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-8399812803995333884",
-   "date": "2026-09-19T00:00:00.0000000",
-   "description": "&nbsp;...tasks to train and improve artificial intelligence. As an annotator, you may be invited to take part in online projects such as rating AI- generated content, evaluating factual accuracy, or comparing responses - when projects are available. This is a project-based, part-...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-4465009289994918355",
    "title": "Senior Computer Vision MLE - AI Trainer",
    "company": "Mercor",
@@ -9357,6 +9341,22 @@
    "tags": [
     "Full-time"
    ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-8399812803995333884",
+   "title": "Remote AI Trainer & Data Annotator (Freelance)",
+   "company": "Mindrift Data Annotation Projects",
+   "location": "El Paso, TX",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-8399812803995333884",
+   "date": "2026-09-19T00:00:00.0000000",
+   "description": "&nbsp;...tasks to train and improve artificial intelligence. As an annotator, you may be invited to take part in online projects such as rating AI- generated content, evaluating factual accuracy, or comparing responses - when projects are available. This is a project-based, part-...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9464,12 +9464,12 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-4155185349281634649",
+   "id": "jooble:-8674044203854728415",
    "title": "Finance AI Trainer Remote, Part-Time Freelance",
    "company": "Mind Rift",
-   "location": "Italian Republic",
+   "location": "New York State",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-4155185349281634649",
+   "url": "https://jooble.org/jdp/-8674044203854728415",
    "date": "2026-09-24T12:33:01.2630000",
    "description": "&nbsp;...A leading AI project firm seeks a Mid-Senior level finance professional for a part-time, remote role. You will create complex tasks to evaluate AI systems, needing strong critical thinking, advanced finance experience, and tools like Excel. Candidates must hold a Bachelor...&nbsp;",
    "tags": [],
@@ -9528,24 +9528,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:4669757781824167681",
-   "title": "Healthcare Admin Expert - EHR Specialist - AI Trainer",
-   "company": "Mercor",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/4669757781824167681",
-   "date": "2026-04-27T00:00:00.0000000",
-   "description": "&nbsp;...About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-7015009706147683661",
    "title": "Remote AI Trainer & Annotator Part-Time Freelance",
    "company": "Toloka Annotators",
@@ -9596,6 +9578,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:803232364508891706",
+   "title": "Healthcare Specialist (Fluent in French) - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "Indiana, PA",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/803232364508891706",
+   "date": "2026-09-19T00:00:00.0000000",
+   "description": "Healthcare Specialist (Fluent in French) - Freelance AI Trainer Project Large‑scale language models are evolving from clever chatbots into powerful engines of clinical support, patient education, and medical research. With high‑quality training data, tomorrow’s AI can...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-8943785808103753366",
    "title": "Lean 4 & Pure Math Specialist - AI Trainer (Remote)",
    "company": "Meridial",
@@ -9628,13 +9626,13 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:4614872228598094178",
+   "id": "jooble:-1301853080602853282",
    "title": "Analytical Chemistry Specialist - AI Trainer, New Grad (Remote)",
    "company": "jobright.com",
-   "location": "United States",
+   "location": "New York, NY",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/4614872228598094178",
-   "date": "2026-09-24T00:00:00.0000000",
+   "url": "https://jooble.org/jdp/-1301853080602853282",
+   "date": "2026-09-23T00:00:00.0000000",
    "description": "&nbsp;...Analytical Chemistry Specialist - AI Trainer, New Grad (Remote) Join to apply for the Analytical Chemistry Specialist - AI Trainer, New Grad (Remote) role at Jobright.ai Analytical Chemistry Specialist - AI Trainer, New Grad (Remote) Join to apply for the Analytical Chemistry...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
@@ -9692,30 +9690,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-4474897117523494942",
-   "title": "Armenian AI Training Specialist — Remote",
-   "company": "Meridial",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-4474897117523494942",
-   "date": "2026-09-21T00:00:00.0000000",
-   "description": "Meridial is looking for an Armenian Language Expert for a freelance AI Trainer project. You will collaborate with advanced language models, assessing their performance across various topics. The ideal candidate will have a Master’s degree in Linguistics or a related field...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-5778444745030748025",
-   "title": "Korean Fluent AI Training Specialist (Remote • Flexible Hours)",
+   "id": "jooble:-599339593305029725",
+   "title": "AI Training Specialist — Flexible, Remote, Competitive Pay",
    "company": "Prolific",
-   "location": "Los Angeles, CA",
+   "location": "Dallas, TX",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-5778444745030748025",
-   "date": "2026-09-21T00:00:00.0000000",
-   "description": "Prolific is seeking Fluent Korean Speakers to join its Expert Network, helping to train and evaluate advanced AI models using real legal expertise. Candidates must possess strong language skills, take a verification test, and be able to concentrate on tasks for up to an...&nbsp;",
+   "url": "https://jooble.org/jdp/-599339593305029725",
+   "date": "2026-09-23T00:00:00.0000000",
+   "description": "Prolific is seeking an AI Training Expert to help train and evaluate advanced AI models. This position offers competitive pay rates of up to $25 per hour, flexible working hours, and the ability to work from home. As an AI Training Expert, you will complete various tasks...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9724,14 +9706,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-8980676555007739964",
+   "id": "jooble:-989842532327871305",
    "title": "AI Training Specialist — Remote & Flexible",
    "company": "Prolific",
-   "location": "Morgantown, WV",
+   "location": "Lubbock, TX",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-8980676555007739964",
-   "date": "2026-09-23T00:00:00.0000000",
-   "description": "Prolific is seeking an AI Training Expert to help train and evaluate leading AI models. This position offers competitive pay up to $25 per hour for one-hour tasks, allowing you to work from home. Successful candidates will have strong AI training skills, attention to detail...&nbsp;",
+   "url": "https://jooble.org/jdp/-989842532327871305",
+   "date": "2026-09-22T00:00:00.0000000",
+   "description": "Prolific is seeking an AI Training Expert to contribute to training and evaluating AI models. The role involves completing paid tasks with a flexible schedule, allowing you to work from home. A successful candidate will have verifiable experience, strong attention to detail...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9772,30 +9754,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-920775080331322947",
-   "title": "Korean Fluent AI Training Specialist (Remote • Flexible Hours)",
-   "company": "Prolific",
-   "location": "San Jose, CA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-920775080331322947",
-   "date": "2026-09-20T00:00:00.0000000",
-   "description": "Prolific is looking for Fluent Korean Speakers for their Expert Network. Responsibilities include completing AI training tasks, evaluating AI performance in Korean, and improving AI models. Participants have competitive pay rates and flexible working hours, allowing them...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-989842532327871305",
+   "id": "jooble:-8980676555007739964",
    "title": "AI Training Specialist — Remote & Flexible",
    "company": "Prolific",
-   "location": "Lubbock, TX",
+   "location": "Morgantown, WV",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-989842532327871305",
-   "date": "2026-09-22T00:00:00.0000000",
-   "description": "Prolific is seeking an AI Training Expert to contribute to training and evaluating AI models. The role involves completing paid tasks with a flexible schedule, allowing you to work from home. A successful candidate will have verifiable experience, strong attention to detail...&nbsp;",
+   "url": "https://jooble.org/jdp/-8980676555007739964",
+   "date": "2026-09-23T00:00:00.0000000",
+   "description": "Prolific is seeking an AI Training Expert to help train and evaluate leading AI models. This position offers competitive pay up to $25 per hour for one-hour tasks, allowing you to work from home. Successful candidates will have strong AI training skills, attention to detail...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9804,14 +9770,94 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-599339593305029725",
-   "title": "AI Training Specialist — Flexible, Remote, Competitive Pay",
+   "id": "jooble:-5778444745030748025",
+   "title": "Korean Fluent AI Training Specialist (Remote • Flexible Hours)",
+   "company": "Prolific",
+   "location": "Los Angeles, CA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-5778444745030748025",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "Prolific is seeking Fluent Korean Speakers to join its Expert Network, helping to train and evaluate advanced AI models using real legal expertise. Candidates must possess strong language skills, take a verification test, and be able to concentrate on tasks for up to an...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-4474897117523494942",
+   "title": "Armenian AI Training Specialist — Remote",
+   "company": "Meridial",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-4474897117523494942",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "Meridial is looking for an Armenian Language Expert for a freelance AI Trainer project. You will collaborate with advanced language models, assessing their performance across various topics. The ideal candidate will have a Master’s degree in Linguistics or a related field...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:1191455545650871260",
+   "title": "Remote AI Chatbot Training Specialist",
+   "company": "SupportFinity™",
+   "location": "Wisconsin",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/1191455545650871260",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "A leading AI training company is seeking analytical individuals to assist in training AI chatbots. This flexible remote role requires developing complex prompts, evaluating AI outputs, and managing independent communications. While no previous AI experience is needed, excellent...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-3663783435789097381",
+   "title": "Remote Airfield Safety & AI Training Specialist",
+   "company": "Crossing Hurdles",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-3663783435789097381",
+   "date": "2026-09-23T00:00:00.0000000",
+   "description": "&nbsp;...operations consultancy is seeking a Remote Airfield Operations Specialist - AI Trainer. This role involves reviewing AI-generated content, ensuring compliance with aviation regulations, and developing training materials. The candidate should have hands-on experience in...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-6203667068063855012",
+   "title": "Korean Fluent AI Training Specialist (Remote)",
    "company": "Prolific",
    "location": "Dallas, TX",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-599339593305029725",
+   "url": "https://jooble.org/jdp/-6203667068063855012",
+   "date": "2026-09-22T00:00:00.0000000",
+   "description": "Prolific is seeking Fluent Korean Speakers to join their Expert Network to assist in training and evaluating AI models using legal expertise. This role requires advanced Korean and strong English skills, attention to detail, and a reliable internet connection. Participants...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-6510636033046449989",
+   "title": "AI Training Specialist — Remote & Flexible",
+   "company": "Prolific",
+   "location": "Cedar Rapids, IA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-6510636033046449989",
    "date": "2026-09-23T00:00:00.0000000",
-   "description": "Prolific is seeking an AI Training Expert to help train and evaluate advanced AI models. This position offers competitive pay rates of up to $25 per hour, flexible working hours, and the ability to work from home. As an AI Training Expert, you will complete various tasks...&nbsp;",
+   "description": "Prolific is seeking AI Training Experts to assist in training and evaluating cutting-edge AI models. This role involves completing paid tasks, requiring up to an hour of uninterrupted work with pay rates of up to $25 per hour. The ideal candidates will possess relevant...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9852,30 +9898,30 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-6510636033046449989",
+   "id": "jooble:-920775080331322947",
+   "title": "Korean Fluent AI Training Specialist (Remote • Flexible Hours)",
+   "company": "Prolific",
+   "location": "San Jose, CA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-920775080331322947",
+   "date": "2026-09-20T00:00:00.0000000",
+   "description": "Prolific is looking for Fluent Korean Speakers for their Expert Network. Responsibilities include completing AI training tasks, evaluating AI performance in Korean, and improving AI models. Participants have competitive pay rates and flexible working hours, allowing them...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:292314025803724781",
    "title": "AI Training Specialist — Remote & Flexible",
    "company": "Prolific",
-   "location": "Cedar Rapids, IA",
+   "location": "Atlanta, GA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-6510636033046449989",
-   "date": "2026-09-23T00:00:00.0000000",
-   "description": "Prolific is seeking AI Training Experts to assist in training and evaluating cutting-edge AI models. This role involves completing paid tasks, requiring up to an hour of uninterrupted work with pay rates of up to $25 per hour. The ideal candidates will possess relevant...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-6203667068063855012",
-   "title": "Korean Fluent AI Training Specialist (Remote)",
-   "company": "Prolific",
-   "location": "Dallas, TX",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-6203667068063855012",
+   "url": "https://jooble.org/jdp/292314025803724781",
    "date": "2026-09-22T00:00:00.0000000",
-   "description": "Prolific is seeking Fluent Korean Speakers to join their Expert Network to assist in training and evaluating AI models using legal expertise. This role requires advanced Korean and strong English skills, attention to detail, and a reliable internet connection. Participants...&nbsp;",
+   "description": "Prolific is seeking AI Training Experts to help train and evaluate cutting-edge AI models. This role involves completing paid tasks that require one hour of uninterrupted work, with pay up to $25 per hour. Ideal candidates will have professional experience as an AI trainer...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9884,14 +9930,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-3663783435789097381",
-   "title": "Remote Airfield Safety & AI Training Specialist",
-   "company": "Crossing Hurdles",
+   "id": "jooble:887870057120552504",
+   "title": "Cantonese AI Training Specialist (Remote)",
+   "company": "Prolific",
    "location": "New York, NY",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-3663783435789097381",
-   "date": "2026-09-23T00:00:00.0000000",
-   "description": "&nbsp;...operations consultancy is seeking a Remote Airfield Operations Specialist - AI Trainer. This role involves reviewing AI-generated content, ensuring compliance with aviation regulations, and developing training materials. The candidate should have hands-on experience in...&nbsp;",
+   "url": "https://jooble.org/jdp/887870057120552504",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "Prolific, based in New York, is seeking fluent Cantonese speakers to join their Expert Network. Participants will help train and evaluate AI models using their legal expertise, with pay rates up to $30/hr for tasks that require one hour of uninterrupted work. Successful...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9932,22 +9978,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-4139460144263418113",
-   "title": "Remote AI Training Specialist - Problem Designer",
-   "company": "Mosaec",
-   "location": "Brooklyn, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-4139460144263418113",
-   "date": "2026-09-22T00:00:00.0000000",
-   "description": "TrainBrain is hiring domain specialists to craft, solve, and grade challenging training data and evaluations for AI models. You’ll write authentic problems in your field and ensure there is a verifiable correct answer. You’ll also assess model attempts and explain where...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-215936939473432853",
    "title": "Remote Video Editor & AI Training Feedback Specialist",
    "company": "YO AI Labs",
@@ -9956,6 +9986,38 @@
    "url": "https://jooble.org/jdp/-215936939473432853",
    "date": "2026-09-23T00:00:00.0000000",
    "description": "micro1 is seeking a Creative & Design Specialist to support a customer project focused on graphic design...&nbsp;&nbsp;..., and creative workflows. You’ll evaluate AI- generated outputs and provide high-quality human feedback for AI training. Prior paid experience in human-data work for...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:850582212852010044",
+   "title": "Economist & AI Training Specialist — Remote & Flexible",
+   "company": "Mindrift",
+   "location": "Kansas City, MO",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/850582212852010044",
+   "date": "2026-09-19T00:00:00.0000000",
+   "description": "&nbsp;...firm is seeking contributors with a strong academic background in Economics for flexible, project-based work engaging with cutting-edge AI technologies. Ideal candidates are final-year students or postgraduates with relevant experience in economic analysis or consulting....&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-4139460144263418113",
+   "title": "Remote AI Training Specialist - Problem Designer",
+   "company": "Mosaec",
+   "location": "Brooklyn, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-4139460144263418113",
+   "date": "2026-09-22T00:00:00.0000000",
+   "description": "TrainBrain is hiring domain specialists to craft, solve, and grade challenging training data and evaluations for AI models. You’ll write authentic problems in your field and ensure there is a verifiable correct answer. You’ll also assess model attempts and explain where...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9989,40 +10051,6 @@
    "date": "2026-09-21T00:00:00.0000000",
    "description": "Meridial is seeking a Graphic Designer Specialist for a freelance AI Trainer project, fully remote. The role involves analyzing AI-generated graphics, evaluating composition and style, and providing expert feedback. Ideal candidates have strong expertise in design software...&nbsp;",
    "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:8538533539274154167",
-   "title": "Conservation Science AI Training Data Specialist",
-   "company": "AuraOne Human Data",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/8538533539274154167",
-   "date": "2026-07-29T10:07:54.0699370+00:00",
-   "description": "&nbsp;...Conservation Science AI Training Data Specialist is a remote review track for evaluating AI outputs across environmental science reasoning, calculations, and research workflows. Reviewers grade derivations and assumptions, reproduce key results, and document the correct...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:3359734938566617002",
-   "title": "AI for Sales & Marketing Coach",
-   "company": "jobgether",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/3359734938566617002",
-   "date": "2026-09-21T00:00:00.0000000",
-   "description": "&nbsp;...This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI for Sales & Marketing Coach based in the United States. This remote contract role is designed for an experienced sales or marketing...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10096,14 +10124,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:1571297402961665124",
+   "id": "jooble:-7535010731010754240",
    "title": "Remote Pet Wellness Coach",
    "company": "High Five Pets",
-   "location": "United States",
+   "location": "Los Angeles, CA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/1571297402961665124",
-   "date": "2026-09-24T12:47:39.9170000",
-   "description": "Remote Pet Wellness Coach Join to apply for the Remote Pet Wellness Coach role at High Five Pets . Do you light up when you talk about pets? Imagine turning that passion into a flexible, meaningful career, one where you wake up excited to help pets thrive,...",
+   "url": "https://jooble.org/jdp/-7535010731010754240",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "Remote Pet Wellness CoachJoin to apply for the Remote Pet Wellness Coach role at High Five PetsDo you light up when you talk about pets?Imagine turning that passion into a flexible, meaningful career, one where you wake up excited to help pets thrive, all while building...",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10176,14 +10204,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-5187067442442384554",
-   "title": "Fraud AI / Data Senior Consultant (remote)",
+   "id": "jooble:5418574749180279123",
+   "title": "Fraud AI / Data Managing Consultant (remote)",
    "company": "Guidehouse",
    "location": "McLean, VA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-5187067442442384554",
-   "date": "2026-09-23T02:24:04.2430000",
-   "description": "Job Family:Technology ConsultingTravel Required:Up to 50%Clearance Required:Ability to Obtain Public TrustWhat You Will DoThe AI/ Data Senior Consultant leads discrete workstreams and delivers advanced AI and data solutions. This role combines technical depth, client engagement...&nbsp;",
+   "url": "https://jooble.org/jdp/5418574749180279123",
+   "date": "2026-09-24T00:00:00.0000000",
+   "description": "Job Family:Technology ConsultingTravel Required:Up to 50%Clearance Required:Ability to Obtain Public TrustWhat You Will DoThe AI/ Data Managing Consultant leads discrete workstreams and delivers advanced AI and data solutions. This role combines technical depth, client...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10304,15 +10332,17 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:6775858804918061983",
-   "title": "Remote Calculus Tutor - Flexible, On-Demand, AI-Supported",
-   "company": "Varsity Tutors, a Nerdy Company",
-   "location": "United States",
+   "id": "jooble:-2979724439812004592",
+   "title": "Senior Data & AI Engineer",
+   "company": "Meadows Incorporated",
+   "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/6775858804918061983",
-   "date": "2026-09-24T00:00:00.0000000",
-   "description": "A national online tutoring platform is seeking Instant Tutors for online Calculus sessions. Enjoy competitive pay, flexibility to work whenever you are available, and the ability to help students immediately with their learning needs. Ideal candidates will have strong...&nbsp;",
-   "tags": [],
+   "url": "https://jooble.org/jdp/-2979724439812004592",
+   "date": "2026-08-16T00:00:00.0000000",
+   "description": "&nbsp;...Collaborative, people-first culture focused on work-life balance Location Alpharetta, GA Position Overview The Senior Data & AI Engineer is responsible for designing, building, and scaling Meadows & Ohly's enterprise data platform and AI capabilities. This...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10328,38 +10358,6 @@
    "url": "https://jooble.org/jdp/4059416646807338277",
    "date": "2026-09-24T00:00:00.0000000",
    "description": "&nbsp;... AI Tutor - Arabic Remote United States SpaceXAI's mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge. Our team is small, highly motivated, and focused on engineering excellence. This organization...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:6463186232570882824",
-   "title": "Remote HTML Tutor with AI Copilot (On-Demand)",
-   "company": "Varsity Tutors, a Nerdy Company",
-   "location": "Tulsa, OK",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/6463186232570882824",
-   "date": "2026-09-24T00:00:00.0000000",
-   "description": "An innovative educational platform is seeking an Entry Level Instant Tutor to provide on-demand HTML tutoring. This role offers competitive pay, flexible hours, and the opportunity to make an impact by helping students when they need it most. The ideal candidate will possess...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-8604464450546231229",
-   "title": "Remote College Essay Tutor Flexible Hours, AI Copilot",
-   "company": "Varsity Tutors, a Nerdy Company",
-   "location": "Milwaukee, WI",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-8604464450546231229",
-   "date": "2026-09-21T00:00:00.0000000",
-   "description": "&nbsp;...A leading online tutoring platform is seeking an Instant College Application Essays Tutor to provide immediate support to students through their Live Learning Platform. Candidates should have strong communication skills and expertise in college essays. The role allows...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10400,14 +10398,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-6521202136685445285",
-   "title": "Hebrew AI Audio Tutor Remote",
-   "company": "Pantera Capital",
-   "location": "New York, NY",
+   "id": "jooble:-8604464450546231229",
+   "title": "Remote College Essay Tutor Flexible Hours, AI Copilot",
+   "company": "Varsity Tutors, a Nerdy Company",
+   "location": "Milwaukee, WI",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-6521202136685445285",
-   "date": "2026-09-24T00:00:00.0000000",
-   "description": "&nbsp;...A tech company is seeking an AI Tutor specialized in multilingual audio capabilities to enhance voice interactions for its AI system. The role involves curating and annotating audio data and requires native proficiency in Hebrew and strong English skills. Candidates will...&nbsp;",
+   "url": "https://jooble.org/jdp/-8604464450546231229",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "&nbsp;...A leading online tutoring platform is seeking an Instant College Application Essays Tutor to provide immediate support to students through their Live Learning Platform. Candidates should have strong communication skills and expertise in college essays. The role allows...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10424,6 +10422,38 @@
    "url": "https://jooble.org/jdp/8223174066169933505",
    "date": "2026-09-24T00:00:00.0000000",
    "description": "xAI is seeking an AI Tutor specialized in multilingual audio to enhance Grok's voice interactions. The role involves curating and annotating audio data to improve speech recognition globally. Candidates should have native proficiency in Italian and be proficient in English...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-6521202136685445285",
+   "title": "Hebrew AI Audio Tutor Remote",
+   "company": "Pantera Capital",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-6521202136685445285",
+   "date": "2026-09-24T00:00:00.0000000",
+   "description": "&nbsp;...A tech company is seeking an AI Tutor specialized in multilingual audio capabilities to enhance voice interactions for its AI system. The role involves curating and annotating audio data and requires native proficiency in Hebrew and strong English skills. Candidates will...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-6348295108898557248",
+   "title": "Remote Geometry Tutor - Flexible Hours, Fast Pay, AI Copilot",
+   "company": "Varsity Tutors, a Nerdy Company",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-6348295108898557248",
+   "date": "2026-09-19T00:00:00.0000000",
+   "description": "A leading online tutoring platform is seeking Instant Tutors for immediate online Geometry help in New York. This is a fully remote, full...&nbsp;&nbsp;...the flexibility to accept requests as needed and will utilize an AI- powered Tutor Copilot to enhance their teaching sessions. Ideal...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10464,14 +10494,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-6348295108898557248",
-   "title": "Remote Geometry Tutor - Flexible Hours, Fast Pay, AI Copilot",
+   "id": "jooble:-7953296845933164299",
+   "title": "Remote HTML Tutor with AI Copilot (On-Demand)",
    "company": "Varsity Tutors, a Nerdy Company",
-   "location": "New York, NY",
+   "location": "Tulsa, OK",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-6348295108898557248",
-   "date": "2026-09-19T00:00:00.0000000",
-   "description": "A leading online tutoring platform is seeking Instant Tutors for immediate online Geometry help in New York. This is a fully remote, full...&nbsp;&nbsp;...the flexibility to accept requests as needed and will utilize an AI- powered Tutor Copilot to enhance their teaching sessions. Ideal...&nbsp;",
+   "url": "https://jooble.org/jdp/-7953296845933164299",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "An innovative educational platform is seeking an Entry Level Instant Tutor to provide on-demand HTML tutoring. This role offers competitive pay, flexible hours, and the opportunity to make an impact by helping students when they need it most. The ideal candidate will possess...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10528,14 +10558,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-5546258538473313382",
-   "title": "Remote HSPT Tutor Flexible Hours AI Copilot",
+   "id": "jooble:-177168976464514902",
+   "title": "Remote Java Tutor - On-Demand with AI Support",
    "company": "Varsity Tutors, a Nerdy Company",
-   "location": "Phoenix, AZ",
+   "location": "New York, NY",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-5546258538473313382",
-   "date": "2026-09-20T00:00:00.0000000",
-   "description": "A leading tutoring platform is seeking a dedicated Entry Level Tutor to provide immediate online HSPT support from home. Enjoy flexible hours...&nbsp;&nbsp;...education are preferred, and the role includes utilizing an AI- powered platform to enhance tutoring sessions. #J-18808-Ljbffr Varsity...&nbsp;",
+   "url": "https://jooble.org/jdp/-177168976464514902",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "An innovative online tutoring platform is seeking an Instant Tutor skilled in Java to provide immediate support to students across the United States. You'll enjoy flexible working hours, competitive pay with surge pricing during peak hours, and the opportunity to make...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10544,32 +10574,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-4345294111200080212",
-   "title": "AI Tutor - Serbian",
-   "company": "Xai",
-   "location": "Remote",
+   "id": "jooble:-5546258538473313382",
+   "title": "Remote HSPT Tutor Flexible Hours AI Copilot",
+   "company": "Varsity Tutors, a Nerdy Company",
+   "location": "Phoenix, AZ",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-4345294111200080212",
-   "date": "2026-09-10T00:00:00.0000000",
-   "description": "&nbsp;...SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge....&nbsp;&nbsp;...accurately share knowledge with their teammates. ABOUT THE ROLE: As an AI Tutor specialized in multilingual audio capabilities, you will...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:2018200669013388361",
-   "title": "Tutor for AI Training",
-   "company": "SaidGig",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/2018200669013388361",
-   "date": "2026-09-15T00:00:00.0000000",
-   "description": "&nbsp;...Apply your teaching and tutoring expertise to help improve next-generation AI systems through realistic, one-on-one educational conversations. This remote contract role focuses on providing clear, adaptive academic support that reflects real-world tutoring and teaching...&nbsp;",
+   "url": "https://jooble.org/jdp/-5546258538473313382",
+   "date": "2026-09-20T00:00:00.0000000",
+   "description": "A leading tutoring platform is seeking a dedicated Entry Level Tutor to provide immediate online HSPT support from home. Enjoy flexible hours...&nbsp;&nbsp;...education are preferred, and the role includes utilizing an AI- powered platform to enhance tutoring sessions. #J-18808-Ljbffr Varsity...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10614,6 +10626,56 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-4345294111200080212",
+   "title": "AI Tutor - Serbian",
+   "company": "Xai",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-4345294111200080212",
+   "date": "2026-09-10T00:00:00.0000000",
+   "description": "&nbsp;...SpaceXAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge....&nbsp;&nbsp;...accurately share knowledge with their teammates. ABOUT THE ROLE: As an AI Tutor specialized in multilingual audio capabilities, you will...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:2018200669013388361",
+   "title": "Tutor for AI Training",
+   "company": "SaidGig",
+   "location": "United States",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/2018200669013388361",
+   "date": "2026-09-15T00:00:00.0000000",
+   "description": "&nbsp;...Apply your teaching and tutoring expertise to help improve next-generation AI systems through realistic, one-on-one educational conversations. This remote contract role focuses on providing clear, adaptive academic support that reflects real-world tutoring and teaching...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2987566968798441606",
+   "title": "Remote Calculus Tutor - Flexible, On-Demand, AI-Supported",
+   "company": "Varsity Tutors, a Nerdy Company",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-2987566968798441606",
+   "date": "2026-09-19T00:00:00.0000000",
+   "description": "A national online tutoring platform is seeking Instant Tutors for online Calculus sessions. Enjoy competitive pay, flexibility to work whenever you are available, and the ability to help students immediately with their learning needs. Ideal candidates will have strong...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:7839928837156463239",
    "title": "AI Tutor - Design Specialist",
    "company": "Xai",
@@ -10648,6 +10710,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:1952781060633163637",
+   "title": "Senior Learning Designer: AI-Powered K-8 Assessments",
+   "company": "Socket.dev",
+   "location": "New York, NY",
+   "workType": "hybrid",
+   "url": "https://jooble.org/jdp/1952781060633163637",
+   "date": "2026-09-20T00:00:00.0000000",
+   "description": "&nbsp;...Designer to drive learning design within content initiatives from brief to launch. You will model craft, upskill designers, and partner on AI- enabled content workflows, ensuring instructional quality and scalability. This role is based in NY or remote in the US, with hybrid...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:7250237458293392296",
    "title": "Remote Physics AI Tutor; Part-Time Freelance, Up to $55/hr",
    "company": "Mind Rift",
@@ -10664,17 +10742,15 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:89806234416956658",
-   "title": "Agentic AI/AI Engineer - Generative AI & Machine Learning",
-   "company": "Hudson Manpower",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/89806234416956658",
-   "date": "2026-07-06T00:00:00.0000000",
-   "description": "&nbsp;...description Job Summary: We are seeking a highly motivated and adaptable AI Engineer to join our innovative team. The ideal candidate will have a strong background in both Generative AI and traditional Machine Learning, with a proven ability to work on existing applications...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
+   "id": "jooble:845910920939321746",
+   "title": "Senior Generative AI Data Engineer",
+   "company": "Amgen Inc.",
+   "location": "Thousand Oaks, CA",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/845910920939321746",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "&nbsp;...supporting R&D’s Global Regulatory Affairs & Strategy (GRAAS) function in alignment with our business and DTI strategy. As a Senior Generative AI Data Engineer, you will be responsible for managing and optimizing the company's data infrastructure and architecture, designing...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10690,6 +10766,24 @@
    "url": "https://jooble.org/jdp/8113398157007656395",
    "date": "2026-05-05T00:00:00.0000000",
    "description": "&nbsp;...Figure is an AI robotics company developing autonomous general-purpose humanoid robots. Our goal is to build embodied AI systems that...&nbsp;&nbsp;...humanoid autonomy. We are looking for a Helix AI Engineer, Generative AI to build and scale generative models that enable robots to understand...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:89806234416956658",
+   "title": "Agentic AI/AI Engineer - Generative AI & Machine Learning",
+   "company": "Hudson Manpower",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/89806234416956658",
+   "date": "2026-07-06T00:00:00.0000000",
+   "description": "&nbsp;...description Job Summary: We are seeking a highly motivated and adaptable AI Engineer to join our innovative team. The ideal candidate will have a strong background in both Generative AI and traditional Machine Learning, with a proven ability to work on existing applications...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -10748,14 +10842,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-7535010731010754240",
+   "id": "jooble:1571297402961665124",
    "title": "Remote Pet Wellness Coach",
    "company": "High Five Pets",
-   "location": "Los Angeles, CA",
+   "location": "United States",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-7535010731010754240",
-   "date": "2026-09-21T00:00:00.0000000",
-   "description": "Remote Pet Wellness CoachJoin to apply for the Remote Pet Wellness Coach role at High Five PetsDo you light up when you talk about pets?Imagine turning that passion into a flexible, meaningful career, one where you wake up excited to help pets thrive, all while building...",
+   "url": "https://jooble.org/jdp/1571297402961665124",
+   "date": "2026-09-24T12:47:39.9170000",
+   "description": "Remote Pet Wellness Coach Join to apply for the Remote Pet Wellness Coach role at High Five Pets . Do you light up when you talk about pets? Imagine turning that passion into a flexible, meaningful career, one where you wake up excited to help pets thrive,...",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10832,6 +10926,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:5834692400678346252",
+   "title": "Prompt Engineer",
+   "company": "Virtual Vocations Inc",
+   "location": "United States",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/5834692400678346252",
+   "date": "2026-09-24T12:47:09.3900000",
+   "description": "&nbsp;...To support the expansion of the Prompt Engineering team, the full-time Prompt Engineer will analyze business processes, design scripts and prompts for AI agents, and develop methodologies for assessing AI performance, all while working remotely across Europe. Key responsibilities...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-8081026011189545026",
    "title": "Prompt Engineer",
    "company": "SWITS DIGITAL Private Limited",
@@ -10896,22 +11006,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:5834692400678346252",
-   "title": "Prompt Engineer",
-   "company": "Virtual Vocations Inc",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/5834692400678346252",
-   "date": "2026-09-24T12:47:09.3900000",
-   "description": "&nbsp;...To support the expansion of the Prompt Engineering team, the full-time Prompt Engineer will analyze business processes, design scripts and prompts for AI agents, and develop methodologies for assessing AI performance, all while working remotely across Europe. Key responsibilities...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-2016307758688011663",
    "title": "Remote Prompt Engineer - LLM Optimization & AI Safety",
    "company": "Codertal",
@@ -10920,22 +11014,6 @@
    "url": "https://jooble.org/jdp/-2016307758688011663",
    "date": "2026-09-21T00:00:00.0000000",
    "description": "A tech company is seeking a skilled Prompt Engineer for a remote position in the European Union. The ideal candidate will design, test, and optimize prompts to enhance AI model performance. Responsibilities include collaborating with data scientists, ensuring compliance...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-8101024284637058548",
-   "title": "Prompt Engineer - Healthcare Voice Agent",
-   "company": "Saviance",
-   "location": "Boston, MA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-8101024284637058548",
-   "date": "2026-09-23T00:00:00.0000000",
-   "description": "&nbsp;...Job Title: Prompt Engineer -- - Healthcare Voice Agent Location: Remote Duration: Part time Contract About BigRio BigRio is a Boston-headquartered technology consulting firm specializing in AI/ML, data engineering, and custom software solutions with a strong...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11028,6 +11106,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-4951553214804491516",
+   "title": "Remote Turkish Language Evaluator - AI Content Quality",
+   "company": "MERIT Beauty",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-4951553214804491516",
+   "date": "2026-09-20T00:00:00.0000000",
+   "description": "&nbsp;...MERIT Beauty is seeking Turkish-speaking annotators for a contract role evaluating AI- generated content. You will review content for coherence, consistency, and alignment with real-world expectations in Turkish. The ideal candidates are native or fluent Turkish speakers...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-5266290275042552260",
    "title": "Remote AI UI/UX Design Evaluator",
    "company": "DataAnnotation",
@@ -11052,22 +11146,6 @@
    "url": "https://jooble.org/jdp/-5674147520484549780",
    "date": "2026-09-24T12:47:37.2870000",
    "description": "A technology company is seeking an AI Web Search Evaluator to enhance the quality of search engine results. This flexible, remote, part-time role focuses on analyzing search performance and providing feedback to improve algorithms. Ideal candidates will have strong analytical...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-4951553214804491516",
-   "title": "Remote Turkish Language Evaluator - AI Content Quality",
-   "company": "MERIT Beauty",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-4951553214804491516",
-   "date": "2026-09-20T00:00:00.0000000",
-   "description": "&nbsp;...MERIT Beauty is seeking Turkish-speaking annotators for a contract role evaluating AI- generated content. You will review content for coherence, consistency, and alignment with real-world expectations in Turkish. The ideal candidates are native or fluent Turkish speakers...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11124,6 +11202,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:1537593400547102586",
+   "title": "Investment & Finance AI Evaluator (Remote)",
+   "company": "YO AI Labs",
+   "location": "Austin, TX",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/1537593400547102586",
+   "date": "2026-09-19T00:00:00.0000000",
+   "description": "YO AI Labs is seeking an Investment & Finance Expert to work remotely as a contractor. The role focuses on evaluating AI outputs related to valuation, financial modeling, markets, and investments, and crafting expert prompts plus reference answers to improve model reasoning...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-3961149978656266650",
    "title": "Remote Privacy Compliance Evaluator - AI QA",
    "company": "Mercor",
@@ -11148,6 +11242,22 @@
    "url": "https://jooble.org/jdp/-1690134798287977520",
    "date": "2026-09-23T00:00:00.0000000",
    "description": "Obsidian is hiring expert Evaluators in Healthcare operations for a remote, hourly engagement. You will review AI- generated work products for accuracy, rigor, and domain quality, leveraging your extensive subject-matter expertise in the field. The ideal candidate has over...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:819598545106299648",
+   "title": "Clinical AI Quality Evaluator (Remote)",
+   "company": "Modern MedEd",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/819598545106299648",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "Modern MedEd is seeking expert Evaluators in Clinical/biomedical/pharma to review AI- generated work products for accuracy and domain quality. This is a remote, hourly engagement that you can complete on your own schedule. You will apply deep subject-matter expertise to...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11204,6 +11314,38 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:90279904351961642",
+   "title": "AI Design Evaluator (Remote · Flexible Hours)",
+   "company": "Prolific",
+   "location": "Sacramento, CA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/90279904351961642",
+   "date": "2026-09-22T00:00:00.0000000",
+   "description": "Prolific seeks Product Designers and UX Specialists to help train AI models using your expertise. You'll evaluate AI-generated designs and ensure usability and accessibility while working from home. Ideal candidates hold a BS, MS, or PhD in a relevant field and have at...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:1078351203441222340",
+   "title": "Remote Tamil AI Voice & Sentiment Evaluator",
+   "company": "Prolific",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/1078351203441222340",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "Prolific is seeking an AI Trainer with advanced Tamil fluency to evaluate AI models' understanding of the Tamil language's emotional and cultural nuances. Responsibilities include assessing audio clips, reviewing tones for cultural relevancy, and ensuring quality control...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-3563159776082941313",
    "title": "AI Design Evaluator & UX Specialist - Remote",
    "company": "Prolific",
@@ -11236,6 +11378,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-5389204089706407262",
+   "title": "Healthcare Operations Evaluator - AI QA Expert (Remote)",
+   "company": "Mercor",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-5389204089706407262",
+   "date": "2026-09-22T00:00:00.0000000",
+   "description": "Mercor is hiring expert Evaluators in Healthcare operations to review AI- generated outputs (documents, spreadsheets, and slide decks) for accuracy and domain quality. This is a remote, hourly engagement. You will apply deep subject-matter expertise to grade outputs, identify...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-5595836471188378825",
    "title": "Remote Specialized Industries Expert — AI Workflow Evaluator",
    "company": "YO AI Labs",
@@ -11252,14 +11410,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-5389204089706407262",
-   "title": "Healthcare Operations Evaluator - AI QA Expert (Remote)",
+   "id": "jooble:640260894490257191",
+   "title": "Remote AI Output Evaluator - People Ops Expert",
    "company": "Mercor",
    "location": "New York, NY",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-5389204089706407262",
-   "date": "2026-09-22T00:00:00.0000000",
-   "description": "Mercor is hiring expert Evaluators in Healthcare operations to review AI- generated outputs (documents, spreadsheets, and slide decks) for accuracy and domain quality. This is a remote, hourly engagement. You will apply deep subject-matter expertise to grade outputs, identify...&nbsp;",
+   "url": "https://jooble.org/jdp/640260894490257191",
+   "date": "2026-09-23T00:00:00.0000000",
+   "description": "Mercor is seeking expert Evaluators in People ops / recruiting to review AI- generated work products for accuracy, rigor, and domain quality. You will apply deep subject-matter expertise to grade outputs. This is a remote, hourly engagement. You will evaluate artifacts...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11332,30 +11490,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-3187764841834948987",
-   "title": "Remote Government AI Quality Evaluator | Domain Expert",
+   "id": "jooble:752926936387390217",
+   "title": "Remote Financial Compliance AI Evaluator & Quality Reviewer",
    "company": "Obsidian",
    "location": "New York, NY",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-3187764841834948987",
-   "date": "2026-09-19T00:00:00.0000000",
-   "description": "Obsidian is seeking expert Evaluators in Government/public administration to review AI- generated documents, spreadsheets, and slide decks for accuracy and domain quality. You will apply deep subject-matter expertise to grade outputs and provide structured feedback. This...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-1645266133088912955",
-   "title": "Remote Environmental Science Reviewer AI Quality Evaluator",
-   "company": "Obsidian",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-1645266133088912955",
-   "date": "2026-09-20T00:00:00.0000000",
-   "description": "Obsidian is seeking expert Evaluators in Biology and environmental science to review AI- generated outputs for accuracy and domain quality. Work is remote and paid hourly, leveraging deep subject-matter knowledge to assess and grade documents, spreadsheets, and slide decks...&nbsp;",
+   "url": "https://jooble.org/jdp/752926936387390217",
+   "date": "2026-09-21T00:00:00.0000000",
+   "description": "Obsidian is hiring expert Evaluators for a remote, hourly role focused on Compliance and regulatory response with financial-services AI. You'll assess AI-generated work products for accuracy and domain quality, leveraging your expertise. The ideal candidate has over 5 years...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11372,54 +11514,6 @@
    "url": "https://jooble.org/jdp/-6105901136740632029",
    "date": "2026-09-23T00:00:00.0000000",
    "description": "Prolific is seeking Advanced Dutch Speakers in Chicago, IL to train AI models. You will complete AI tasks and assess AI performance in...&nbsp;&nbsp;...competitive rates and direct payment through PayPal. Pass the evaluation, and you can start within 15 minutes. #J-18808-Ljbffr Prolific",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-1324411749355558171",
-   "title": "English (U.S. Native) AI Trainer & Evaluator (Remote, Hourly Contractor)",
-   "company": "CNTXT AI",
-   "location": "Brooklyn, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-1324411749355558171",
-   "date": "2026-09-19T00:00:00.0000000",
-   "description": "&nbsp;...Summary This is a fully remote, hourly contractor role supporting AI data and language projects on a project-based, flexible hour...&nbsp;&nbsp;..., and other content to support AI training datasets. LLM evaluation: reviewing AI-generated responses for accuracy, reasoning quality...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-7467923393582513374",
-   "title": "AI Trainer & Evaluator",
-   "company": "SaidGig",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-7467923393582513374",
-   "date": "2026-07-31T00:00:00.0000000",
-   "description": "&nbsp;...Role Overview Help improve next-generation AI systems by supplying precise, real-world evaluation, annotation, and feedback. This remote contractor role focuses on how AI models learn, reason, and perform across diverse subject areas. Key Responsibilities Evaluate...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-20371797820347054",
-   "title": "Remote: Entry-Level AI Data Labeler & Evaluator",
-   "company": "Rex USA",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-20371797820347054",
-   "date": "2026-09-23T00:00:00.0000000",
-   "description": "&nbsp;...A leading AI training company is seeking a Remote Annotator to support human-in-the-loop AI training workflows for large language...&nbsp;&nbsp;...models. This role involves reviewing labeled datasets, performing evaluations for helpfulness and safety, and ensuring quality in training...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11454,24 +11548,6 @@
    "url": "https://jooble.org/jdp/-8185569731259465802",
    "date": "2026-05-21T00:00:00.0000000",
    "description": "&nbsp;...for yourself and your teammates. Nice to Haves Prior experience training and deploying your own ML models (including RL or RLHF) into production systems that drove measurable business impact. Experience building shared AI/ML platforms or services used by...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:5575100130364302657",
-   "title": "Machine Learning Engineer - LLMs",
-   "company": "Hadrian Automation",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/5575100130364302657",
-   "date": "2026-07-23T00:00:00.0000000",
-   "description": "&nbsp;...For ~5-8 years of professional AI/ML experience, with at least 2 years working directly with large language models (fine-tuning, RLHF/ DPO, or pre-training), with special consideration for work with layout-aware models ~ Strong Python and PyTorch fluency: You've written...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -11526,6 +11602,24 @@
    "url": "https://jooble.org/jdp/1246287376219935033",
    "date": "2026-06-29T00:00:00.0000000",
    "description": "&nbsp;...in the cloud. ~ Strong evaluation methodology: designing benchmarks, measuring quality, detecting regressions. ~ Experience with RLHF, DPO, or other alignment techniques is a strong plus. ~ BS/MS in Computer Science, Machine Learning, or equivalent experience....&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:5575100130364302657",
+   "title": "Machine Learning Engineer - LLMs",
+   "company": "Hadrian Automation",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/5575100130364302657",
+   "date": "2026-07-23T00:00:00.0000000",
+   "description": "&nbsp;...For ~5-8 years of professional AI/ML experience, with at least 2 years working directly with large language models (fine-tuning, RLHF/ DPO, or pre-training), with special consideration for work with layout-aware models ~ Strong Python and PyTorch fluency: You've written...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -11626,14 +11720,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-234943468042136078",
-   "title": "Machine Learning Engineer - LLMs & Generative AI",
-   "company": "Truveta",
+   "id": "jooble:-8139676773549860186",
+   "title": "Staff Machine Learning Engineer, Public Sector",
+   "company": "Scale Ai, Inc.",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-234943468042136078",
-   "date": "2026-04-21T00:00:00.0000000",
-   "description": "&nbsp;.... apply and refine state-of-the-art techniques such as supervised fine-tuning (SFT), reinforcement learning-based methods (e.g., RLHF, RLVR), parameter-efficient fine-tuning (PEFT), prompt tuning, and retrieval-augmented generation (RAG). Collaborate cross-functionally...&nbsp;",
+   "url": "https://jooble.org/jdp/-8139676773549860186",
+   "date": "2026-09-13T00:00:00.0000000",
+   "description": "&nbsp;...spatial reference systems. Depth in model adaptation - training or fine-tuning embedding models, instruction tuning, LoRA/PEFT, or RLHF. Experience building evaluation infrastructure for non-deterministic systems: LLM-as-judge, regression suites for agent behavior,...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -11644,14 +11738,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-8139676773549860186",
-   "title": "Staff Machine Learning Engineer, Public Sector",
-   "company": "Scale Ai, Inc.",
+   "id": "jooble:-234943468042136078",
+   "title": "Machine Learning Engineer - LLMs & Generative AI",
+   "company": "Truveta",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-8139676773549860186",
-   "date": "2026-09-13T00:00:00.0000000",
-   "description": "&nbsp;...spatial reference systems. Depth in model adaptation - training or fine-tuning embedding models, instruction tuning, LoRA/PEFT, or RLHF. Experience building evaluation infrastructure for non-deterministic systems: LLM-as-judge, regression suites for agent behavior,...&nbsp;",
+   "url": "https://jooble.org/jdp/-234943468042136078",
+   "date": "2026-04-21T00:00:00.0000000",
+   "description": "&nbsp;.... apply and refine state-of-the-art techniques such as supervised fine-tuning (SFT), reinforcement learning-based methods (e.g., RLHF, RLVR), parameter-efficient fine-tuning (PEFT), prompt tuning, and retrieval-augmented generation (RAG). Collaborate cross-functionally...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -11734,22 +11828,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:4916664441776170972",
-   "title": "Linguist II",
-   "company": "SGS Consulting",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/4916664441776170972",
-   "date": "2026-09-10T10:22:04.7380141+00:00",
-   "description": "&nbsp;...development and maintenance of annotation schemas and guidelines for LLM training data (e.g., instruction-tuning, preference labeling, RLHF) Evaluate and quality-check datasets used for pre-training, fine-tuning, and alignment of language models Support the...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-2224430669973913027",
    "title": "NLP AI Engineer",
    "company": "Jobgether",
@@ -11761,6 +11839,22 @@
    "tags": [
     "Full-time"
    ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:4916664441776170972",
+   "title": "Linguist II",
+   "company": "SGS Consulting",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/4916664441776170972",
+   "date": "2026-09-10T10:22:04.7380141+00:00",
+   "description": "&nbsp;...development and maintenance of annotation schemas and guidelines for LLM training data (e.g., instruction-tuning, preference labeling, RLHF) Evaluate and quality-check datasets used for pre-training, fine-tuning, and alignment of language models Support the...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -11804,6 +11898,24 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-6158794893958671184",
+   "title": "CRM Operations Specialist",
+   "company": "micro1",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-6158794893958671184",
+   "date": "2026-09-19T00:00:00.0000000",
+   "description": "&nbsp;...the CRM you work in and document them clearly. Prior paid experience with human data work for AI models, data labeling, annotation, RLHF, AI response evaluation, model evaluation, or rubric-based grading, is a plus, but not required. Please note that simply using AI tools...&nbsp;",
+   "tags": [
+    "Temporary"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-2104030154989331053",
    "title": "Educator/ Assessor Writer",
    "company": "micro1",
@@ -11830,24 +11942,6 @@
    "url": "https://jooble.org/jdp/-4310601901939065001",
    "date": "2026-09-19T16:01:20.0880983+00:00",
    "description": "&nbsp;...or public audiences. Exceptional attention to detail, critical analysis, and written communication skills. Experience with digital document review platforms or annotation tools is desirable; familiarity with model evaluation or RLHF is a plus but not required....&nbsp;",
-   "tags": [
-    "Temporary"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-6158794893958671184",
-   "title": "CRM Operations Specialist",
-   "company": "micro1",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-6158794893958671184",
-   "date": "2026-09-19T00:00:00.0000000",
-   "description": "&nbsp;...the CRM you work in and document them clearly. Prior paid experience with human data work for AI models, data labeling, annotation, RLHF, AI response evaluation, model evaluation, or rubric-based grading, is a plus, but not required. Please note that simply using AI tools...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -12066,22 +12160,6 @@
    "url": "https://jooble.org/jdp/-4538350727020545231",
    "date": "2026-09-21T00:00:00.0000000",
    "description": "&nbsp;...Consulting seeks a Copywriting & Content SME for a remote, hourly contractor role. You will review AI- generated outputs and create expert copy, evaluating reasoning quality, brand fit, tone, and writing decisions. Candidates bring a Bachelor's or higher in communications...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:5418574749180279123",
-   "title": "Fraud AI / Data Managing Consultant (remote)",
-   "company": "Guidehouse",
-   "location": "McLean, VA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/5418574749180279123",
-   "date": "2026-09-24T00:00:00.0000000",
-   "description": "Job Family:Technology ConsultingTravel Required:Up to 50%Clearance Required:Ability to Obtain Public TrustWhat You Will DoThe AI/ Data Managing Consultant leads discrete workstreams and delivers advanced AI and data solutions. This role combines technical depth, client...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -12505,7 +12583,7 @@
    "company": "Aristocrat",
    "location": "Noida, Ghaziabad",
    "workType": "onsite",
-   "url": "https://www.adzuna.in/land/ad/5897683413?se=JE52hLm48RG0icvEXQkUYw&utm_medium=api&utm_source=cd632dce&v=3077DCB9F45B3702C3D41B35FCC4F6B07B6D0A50",
+   "url": "https://www.adzuna.in/land/ad/5897683413?se=lPMBLr-48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=3077DCB9F45B3702C3D41B35FCC4F6B07B6D0A50",
    "date": "2026-09-25T06:38:33Z",
    "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Aristocrat, we're on a mission to bring happiness to life through the power of play. We believe our innovative and inclusive culture drives our success. We're committed to making a positive impact in the gaming industry. As a Technical Lead - AI Specialist / Automation Engineer, you'll have the chance to devel…",
    "tags": [
@@ -12523,7 +12601,7 @@
    "company": "FlixStock",
    "location": "India",
    "workType": "onsite",
-   "url": "https://www.adzuna.in/land/ad/5897295013?se=JE52hLm48RG0icvEXQkUYw&utm_medium=api&utm_source=cd632dce&v=C7E78EF03085D49B1AB7B5EAADCE4DDC921A0FC0",
+   "url": "https://www.adzuna.in/land/ad/5897295013?se=lPMBLr-48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=C7E78EF03085D49B1AB7B5EAADCE4DDC921A0FC0",
    "date": "2026-09-25T01:54:01Z",
    "description": "Fashion Associate – AI Fashion Production Location: Gurgaon Experience: 2 years Function: Fashion / AI Production About FlixStock FlixStock is a global fashion technology company working at the intersection of fashion, artificial intelligence, and e-commerce. We work with leading global fashion brands and retailers, including major European customers, to create high-quality product imagery using AI-powered production workflows. For fashion professionals in India, this is a unique opportunity to…",
    "tags": [
@@ -13279,7 +13357,7 @@
    "company": "Meta",
    "location": "Menlo Park, San Mateo County",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5887525904?se=Dpv3hbm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=D6E5F3B4DCDD66487A310A91D0D3A0DA72877914",
+   "url": "https://www.adzuna.com/land/ad/5887525904?se=sNHYL7-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=D6E5F3B4DCDD66487A310A91D0D3A0DA72877914",
    "date": "2026-09-17T06:44:08Z",
    "description": "Summary: In this role, you will be a member of the AI Networking Software team and part of the bigger DC networking organization. The team develops and owns the software stack around NCCL (NVIDIA Collective Communications Library), which enables multi-GPU and multi-node data communication through HPC-style collectives. NCCL has been integrated into PyTorch and is on the critical path of multi-GPU distributed training. In other words, nearly every distributed GPU-based ML workload in Meta Produc…",
    "tags": [
@@ -13333,7 +13411,7 @@
    "company": "EY",
    "location": "Grand Central, Manhattan",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5897766931?se=XrlRhrm48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=BEF99287C2A35911C26F496E78E7A6815B5904D9",
+   "url": "https://www.adzuna.com/land/ad/5897766931?se=ao5IML-48RGCPJhmN82Vmg&utm_medium=api&utm_source=cd632dce&v=BEF99287C2A35911C26F496E78E7A6815B5904D9",
    "date": "2026-09-24T22:04:48Z",
    "description": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. EY is a leader in serving the global financial services marketplace and the only professional services firm with a separate business unit dedicated to the financial services industry – the Financial Services Organization (FSO). Our focused model and bold ambition hav…",
    "tags": [
@@ -13351,7 +13429,7 @@
    "company": "CoreWeave",
    "location": "Cupertino, Santa Clara County",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5897762616?se=XrlRhrm48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=E00A2774F90E4A7323D2B0B0DDD87A0E33DCB4D4",
+   "url": "https://www.adzuna.com/land/ad/5897762616?se=ao5IML-48RGCPJhmN82Vmg&utm_medium=api&utm_source=cd632dce&v=E00A2774F90E4A7323D2B0B0DDD87A0E33DCB4D4",
    "date": "2026-09-24T22:04:03Z",
    "description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. L…",
    "tags": [
@@ -13369,7 +13447,7 @@
    "company": "EY",
    "location": "Highland Park, Dallas",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5897761748?se=XrlRhrm48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=C3F507797208BB5914F75ACDD146043C8DF65672",
+   "url": "https://www.adzuna.com/land/ad/5897761748?se=ao5IML-48RGCPJhmN82Vmg&utm_medium=api&utm_source=cd632dce&v=C3F507797208BB5914F75ACDD146043C8DF65672",
    "date": "2026-09-24T22:03:54Z",
    "description": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Government & Public Sector – Service Delivery Center – AI & Data – AI Solution Development – Analyst From strategy to execution The Government & Public Sector practice of Ernst & Young provides a full range of consulting and audit services to help our Federal, State,…",
    "tags": [
@@ -13387,7 +13465,7 @@
    "company": "Caterpillar Inc.",
    "location": "Irving, Dallas",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5897756271?se=XrlRhrm48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=481C58E3FEFA3C38185C7218ADB576A190F67526",
+   "url": "https://www.adzuna.com/land/ad/5897756271?se=ao5IML-48RGCPJhmN82Vmg&utm_medium=api&utm_source=cd632dce&v=481C58E3FEFA3C38185C7218ADB576A190F67526",
    "date": "2026-09-24T21:57:54Z",
    "description": "Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a be…",
    "tags": [
@@ -13405,7 +13483,7 @@
    "company": "Braze",
    "location": "Grand Central, Manhattan",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5897755102?se=XrlRhrm48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=5D429677D294E2056FBFBCF2059E8F1422CCF85D",
+   "url": "https://www.adzuna.com/land/ad/5897755102?se=ao5IML-48RGCPJhmN82Vmg&utm_medium=api&utm_source=cd632dce&v=5D429677D294E2056FBFBCF2059E8F1422CCF85D",
    "date": "2026-09-24T21:57:40Z",
    "description": "At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization. To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to cont…",
    "tags": [
@@ -13423,7 +13501,7 @@
    "company": "Braze",
    "location": "Schiller Park, Cook County",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5897742000?se=XrlRhrm48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=B172F371B89EAC0910B10F0DC78C63ACEC7D5D7C",
+   "url": "https://www.adzuna.com/land/ad/5897742000?se=ao5IML-48RGCPJhmN82Vmg&utm_medium=api&utm_source=cd632dce&v=B172F371B89EAC0910B10F0DC78C63ACEC7D5D7C",
    "date": "2026-09-24T21:47:11Z",
    "description": "At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity – inside and outside our organization. To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to cont…",
    "tags": [
@@ -13441,7 +13519,7 @@
    "company": "CoreWeave",
    "location": "Hayes Valley, San Francisco",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5897723176?se=XrlRhrm48RGhgqvDw1UH9A&utm_medium=api&utm_source=cd632dce&v=86385B88E36EA1313BFC84DF4D1E2EA0C121026A",
+   "url": "https://www.adzuna.com/land/ad/5897723176?se=ao5IML-48RGCPJhmN82Vmg&utm_medium=api&utm_source=cd632dce&v=86385B88E36EA1313BFC84DF4D1E2EA0C121026A",
    "date": "2026-09-24T21:35:45Z",
    "description": "CoreWeave is The Essential Cloud for AI™. Built for pioneers by pioneers, CoreWeave delivers a platform of technology, tools, and teams that enables innovators to build and scale AI with confidence. Trusted by leading AI labs, startups, and global enterprises, CoreWeave combines superior infrastructure performance with deep technical expertise to accelerate breakthroughs and turn compute into capability. Founded in 2017, CoreWeave became a publicly traded company (Nasdaq: CRWV) in March 2025. L…",
    "tags": [
@@ -13486,24 +13564,6 @@
    "source": "Adzuna (US)",
    "salaryMin": 37440,
    "salaryMax": 57200,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5897980456",
-   "title": "Software Engineer II",
-   "company": "Microsoft",
-   "location": "Redmond, King County",
-   "workType": "onsite",
-   "url": "https://www.adzuna.com/details/5897980456?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-09-25T02:09:21Z",
-   "description": "Overview Join the Intelligent Conversation and Communications Cloud (IC3), the platform powering Microsoft Teams, Microsoft 365 Copilot, and next-generation AI experiences for millions of users worldwide. We are building the infrastructure that transforms real-time conversations, meetings, voice, video, and collaboration signals into intelligent, actionable experiences. As a Software Engineer II, you’ll design, build, and operate large-scale distributed systems that enable AI-powered voice agen…",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 102100,
-   "salaryMax": 202200,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
@@ -13796,42 +13856,6 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:gb:5897106110",
-   "title": "Principal Software Engineer, FDE",
-   "company": "Microsoft",
-   "location": "UK",
-   "workType": "onsite",
-   "url": "https://www.adzuna.co.uk/jobs/details/5897106110?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-09-24T17:35:52Z",
-   "description": "Overview In the Microsoft Frontier Company Engineering team, you won't just build software; you'll deliver real outcomes for some of the world's most complex organizations. We are a global team of world-class engineers who have been working in a Forward Deployed Engineering (FDE) model for more than a decade, embedding directly within customer teams to solve their toughest challenges, side-by-side, and shipping production-ready solutions in days, not months. As a Principal Software Engineer, yo…",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (GB)",
-   "salaryMin": 0,
-   "salaryMax": 55,
-   "salaryCurrency": "GBP",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:gb:5896955732",
-   "title": "AI Agent Engineer",
-   "company": "Digital Waffle",
-   "location": "Birmingham, West Midlands",
-   "workType": "onsite",
-   "url": "https://www.adzuna.co.uk/jobs/details/5896955732?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-09-24T15:59:04Z",
-   "description": "A global media and content business is hiring an Software Engineer with strong AI knowledge to build the first dedicated agent platform inside a high-volume, deadline-driven editorial and licensing operation. Editorial teams across four continents source, clear, produce and distribute content seven days a week to over 1,500 clients, sitting on an archive of roughly one million photographs and 40,000 video clips. A lot of the work keeping that moving is repetitive and judgement-light and current…",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (GB)",
-   "salaryMin": 40000,
-   "salaryMax": 55000,
-   "salaryCurrency": "GBP",
-   "salaryPeriod": "year"
-  },
-  {
    "id": "adzuna:ca:5896883526",
    "title": "AI Data Trainer - Remote",
    "company": "YO AI Labs",
@@ -14048,6 +14072,24 @@
    "salaryPeriod": "year"
   },
   {
+   "id": "adzuna:ca:5898053936",
+   "title": "Program Manager II, AI & Productivity",
+   "company": "Expedia",
+   "location": "Greater Vancouver, British Columbia",
+   "workType": "onsite",
+   "url": "https://www.adzuna.ca/details/5898053936?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-09-25T04:45:43Z",
+   "description": "At Expedia Group, we help travelers explore the world, one journey at a time. As a global travel company powered by passionate people, trusted partnerships, and leading technology, we connect travelers, partners, and advertisers through our consumer brands, B2B network, and travel advertising business. Here, you'll do meaningful work that helps millions of people discover, book, and experience travel with more ease, confidence, and joy. Our five Behaviors-Traveler First, Think Big, Operate with…",
+   "tags": [
+    "IT Jobs"
+   ],
+   "source": "Adzuna (CA)",
+   "salaryMin": 152000,
+   "salaryMax": 152000,
+   "salaryCurrency": "CAD",
+   "salaryPeriod": "year"
+  },
+  {
    "id": "adzuna:ca:5896552868",
    "title": "Senior Web Developer (AI-Augmented)",
    "company": "Jobgether",
@@ -14084,6 +14126,24 @@
    "salaryPeriod": "year"
   },
   {
+   "id": "adzuna:au:5896752055",
+   "title": "AI Data Trainer - Remote",
+   "company": "YO AI Labs",
+   "location": "Melbourne, Melbourne Region",
+   "workType": "remote",
+   "url": "https://www.adzuna.com.au/details/5896752055?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-09-24T21:29:24Z",
+   "description": "Senior AI Trainer Role Type: Contractor, Remote Location: North America, Latin America, Europe, UK, Oceania We're seeking Senior AI Trainers to support a customer project focused on improving AI systems through expert-level video annotation and data labeling. You'll review robotic-arm footage, create precise annotations, and provide high-quality data to support AI model training. No prior AI experience is required. Key Responsibilities Review robotic-arm videos and identify key actions, events,…",
+   "tags": [
+    "IT Jobs"
+   ],
+   "source": "Adzuna (AU)",
+   "salaryMin": 83200,
+   "salaryMax": 208000,
+   "salaryCurrency": "AUD",
+   "salaryPeriod": "year"
+  },
+  {
    "id": "adzuna:au:5896611197",
    "title": "Head of Electrical Engineering, AI Factory Development",
    "company": "Matchbox",
@@ -14098,6 +14158,24 @@
    "source": "Adzuna (AU)",
    "salaryMin": 180,
    "salaryMax": 240,
+   "salaryCurrency": "AUD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:au:5896611034",
+   "title": "Principal Network Architect, Backbone Network",
+   "company": "Matchbox",
+   "location": "The Rocks, Sydney",
+   "workType": "onsite",
+   "url": "https://www.adzuna.com.au/details/5896611034?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-09-24T19:45:58Z",
+   "description": "Principal Network Architect, Backbone NetworkFirmus TechnologiesOn-site • Sydney, AustraliaFull-time Role OverviewFirmus TechnologiesFirmus Technologies is a global leader pioneering the development and operation of efficient AI infrastructure across Asia Pacific.Founded in Australia in 2019, our mission is to create the most efficient AI infrastructure by combining cutting-edge technology with a steadfast commitment to sustainability.At Firmus, we are unique in our approach. We design, build,…",
+   "tags": [
+    "IT Jobs"
+   ],
+   "source": "Adzuna (AU)",
+   "salaryMin": 180,
+   "salaryMax": 280,
    "salaryCurrency": "AUD",
    "salaryPeriod": "year"
   },
@@ -14146,42 +14224,6 @@
    "url": "https://www.adzuna.com.au/details/5893889785?utm_medium=api&utm_source=cd632dce",
    "date": "2026-09-22T21:02:40Z",
    "description": "This is a remote position. Location Australia (Hybrid/Remote) Zoho Agentic AI Internship Program Requirements Specification Powerdata Group - Enterprise Agentic AI Internship Program using Zoho One 1. Executive Overview Powerdata Group seeks to establish a comprehensive Agentic Artificial Intelligence Internship Program leveraging the Zoho One platform ecosystem. The objective of this initiative is to provide university students, graduates, and early-career professionals with practical industry…",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (AU)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "AUD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:au:5893507347",
-   "title": "Zoho Agentic AI Internship Program",
-   "company": "PowerData Group Consulting",
-   "location": "Melbourne CBD, Melbourne",
-   "workType": "hybrid",
-   "url": "https://www.adzuna.com.au/details/5893507347?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-09-22T13:00:00Z",
-   "description": "This is a remote position. Location Australia (Hybrid/Remote) Unpaid 12 weeks internship 1. Executive Overview Powerdata Group seeks to establish a comprehensive Agentic Artificial Intelligence Internship Program leveraging the Zoho One platform ecosystem. The objective of this initiative is to provide university students, graduates, and early-career professionals with practical industry experience while simultaneously creating business value through the development of intelligent, autonomous, …",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (AU)",
-   "salaryMin": 1,
-   "salaryMax": 1,
-   "salaryCurrency": "AUD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:au:5892751715",
-   "title": "AI Safety Specialist - Fully Remote",
-   "company": "Mercor",
-   "location": "Sydney, Sydney Region",
-   "workType": "remote",
-   "url": "https://www.adzuna.com.au/details/5892751715?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-09-21T21:47:56Z",
-   "description": "About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . Position: AI Safety Experts — English & Assamese Type: Contract Compensation: $16–$22/hour Location: Remote Role Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. …",
    "tags": [
     "IT Jobs"
    ],
@@ -14678,6 +14720,42 @@
    "salaryPeriod": "year"
   },
   {
+   "id": "adzuna:de:5897222460",
+   "title": "Sr Dir II Tech Sales (m/w/d)",
+   "company": "Circana GmbH",
+   "location": "Deutschland",
+   "workType": "onsite",
+   "url": "https://www.adzuna.de/land/ad/5897222460?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=8C0C92A258BCEF512A53CD01DB12E0A93AB7C717",
+   "date": "2026-09-24T20:03:06Z",
+   "description": "Liquid AI Technology Sales Let's be unstoppable together! At Circana, we are fueled by our passion for continuous learning and growth, we seek and share feedback freely, and we celebrate victories both big and small in an environment that is flexible and accommodating to our work and personal lives. We have a global commitment to diversity, equity, and inclusion as we believe in the undeniable strength that diversity brings to our business, employees, clients, and communities. With us, you can …",
+   "tags": [
+    "Beraterstellen"
+   ],
+   "source": "Adzuna (DE)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": "EUR",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:de:5897083401",
+   "title": "AI Transformation Specialist (m/w/d)",
+   "company": "GRIMME Landmaschinenfabrik SE & Co. KG",
+   "location": "Damme, Vechta (Kreis)",
+   "workType": "onsite",
+   "url": "https://www.adzuna.de/land/ad/5897083401?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=2BF1D9626EF12B59988E96B4423C7FC31717A010",
+   "date": "2026-09-24T18:24:21Z",
+   "description": "Über uns Die GRIMME Landmaschinenfabrik SE & Co. KG mit Hauptsitz in Damme ist seit 1861 im Dienste der Landwirtschaft tätig und steht für innovative Technologien in der Kartoffel-, Rüben- und Gemüsetechnik. Als international agierendes Unternehmen werden über 85 % der Produkte in mehr als 120 Länder der Welt exportiert. Weltweit beschäftigt die GRIMME Gruppe über 3.300 Mitarbeiterinnen und Mitarbeiter. Raum für Kreativität, kurze Entscheidungswege, Teamgeist und Vertrauen sind die Erfolgsfakto…",
+   "tags": [
+    "Sonstige/Allgemeine Stellen"
+   ],
+   "source": "Adzuna (DE)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": "EUR",
+   "salaryPeriod": "year"
+  },
+  {
    "id": "adzuna:de:5897074459",
    "title": "Security Solution Architect",
    "company": "Cohesity",
@@ -14719,7 +14797,7 @@
    "company": "Masters of Digital GmbH",
    "location": "Melle, Osnabrück (Kreis)",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904442?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=37C22D0D8BFA6CC20E91D8A97505A7B6DEBD5BBE",
+   "url": "https://www.adzuna.de/land/ad/5896904442?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=37C22D0D8BFA6CC20E91D8A97505A7B6DEBD5BBE",
    "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
@@ -14737,7 +14815,7 @@
    "company": "Masters of Digital GmbH",
    "location": "Unna, Unna (Kreis)",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904450?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=FA3BF869F72E7C9C23F0C6AE1BA72DE1CDC79A9E",
+   "url": "https://www.adzuna.de/land/ad/5896904450?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=FA3BF869F72E7C9C23F0C6AE1BA72DE1CDC79A9E",
    "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
@@ -14755,7 +14833,7 @@
    "company": "Masters of Digital GmbH",
    "location": "Worms, Rheinland-Pfalz",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904453?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=A00DB23E0698CAC76FC324F5269BA13B4DD5CE93",
+   "url": "https://www.adzuna.de/land/ad/5896904453?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=A00DB23E0698CAC76FC324F5269BA13B4DD5CE93",
    "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
@@ -14773,7 +14851,7 @@
    "company": "Masters of Digital GmbH",
    "location": "Wetzlar, Lahn-Dill-Kreis",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904452?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=A7FAC9C2E6EBF8D062042DAE8E911E4797854694",
+   "url": "https://www.adzuna.de/land/ad/5896904452?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=A7FAC9C2E6EBF8D062042DAE8E911E4797854694",
    "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
@@ -14791,7 +14869,7 @@
    "company": "Masters of Digital GmbH",
    "location": "Neuwied, Neuwied (Kreis)",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904444?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=12FA0B87026FFF48A2677E6C68177D9FCC537007",
+   "url": "https://www.adzuna.de/land/ad/5896904444?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=12FA0B87026FFF48A2677E6C68177D9FCC537007",
    "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
@@ -14804,13 +14882,13 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:de:5896904424",
+   "id": "adzuna:de:5896904441",
    "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
    "company": "Masters of Digital GmbH",
-   "location": "Bayreuth, Bayreuth (Kreis)",
+   "location": "Lüneburg, Lüneburg (Kreis)",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904424?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=6BA85B4C63948F6B6D05BBB9AF53020C3B910179",
-   "date": "2026-09-24T15:30:05Z",
+   "url": "https://www.adzuna.de/land/ad/5896904441?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=311A4E8F56CD25BA0D10363DC6D055B30F3A42D9",
+   "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
     "Unknown"
@@ -14822,13 +14900,13 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:de:5896904429",
+   "id": "adzuna:de:5896904447",
    "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
    "company": "Masters of Digital GmbH",
-   "location": "Düsseldorf, Nordrhein-Westfalen",
+   "location": "Regensburg, Regensburg (Kreis)",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904429?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=736D1238EADBA812E22A5AD4C3801A6B2CCD508C",
-   "date": "2026-09-24T15:30:05Z",
+   "url": "https://www.adzuna.de/land/ad/5896904447?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=F026E9E4E3A711EC3FC890749F1270E34E9A7C05",
+   "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
     "Unknown"
@@ -14840,13 +14918,13 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:de:5896904437",
+   "id": "adzuna:de:5896904449",
    "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
    "company": "Masters of Digital GmbH",
-   "location": "Iserlohn, Märkischer Kreis",
+   "location": "Schwäbisch Gmünd, Ostalbkreis",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904437?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=E825A257234E3F3783DC28FB7FEF7EF6A4891E57",
-   "date": "2026-09-24T15:30:05Z",
+   "url": "https://www.adzuna.de/land/ad/5896904449?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=CF89F722F0309C9DDF91DCBF2F9C8E849426A70D",
+   "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
     "Unknown"
@@ -14858,13 +14936,13 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:de:5896904427",
+   "id": "adzuna:de:5896904443",
    "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
    "company": "Masters of Digital GmbH",
-   "location": "Chemnitz, Chemnitz (Kreis)",
+   "location": "Münster, Nordrhein-Westfalen",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904427?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=820039278B4B152C114DF201FB7B9BCFC4334414",
-   "date": "2026-09-24T15:30:05Z",
+   "url": "https://www.adzuna.de/land/ad/5896904443?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=D62961D13389BBA1DAFEDF6C8B06113FDD7882EC",
+   "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
     "Unknown"
@@ -14876,85 +14954,13 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:de:5896904433",
+   "id": "adzuna:de:5896904446",
    "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
    "company": "Masters of Digital GmbH",
-   "location": "Gotha, Gotha (Kreis)",
+   "location": "Pinneberg, Pinneberg (Kreis)",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904433?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=83FF7508EB51149058A27FAA29F01D7A13EC0F58",
-   "date": "2026-09-24T15:30:05Z",
-   "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
-   "tags": [
-    "Unknown"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5896904438",
-   "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
-   "company": "Masters of Digital GmbH",
-   "location": "Kerpen, Rhein-Erft-Kreis",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904438?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=669449849DBD9C044FC67D239E426D8038F459C1",
-   "date": "2026-09-24T15:30:05Z",
-   "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
-   "tags": [
-    "Unknown"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5896904426",
-   "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
-   "company": "Masters of Digital GmbH",
-   "location": "Bremen, Deutschland",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904426?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=F69A3C91066006CA0FCC0872DC96800102AB2440",
-   "date": "2026-09-24T15:30:05Z",
-   "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
-   "tags": [
-    "Unknown"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5896904436",
-   "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
-   "company": "Masters of Digital GmbH",
-   "location": "Herten, Recklinghausen (Kreis)",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904436?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=6D45D6AF214D98712A558A0E9D24E34611513626",
-   "date": "2026-09-24T15:30:05Z",
-   "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
-   "tags": [
-    "Unknown"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5896904440",
-   "title": "AI Marketing Specialist (m/w/d) - Prompt Engineering & Automatisierung",
-   "company": "Masters of Digital GmbH",
-   "location": "Landau in der Pfalz, Landau in der Pfalz (Kreis)",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5896904440?se=ttqKjbm48RGto-bmbjfJwA&utm_medium=api&utm_source=cd632dce&v=9DC841802EE585A129F278D747C2FDABE8D52E42",
-   "date": "2026-09-24T15:30:05Z",
+   "url": "https://www.adzuna.de/land/ad/5896904446?se=IhpHOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=424422DF478A8944E6A7B25EE9CA0AEFA4684077",
+   "date": "2026-09-24T15:30:06Z",
    "description": "Masters of Digital GmbH Masters of Digital (MOD Education) ist ein AZAV-zertifizierter Bildungsträger mit Schwerpunkt auf digitalen Weiterbildungen. Unsere Kurse richten sich an Menschen, die aktuell arbeitssuchend sind und ihre Chancen auf dem Arbeitsmarkt nachhaltig verbessern möchten. Über einen Bildungsgutschein der Bundesagentur für Arbeit oder des Jobcenters können Teilnehmende - bei Vorliegen der individuellen Voraussetzungen - kostenfrei an unseren Weiterbildungen teilnehmen. In unseren…",
    "tags": [
     "Unknown"
@@ -14971,7 +14977,7 @@
    "company": "mycareernow GmbH",
    "location": "Hamburg, Deutschland",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221368?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=66B8300AF5914EA69F57AED1A4604CC417AA806B",
+   "url": "https://www.adzuna.de/land/ad/5895221368?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=66B8300AF5914EA69F57AED1A4604CC417AA806B",
    "date": "2026-09-23T15:28:27Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -14989,7 +14995,7 @@
    "company": "mycareernow GmbH",
    "location": "Bochum, Nordrhein-Westfalen",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221329?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=F044B0A5C6F4C54D010A70D004B9C7CC35BC7CAA",
+   "url": "https://www.adzuna.de/land/ad/5895221329?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=F044B0A5C6F4C54D010A70D004B9C7CC35BC7CAA",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15007,7 +15013,7 @@
    "company": "mycareernow GmbH",
    "location": "Friedrichshafen, Bodenseekreis",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221346?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=5A2CCC3C57113903708E3E9340AEBECBB8360989",
+   "url": "https://www.adzuna.de/land/ad/5895221346?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=5A2CCC3C57113903708E3E9340AEBECBB8360989",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15025,7 +15031,7 @@
    "company": "mycareernow GmbH",
    "location": "Ahlen, Warendorf (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221306?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=2D896E2D86AA226C0F19AA68C27FE4B3BAB446D6",
+   "url": "https://www.adzuna.de/land/ad/5895221306?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=2D896E2D86AA226C0F19AA68C27FE4B3BAB446D6",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15043,7 +15049,7 @@
    "company": "mycareernow GmbH",
    "location": "Bamberg, Bamberg (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221317?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=B64EEFD06303FA25213C0B635553653C9003E771",
+   "url": "https://www.adzuna.de/land/ad/5895221317?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=B64EEFD06303FA25213C0B635553653C9003E771",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15061,7 +15067,7 @@
    "company": "mycareernow GmbH",
    "location": "Gummersbach, Oberbergischer Kreis",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221361?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=845076BCAB126465C0A11CF1420E6A7BA42FF940",
+   "url": "https://www.adzuna.de/land/ad/5895221361?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=845076BCAB126465C0A11CF1420E6A7BA42FF940",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15079,7 +15085,7 @@
    "company": "mycareernow GmbH",
    "location": "Bocholt, Borken (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221328?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=A88D23AF342D3A8393CB34BDE633D2366879DE42",
+   "url": "https://www.adzuna.de/land/ad/5895221328?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=A88D23AF342D3A8393CB34BDE633D2366879DE42",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15097,7 +15103,7 @@
    "company": "mycareernow GmbH",
    "location": "Cottbus, Brandenburg",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221345?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=87BC0CB83CADEFA3B1861487879F2586B602D8AA",
+   "url": "https://www.adzuna.de/land/ad/5895221345?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=87BC0CB83CADEFA3B1861487879F2586B602D8AA",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15115,7 +15121,7 @@
    "company": "mycareernow GmbH",
    "location": "Bonn, Nordrhein-Westfalen",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221330?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=1DA604D2D9144E6314235945ACA1D777E065BDB0",
+   "url": "https://www.adzuna.de/land/ad/5895221330?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=1DA604D2D9144E6314235945ACA1D777E065BDB0",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15133,7 +15139,7 @@
    "company": "mycareernow GmbH",
    "location": "Bad Kreuznach, Bad Kreuznach (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221313?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=13239898D08115BB7D1A8AD4E9A5875C44D7E013",
+   "url": "https://www.adzuna.de/land/ad/5895221313?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=13239898D08115BB7D1A8AD4E9A5875C44D7E013",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15151,7 +15157,7 @@
    "company": "mycareernow GmbH",
    "location": "Bernau bei Berlin, Barnim (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221323?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=7CFC89F64E64B6ADE01D29AB2A48E77C02EF0FBE",
+   "url": "https://www.adzuna.de/land/ad/5895221323?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=7CFC89F64E64B6ADE01D29AB2A48E77C02EF0FBE",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15169,7 +15175,7 @@
    "company": "mycareernow GmbH",
    "location": "Gießen, Gießen (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221351?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=9144ADB401AD609A297E37DD553358399A6C0013",
+   "url": "https://www.adzuna.de/land/ad/5895221351?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=9144ADB401AD609A297E37DD553358399A6C0013",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15187,7 +15193,7 @@
    "company": "mycareernow GmbH",
    "location": "Bremen, Deutschland",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221336?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=DD51094F569B3FC03CF655C5D3B63969E0DA584F",
+   "url": "https://www.adzuna.de/land/ad/5895221336?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=DD51094F569B3FC03CF655C5D3B63969E0DA584F",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15205,7 +15211,7 @@
    "company": "mycareernow GmbH",
    "location": "Gera, Thüringen",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221352?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=DAA7043A4A1716D993D1F307A4F50DA197953B5C",
+   "url": "https://www.adzuna.de/land/ad/5895221352?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=DAA7043A4A1716D993D1F307A4F50DA197953B5C",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15223,7 +15229,7 @@
    "company": "mycareernow GmbH",
    "location": "Greifswald, Vorpommern-Greifswald (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221357?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=4DEA041B28E9D2739B6B465833D119E2154EE6A0",
+   "url": "https://www.adzuna.de/land/ad/5895221357?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=4DEA041B28E9D2739B6B465833D119E2154EE6A0",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15241,7 +15247,7 @@
    "company": "mycareernow GmbH",
    "location": "Gotha, Gotha (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221356?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=62A0A901546A14CAE5FA513DC307E6DAABB2D35A",
+   "url": "https://www.adzuna.de/land/ad/5895221356?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=62A0A901546A14CAE5FA513DC307E6DAABB2D35A",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15259,7 +15265,7 @@
    "company": "mycareernow GmbH",
    "location": "Berlin, Deutschland",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221322?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=37F689EB203C41F0ABE8E1EDAAB7155DF26852FE",
+   "url": "https://www.adzuna.de/land/ad/5895221322?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=37F689EB203C41F0ABE8E1EDAAB7155DF26852FE",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15277,7 +15283,7 @@
    "company": "mycareernow GmbH",
    "location": "Böblingen, Böblingen (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221340?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=CACC8CF5512E6B961E33B9ACD8298C1F90EBF45F",
+   "url": "https://www.adzuna.de/land/ad/5895221340?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=CACC8CF5512E6B961E33B9ACD8298C1F90EBF45F",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15295,7 +15301,7 @@
    "company": "mycareernow GmbH",
    "location": "Aschaffenburg, Aschaffenburg (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221310?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=0E41265513E8349F46EFD5BD723113C2070EDE5F",
+   "url": "https://www.adzuna.de/land/ad/5895221310?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=0E41265513E8349F46EFD5BD723113C2070EDE5F",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15313,7 +15319,7 @@
    "company": "mycareernow GmbH",
    "location": "Bielefeld, Nordrhein-Westfalen",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221324?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=1C90D2925F5994B776B83F3BE6EF593D899F59A7",
+   "url": "https://www.adzuna.de/land/ad/5895221324?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=1C90D2925F5994B776B83F3BE6EF593D899F59A7",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15331,7 +15337,7 @@
    "company": "mycareernow GmbH",
    "location": "Hagen, Segeberg (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221366?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=9E456B5FB69ECF969A88AD3F8ADF2506C67829F5",
+   "url": "https://www.adzuna.de/land/ad/5895221366?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=9E456B5FB69ECF969A88AD3F8ADF2506C67829F5",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15349,7 +15355,7 @@
    "company": "mycareernow GmbH",
    "location": "Celle, Celle (Kreis)",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221343?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=ECF1826D166A3DB9ED14ED043B8BA73EE2533A89",
+   "url": "https://www.adzuna.de/land/ad/5895221343?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=ECF1826D166A3DB9ED14ED043B8BA73EE2533A89",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15367,7 +15373,7 @@
    "company": "mycareernow GmbH",
    "location": "Brühl, Rhein-Erft-Kreis",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221338?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=86F300FF6DA44E587598E65142B4C8680DEDB768",
+   "url": "https://www.adzuna.de/land/ad/5895221338?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=86F300FF6DA44E587598E65142B4C8680DEDB768",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15385,7 +15391,7 @@
    "company": "mycareernow GmbH",
    "location": "Deutschland",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221359?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=67CC01169640792147277E229AC6E628D11B29A6",
+   "url": "https://www.adzuna.de/land/ad/5895221359?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=67CC01169640792147277E229AC6E628D11B29A6",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
@@ -15403,7 +15409,7 @@
    "company": "mycareernow GmbH",
    "location": "Brandenburg an der Havel, Brandenburg",
    "workType": "remote",
-   "url": "https://www.adzuna.de/land/ad/5895221333?se=4ncWjrm48RGj3rbruZk4CQ&utm_medium=api&utm_source=cd632dce&v=D9A75CA2BAEA17099A42A2FA2AA2AA13AA3CBF1F",
+   "url": "https://www.adzuna.de/land/ad/5895221333?se=go_VOb-48RG0YIE6S5IGQw&utm_medium=api&utm_source=cd632dce&v=D9A75CA2BAEA17099A42A2FA2AA2AA13AA3CBF1F",
    "date": "2026-09-23T15:28:26Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
