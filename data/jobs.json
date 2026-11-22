@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-22T10:28:30.274939+00:00",
- "count": 839,
+ "generatedAt": "2026-11-22T11:44:25.558680+00:00",
+ "count": 840,
  "jobs": [
   {
    "id": "remotive:2091177",
@@ -544,6 +544,46 @@
    "salaryPeriod": null
   },
   {
+   "id": "arbeitnow:software-developer-junior-typescript-groovy-essen-121371",
+   "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+   "company": "MESKRU GmbH",
+   "location": "Essen",
+   "workType": "unknown",
+   "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-121371",
+   "date": "2026-11-22T10:00:59+00:00",
+   "description": "Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen. Aufgaben Das erwartet dich bei uns Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team Anbindung externer Systeme über REST APIs und Webhooks Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance Erstellung und Pflege von ScriptRunner Lösungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs) Konzeption und Umsetzung von Automationen in Jira und Jira Service Management Gängige Atlassian Beratungstätigkeiten Qualifikation Das bringst du mit Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python) Programmierkenntnisse in TypeScript/JavaScript für die Forge Entwicklung Erste Erfahrung mit Jira und Confluence Keine Scheu vor Bug Fixing und Fehlersuche Strukturierte Arbeitsweise sowie Freude an Teamarbeit ",
+   "tags": [
+    "Software Development",
+    "Unbefristeter arbeitsvertrag",
+    "berufseinstieg"
+   ],
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "arbeitnow:software-developer-junior-typescript-groovy-munich-310261",
+   "title": "Software Developer (Junior): TypeScript & Groovy (m/w/d)",
+   "company": "MESKRU GmbH",
+   "location": "Munich",
+   "workType": "unknown",
+   "url": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-310261",
+   "date": "2026-11-22T10:00:59+00:00",
+   "description": "Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen. Aufgaben Das erwartet dich bei uns Weiterentwicklung, Wartung und Support unserer Forge Apps in TypeScript/JavaScript mit modularem, gut strukturiertem Code und klaren Konventionen, gemeinsam im Team Anbindung externer Systeme über REST APIs und Webhooks Code Review, Fehleranalyse und Bug Fixing, inklusive Lesen von Logs sowie Beachten von Laufzeit und Performance Erstellung und Pflege von ScriptRunner Lösungen (Listener, Workflow Postfunktionen, Validatoren, Bedingungen, Behaviours, geplante Jobs) Konzeption und Umsetzung von Automationen in Jira und Jira Service Management Gängige Atlassian Beratungstätigkeiten Qualifikation Das bringst du mit Solide Programmiergrundlagen, idealerweise in mehreren Sprachen (z.B. TypeScript, Groovy, Python) Programmierkenntnisse in TypeScript/JavaScript für die Forge Entwicklung Erste Erfahrung mit Jira und Confluence Keine Scheu vor Bug Fixing und Fehlersuche Strukturierte Arbeitsweise sowie Freude an Teamarbeit ",
+   "tags": [
+    "Software Development",
+    "Unbefristeter arbeitsvertrag",
+    "berufseinstieg"
+   ],
+   "source": "Arbeitnow",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "arbeitnow:senior-director-central-eastern-europe-munich-76834",
    "title": "Senior Director, Central & Eastern Europe",
    "company": "Coreweaveu",
@@ -748,7 +788,7 @@
    "workType": "unknown",
    "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-bad-salzungen-192190",
    "date": "2026-11-22T09:51:50+00:00",
-   "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+   "description": "Find Jobs in Germany on Arbeitnow",
    "tags": [
     "Werraenergie GmbH",
     "Student college",
@@ -768,7 +808,7 @@
    "workType": "unknown",
    "url": "https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-elektrotechnik-energietechnik-bad-salzungen-309098",
    "date": "2026-11-22T09:51:50+00:00",
-   "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
+   "description": "Find Jobs in Germany on Arbeitnow",
    "tags": [
     "WerraEnergiedienste GmbH",
     "Student college",
@@ -2381,42 +2421,6 @@
    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s operational blind spots into operational clarity. World&#39;s leading companies trust Celonis and its global ecosystem of partners to make their AI agents, people, systems, and processes work together, achieving transformational outcomes. We believe there&#39;s a massive opportunity to unlock global productivity and sustainability by giving AI the context to understand how every business process really works. Join our mission to make processes work for people, companies, and the planet.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Celonis Legal team is an energetic and proactive global group of experts in their field, focused on identifying, avoiding, mitigating and solving challenges within the Celonis business. We sit at the heart of the Celonis organization and are proud to be seen as valued business partners across al",
    "tags": [
     "Legal"
-   ],
-   "source": "Arbeitnow",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "arbeitnow:senior-embedded-android-engineer-hardware-berlin-87938",
-   "title": "Senior Embedded Android Engineer- Hardware",
-   "company": "sumup",
-   "location": "Berlin",
-   "workType": "unknown",
-   "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-embedded-android-engineer-hardware-berlin-87938",
-   "date": "2026-11-21T15:55:24+00:00",
-   "description": "&lt;h2&gt;&lt;strong&gt;Team description&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;SumUp&#39;s Hardware Development team builds the physical products millions of small businesses rely on every day, and this role sits right at the start of a new chapter: moving our in-house hardware onto the Android platform for the first time. This isn&#39;t a typical Android device, it&#39;s a highly customised, security-first product built from scratch, which means the person joining will help define how the operating system, drivers, and secure processor come together rather than inheriting someone else&#39;s setup. The team works closely with hardware, software, and QA engineers across the bring-up process, so this role offers a rare chance to shape a product&#39;s foundations while working alongside experienced embedded and secure processor leads.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Support system bring-up for the new Android embedded platform, from bootloader through to kernel and framework&lt;/li&gt; &lt;li&gt;Integrate and maintain kernel modules and drivers, including power management and connectivity components&lt;/li&gt; &lt;li&gt;",
-   "tags": [
-    "Engineering"
-   ],
-   "source": "Arbeitnow",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "arbeitnow:senior-android-engineer-hardware-berlin-200057",
-   "title": "Senior Android Engineer- Hardware",
-   "company": "sumup",
-   "location": "Berlin",
-   "workType": "unknown",
-   "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-android-engineer-hardware-berlin-200057",
-   "date": "2026-11-21T15:55:24+00:00",
-   "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;h2 data-pm-slice=&quot;1 1 []&quot;&gt;Team description&lt;/h2&gt; &lt;p&gt;The Hardware tribe builds the technology that turns everyday devices into secure, reliable card readers, from Bluetooth-connected dongles to fully in-house Tap to Pay on Android. You&#39;ll join a team solving genuinely hard problems: keeping payments working across flaky Bluetooth connections, handling online and offline flows without losing a transaction. It&#39;s a chance to go deep on Android engineering in a space where reliability really matters, since every merchant depends on these readers to get paid.&lt;/p&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;Build and maintain Android applications for card readers, SDKs, and the SuperApp, covering both new features and improvements to existing systems&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Work on Bluetooth Low Energy connections, online and offline payment flows, and Tap to Pay functionality&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Refactor and modernise legacy code to improve reliability, performance, and maintainability&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Contribute to testing pr",
-   "tags": [
-    "Android"
    ],
    "source": "Arbeitnow",
    "salaryMin": null,
@@ -8811,24 +8815,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-7501277899191993915",
-   "title": "Functional Safety Trainer (Part-time, Night Shift)",
-   "company": "Josh Pros LLC",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/-7501277899191993915",
-   "date": "2026-11-10T01:31:33.4170000",
-   "description": "We are looking for an experienced Functional Safety Engineer to train and support our engineering team for 1 to 2 hours a day, alongside your current work. This is a part-time role on the night shift (US hours), supporting industrial and automation safety projects. You...",
-   "tags": [
-    "Temporary"
-   ],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:1242270214907155190",
    "title": "Trainer (Assessments)",
    "company": "ETS GCC",
@@ -8839,6 +8825,24 @@
    "description": "&nbsp;...Americas, we deliver nearly 50 million tests annually. Join us in our journey of measuring progress to power human progress worldwide. Trainer (Assessments) Location: Delhi Employment Type: Full-time About ETS: Measuring What Matters-Powering Human Progress...&nbsp;",
    "tags": [
     "Full-time"
+   ],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-7501277899191993915",
+   "title": "Functional Safety Trainer (Part-time, Night Shift)",
+   "company": "Josh Pros LLC",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/-7501277899191993915",
+   "date": "2026-11-10T01:31:33.4170000",
+   "description": "We are looking for an experienced Functional Safety Engineer to train and support our engineering team for 1 to 2 hours a day, alongside your current work. This is a part-time role on the night shift (US hours), supporting industrial and automation safety projects. You...",
+   "tags": [
+    "Temporary"
    ],
    "source": "Jooble (India)",
    "salaryMin": null,
@@ -9001,22 +9005,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:3959403025079049689",
-   "title": "UniServ Labor Relations Consultant",
-   "company": "Ohio Education Association",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/3959403025079049689",
-   "date": "2026-09-24T00:00:00.0000000",
-   "description": "Ohio Education Association UniServ Labor Relations Consultant Based in Monroe, OH The Ohio Education Association represents 118,000 teachers, faculty members, and support professionals in Ohio's public schools, colleges, and universities. The Ohio Education...",
-   "tags": [],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:7241173434899399972",
    "title": "Consultant (Salesforce Configuration)",
    "company": "Komodo Health",
@@ -9033,14 +9021,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-1905551742780152383",
-   "title": "Consultant - Insights COE",
-   "company": "ClearView Healthcare Partners",
+   "id": "jooble:3959403025079049689",
+   "title": "UniServ Labor Relations Consultant",
+   "company": "Ohio Education Association",
    "location": "India",
    "workType": "onsite",
-   "url": "https://jooble.org/jdp/-1905551742780152383",
-   "date": "2026-11-04T20:58:53.0670000",
-   "description": "Role Overview: As an Insights/Secondary research - CoE team member, you will partner closely with global consulting teams to deliver high quality secondary research, market insights, and targeted analyses that inform strategic recommendations for our life sciences clients...",
+   "url": "https://jooble.org/jdp/3959403025079049689",
+   "date": "2026-09-24T00:00:00.0000000",
+   "description": "Ohio Education Association UniServ Labor Relations Consultant Based in Monroe, OH The Ohio Education Association represents 118,000 teachers, faculty members, and support professionals in Ohio's public schools, colleges, and universities. The Ohio Education...",
    "tags": [],
    "source": "Jooble (India)",
    "salaryMin": null,
@@ -9067,14 +9055,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:545031131626882957",
-   "title": "Staff/Sr. Staff Software Engineer, IoT Solution",
-   "company": "InnoPhase IoT",
+   "id": "jooble:-1905551742780152383",
+   "title": "Consultant - Insights COE",
+   "company": "ClearView Healthcare Partners",
    "location": "India",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/545031131626882957",
-   "date": "2026-11-22T01:35:56.4817536+00:00",
-   "description": "&nbsp;..., you can work anywhere. If you’re the best at what you do, come work at Innophase IoT! We are seeking an IoT Solution Software Engineer to design, develop, integrate, and deploy end-to-end IoT solutions spanning embedded devices, wireless connectivity, cloud platforms...&nbsp;",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/-1905551742780152383",
+   "date": "2026-11-04T20:58:53.0670000",
+   "description": "Role Overview: As an Insights/Secondary research - CoE team member, you will partner closely with global consulting teams to deliver high quality secondary research, market insights, and targeted analyses that inform strategic recommendations for our life sciences clients...",
    "tags": [],
    "source": "Jooble (India)",
    "salaryMin": null,
@@ -9101,14 +9089,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:2118146718421673426",
-   "title": "OIC Developers",
-   "company": "NTT DATA, Inc.",
+   "id": "jooble:545031131626882957",
+   "title": "Staff/Sr. Staff Software Engineer, IoT Solution",
+   "company": "InnoPhase IoT",
    "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/2118146718421673426",
-   "date": "2026-11-02T10:12:11.5770000",
-   "description": "Oracle Integration Cloud (OIC) Developer Role Summary Looking for experienced OIC Developers to build and support integrations across Oracle and enterprise applications within the Procurement landscape. Key Responsibilities Design, develop, test and deploy ...",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/545031131626882957",
+   "date": "2026-11-22T01:35:56.4817536+00:00",
+   "description": "&nbsp;..., you can work anywhere. If you’re the best at what you do, come work at Innophase IoT! We are seeking an IoT Solution Software Engineer to design, develop, integrate, and deploy end-to-end IoT solutions spanning embedded devices, wireless connectivity, cloud platforms...&nbsp;",
    "tags": [],
    "source": "Jooble (India)",
    "salaryMin": null,
@@ -9125,6 +9113,22 @@
    "url": "https://jooble.org/jdp/-8132820898717177146",
    "date": "2026-11-20T00:00:00.0000000",
    "description": "Job Description Job Description Job Description In this full-time position, the qualified candidate will: Develop Java-based HCL Commerce applications and extended sites following software design methodology standards. Involved in full project lifecycle including...",
+   "tags": [],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:2118146718421673426",
+   "title": "OIC Developers",
+   "company": "NTT DATA, Inc.",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/2118146718421673426",
+   "date": "2026-11-02T10:12:11.5770000",
+   "description": "Oracle Integration Cloud (OIC) Developer Role Summary Looking for experienced OIC Developers to build and support integrations across Oracle and enterprise applications within the Procurement landscape. Key Responsibilities Design, develop, test and deploy ...",
    "tags": [],
    "source": "Jooble (India)",
    "salaryMin": null,
@@ -9233,6 +9237,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:1356607609093762901",
+   "title": "Remote Swedish Language AI Trainer",
+   "company": "Meridial",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/1356607609093762901",
+   "date": "2026-11-18T19:11:12.5030000",
+   "description": "&nbsp;...Swedish Language Specialist - Freelance AI Trainer Project United States of America Are you a Swedish language expert eager to shape the future of AI? Large‑scale language models are evolving from clever chatbots into powerful engines of linguistic discovery. With high...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-3931762675671777349",
    "title": "Health Sciences Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
@@ -9269,15 +9289,17 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:1356607609093762901",
-   "title": "Remote Swedish Language AI Trainer",
-   "company": "Meridial",
-   "location": "New York, NY",
+   "id": "jooble:6757676493592197128",
+   "title": "Quickbooks AI Trainer - US",
+   "company": "RLINK SOLUTIONS LLC",
+   "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/1356607609093762901",
-   "date": "2026-11-18T19:11:12.5030000",
-   "description": "&nbsp;...Swedish Language Specialist - Freelance AI Trainer Project United States of America Are you a Swedish language expert eager to shape the future of AI? Large‑scale language models are evolving from clever chatbots into powerful engines of linguistic discovery. With high...&nbsp;",
-   "tags": [],
+   "url": "https://jooble.org/jdp/6757676493592197128",
+   "date": "2026-11-18T00:00:00.0000000",
+   "description": "&nbsp;...Accounting Professionals and QuickBooks Experts to join an exciting AI training and evaluation project. This opportunity is ideal...&nbsp;&nbsp;.... Project Details Position: QuickBooks AI Trainer Location: USA Engagement: Independent Contractor...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9321,40 +9343,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-1010829064677467982",
-   "title": "Korean-Japanese Bilingual Specialist - Freelance AI Trainer Project",
-   "company": "Meridial",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-1010829064677467982",
-   "date": "2026-11-21T00:00:00.0000000",
-   "description": "&nbsp;...Korean-Japanese Bilingual Specialist - Freelance AI Trainer Project World Wide - Remote Are you a bilingual professional fluent in Korean and Japanese eager to shape the future of AI? Large‑scale language models are transforming the way we learn, work, and communicate...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:6757676493592197128",
-   "title": "Quickbooks AI Trainer - US",
-   "company": "RLINK SOLUTIONS LLC",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/6757676493592197128",
-   "date": "2026-11-18T00:00:00.0000000",
-   "description": "&nbsp;...Accounting Professionals and QuickBooks Experts to join an exciting AI training and evaluation project. This opportunity is ideal...&nbsp;&nbsp;.... Project Details Position: QuickBooks AI Trainer Location: USA Engagement: Independent Contractor...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:8074039812963601589",
    "title": "AI Trainer - Graphical Abstract - Physics (Remote - Washington)",
    "company": "prolificacademicltd",
@@ -9382,6 +9370,22 @@
    "tags": [
     "Full-time"
    ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-1010829064677467982",
+   "title": "Korean-Japanese Bilingual Specialist - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-1010829064677467982",
+   "date": "2026-11-21T00:00:00.0000000",
+   "description": "&nbsp;...Korean-Japanese Bilingual Specialist - Freelance AI Trainer Project World Wide - Remote Are you a bilingual professional fluent in Korean and Japanese eager to shape the future of AI? Large‑scale language models are transforming the way we learn, work, and communicate...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9793,22 +9797,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:4580261081624176449",
-   "title": "AI Training Specialist - Flexible Hours",
-   "company": "Innodata Inc.",
-   "location": "North Dakota",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/4580261081624176449",
-   "date": "2026-11-22T01:36:40.2855557+00:00",
-   "description": "&nbsp;...believe that data and Artificial Intelligence ( AI) are inextricably linked. Our mission is...&nbsp;&nbsp;...smart, savvy, and curious Generative AI Specialist to join our global contributor community...&nbsp;&nbsp;..., trend etc. Creation of additional training data for machine learning models by...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:8538533539274154167",
    "title": "Conservation Science AI Training Data Specialist",
    "company": "AuraOne Human Data",
@@ -9857,22 +9845,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:3412057993364526072",
-   "title": "Remote NP: Wellness & Primary Care Coach",
-   "company": "NPHire",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/3412057993364526072",
-   "date": "2026-11-18T19:04:50.9370000",
-   "description": "A national virtual care group is seeking a Nurse Practitioner for a full-time remote role. You will provide virtual primary care and support long-term wellness goals for adult patients. Ideal candidates will have certifications such as FNP or ANP and an active NP license...",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:16280278307845439",
    "title": "Remote NP: Primary Care & Wellness Coach",
    "company": "NPHire",
@@ -9881,6 +9853,22 @@
    "url": "https://jooble.org/jdp/16280278307845439",
    "date": "2026-11-18T19:04:49.9600000",
    "description": "A national virtual care group is seeking a Work From Home Nurse Practitioner to provide virtual primary care visits. This full-time position allows for consistency in patient care, focusing on lifestyle and wellness. Candidates must be certified NP with an active license...",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:3412057993364526072",
+   "title": "Remote NP: Wellness & Primary Care Coach",
+   "company": "NPHire",
+   "location": "United States",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/3412057993364526072",
+   "date": "2026-11-18T19:04:50.9370000",
+   "description": "A national virtual care group is seeking a Nurse Practitioner for a full-time remote role. You will provide virtual primary care and support long-term wellness goals for adult patients. Ideal candidates will have certifications such as FNP or ANP and an active NP license...",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9905,6 +9893,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:5207414155945416118",
+   "title": "Audio Annotation Trainer - Italian",
+   "company": "Careerflow",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/5207414155945416118",
+   "date": "2026-11-19T00:00:00.0000000",
+   "description": "&nbsp;...editing tools Perks of Freelancing: Work in a fully remote environment. Opportunity to work on cutting-edge AI projects with leading LLM companies. Potential for contract extension based on performance and project needs. Offer Details: This is a flexible agreement, not...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-4242777967009242373",
    "title": "Audio/Voice/Annotation Trainer - Italian Language",
    "company": "Turing",
@@ -9916,22 +9920,6 @@
    "tags": [
     "Temporary"
    ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:5207414155945416118",
-   "title": "Audio Annotation Trainer - Italian",
-   "company": "Careerflow",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/5207414155945416118",
-   "date": "2026-11-19T00:00:00.0000000",
-   "description": "&nbsp;...editing tools Perks of Freelancing: Work in a fully remote environment. Opportunity to work on cutting-edge AI projects with leading LLM companies. Potential for contract extension based on performance and project needs. Offer Details: This is a flexible agreement, not...&nbsp;",
-   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9971,14 +9959,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:4402386634368720528",
-   "title": "Life Skills Coach 3",
-   "company": "The ARC Fresno Madera Counties",
+   "id": "jooble:4833695463853528",
+   "title": "Franchise Business Coach - Residential Restoration",
+   "company": "Homefront Brands",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/4402386634368720528",
-   "date": "2026-11-10T00:00:00.0000000",
-   "description": "POSITION SUMMARY: Responsible for supervision and training of individuals with developmental disabilities. Works closely with Case Manager & Program Manager to assist individuals in the development of their skills to their full potential, and foster their independence in...",
+   "url": "https://jooble.org/jdp/4833695463853528",
+   "date": "2026-11-19T00:00:00.0000000",
+   "description": "&nbsp;...remediation, fire and smoke restoration, reconstruction, and operational best practices. This individual serves as a trusted advisor, trainer, coach, and technical resource to franchise owners across the country. This position plays a critical role in accelerating...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -9989,14 +9977,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:4833695463853528",
-   "title": "Franchise Business Coach - Residential Restoration",
-   "company": "Homefront Brands",
+   "id": "jooble:4402386634368720528",
+   "title": "Life Skills Coach 3",
+   "company": "The ARC Fresno Madera Counties",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/4833695463853528",
-   "date": "2026-11-19T00:00:00.0000000",
-   "description": "&nbsp;...remediation, fire and smoke restoration, reconstruction, and operational best practices. This individual serves as a trusted advisor, trainer, coach, and technical resource to franchise owners across the country. This position plays a critical role in accelerating...&nbsp;",
+   "url": "https://jooble.org/jdp/4402386634368720528",
+   "date": "2026-11-10T00:00:00.0000000",
+   "description": "POSITION SUMMARY: Responsible for supervision and training of individuals with developmental disabilities. Works closely with Case Manager & Program Manager to assist individuals in the development of their skills to their full potential, and foster their independence in...",
    "tags": [
     "Full-time"
    ],
@@ -10039,13 +10027,13 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:9052242378523070896",
+   "id": "jooble:-1443299225719622345",
    "title": "AI Safety Specialist - Fully Remote | Upto $22/hr",
    "company": "Mercor",
-   "location": "San Francisco, CA",
+   "location": "New York, NY",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/9052242378523070896",
-   "date": "2026-11-18T00:00:00.0000000",
+   "url": "https://jooble.org/jdp/-1443299225719622345",
+   "date": "2026-11-06T00:00:00.0000000",
    "description": "&nbsp;...Job Description Job Description About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
@@ -10055,30 +10043,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:7896372508723510548",
+   "id": "jooble:-1081862212943199270",
    "title": "AI Safety Specialist - Fully Remote | Upto $22/hr",
    "company": "Mercor",
    "location": "New York, NY",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/7896372508723510548",
+   "url": "https://jooble.org/jdp/-1081862212943199270",
    "date": "2026-10-24T00:00:00.0000000",
    "description": "&nbsp;...Job Description Job Description About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-7520613451109596833",
-   "title": "AI Safety Specialist - Fully Remote | Up to $45/hr",
-   "company": "Mercor",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-7520613451109596833",
-   "date": "2026-11-13T00:00:00.0000000",
-   "description": "&nbsp;...Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors...&nbsp;&nbsp;...Summers , and Jack Dorsey . Position: English AI Safety Specialist Type: Contract Compensation: $40–$45/hour Location...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10127,6 +10099,22 @@
    "url": "https://jooble.org/jdp/-1323893288701762589",
    "date": "2026-11-01T00:00:00.0000000",
    "description": "&nbsp;...Job Description Job Description About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-7520613451109596833",
+   "title": "AI Safety Specialist - Fully Remote | Up to $45/hr",
+   "company": "Mercor",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-7520613451109596833",
+   "date": "2026-11-13T00:00:00.0000000",
+   "description": "&nbsp;...Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors...&nbsp;&nbsp;...Summers , and Jack Dorsey . Position: English AI Safety Specialist Type: Contract Compensation: $40–$45/hour Location...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10237,6 +10225,24 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:5997880911260181989",
+   "title": "AI Productivity Specialist, Corporate Communications",
+   "company": "Keysight Technologies, Inc.",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/5997880911260181989",
+   "date": "2026-11-18T00:00:00.0000000",
+   "description": "&nbsp;...an award-winning culture . Learn more about our benefits. Responsibilities Keysight is hiring an entry-level AI & Data Specialist to join its Corporate Communications team. This is a hands-on individual contributor role reporting to the Director of CEO Communications...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:7059732677898260005",
    "title": "AI Imaging Specialist - Radiology",
    "company": "LatchBio",
@@ -10266,74 +10272,6 @@
    "tags": [
     "Full-time"
    ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:5997880911260181989",
-   "title": "AI Productivity Specialist, Corporate Communications",
-   "company": "Keysight Technologies, Inc.",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/5997880911260181989",
-   "date": "2026-11-18T00:00:00.0000000",
-   "description": "&nbsp;...an award-winning culture . Learn more about our benefits. Responsibilities Keysight is hiring an entry-level AI & Data Specialist to join its Corporate Communications team. This is a hands-on individual contributor role reporting to the Director of CEO Communications...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-2184228388766268904",
-   "title": "Organic Search and AI Discovery Specialist",
-   "company": "Inotiv",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-2184228388766268904",
-   "date": "2026-11-20T00:00:00.0000000",
-   "description": "The Organic Search and AI Discovery Specialist makes sure Inotiv's expertise, services and thought leadership are found wherever scientists and buyers search — on traditional search engines, AI-powered answer engines and Inotiv's own websites. The Organic Search and...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:5751036454802892354",
-   "title": "Senior MCP / Agentic AI Specialist | Onshore",
-   "company": "Photon",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/5751036454802892354",
-   "date": "2026-11-18T00:00:00.0000000",
-   "description": "&nbsp;...Senior MCP / Agentic AI Specialist Department: Agentic AI & Platform Engineering · Level: Senior / Staff We are looking for a Senior MCP / Agentic AI Specialist to design, build, and secure the Model Context Protocol (MCP) infrastructure that connects large language...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:472154820615315233",
-   "title": "Remote AI Data Annotator & Prompt Specialist",
-   "company": "Crossing Hurdles",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/472154820615315233",
-   "date": "2026-11-18T19:04:49.9470000",
-   "description": "&nbsp;...A tech and AI- focused referral partner is seeking a SaaS Software Data Reviewer to analyze data from B2B tools and create prompts based on SaaS ticket content. The job requires strong writing skills, proficiency in task management tools like Jira and Slack, and attention...&nbsp;",
-   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10403,6 +10341,56 @@
    "url": "https://jooble.org/jdp/-7620261322079020361",
    "date": "2026-11-17T00:00:00.0000000",
    "description": "&nbsp;...To support innovative generative AI projects, the part-time remote Generative AI Specialist will assess AI model performance, label content, and generate training data while enjoying a flexible schedule. Key responsibilities Rating and assessing the performance of AI...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2184228388766268904",
+   "title": "Organic Search and AI Discovery Specialist",
+   "company": "Inotiv",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-2184228388766268904",
+   "date": "2026-11-20T00:00:00.0000000",
+   "description": "The Organic Search and AI Discovery Specialist makes sure Inotiv's expertise, services and thought leadership are found wherever scientists and buyers search — on traditional search engines, AI-powered answer engines and Inotiv's own websites. The Organic Search and...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:5751036454802892354",
+   "title": "Senior MCP / Agentic AI Specialist | Onshore",
+   "company": "Photon",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/5751036454802892354",
+   "date": "2026-11-18T00:00:00.0000000",
+   "description": "&nbsp;...Senior MCP / Agentic AI Specialist Department: Agentic AI & Platform Engineering · Level: Senior / Staff We are looking for a Senior MCP / Agentic AI Specialist to design, build, and secure the Model Context Protocol (MCP) infrastructure that connects large language...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:472154820615315233",
+   "title": "Remote AI Data Annotator & Prompt Specialist",
+   "company": "Crossing Hurdles",
+   "location": "United States",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/472154820615315233",
+   "date": "2026-11-18T19:04:49.9470000",
+   "description": "&nbsp;...A tech and AI- focused referral partner is seeking a SaaS Software Data Reviewer to analyze data from B2B tools and create prompts based on SaaS ticket content. The job requires strong writing skills, proficiency in task management tools like Jira and Slack, and attention...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10539,22 +10527,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:662259346250305885",
-   "title": "AI Tutor, Video - Temporary (Weekend Shift)",
-   "company": "xAI",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/662259346250305885",
-   "date": "2026-11-09T10:17:42.0255190+00:00",
-   "description": "&nbsp;...models, better models power more useful products, and what we learn from people using those products shapes what we build next. AI TUTOR, VIDEO - TEMPORARY (WEEKEND SHIFT) In this role, you will help train and refine Grok's ability to interpret and generate video content...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:8701626440550611402",
    "title": "AI Tutor, Design - Temporary",
    "company": "xAI",
@@ -10563,6 +10535,22 @@
    "url": "https://jooble.org/jdp/8701626440550611402",
    "date": "2026-11-09T10:32:18.7053618+00:00",
    "description": "&nbsp;...models, better models power more useful products, and what we learn from people using those products shapes what we build next. AI TUTOR, DESIGN - TEMPORARY In this role, you will help enhance Grok by providing high-quality data annotations and inputs tailored to...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:662259346250305885",
+   "title": "AI Tutor, Video - Temporary (Weekend Shift)",
+   "company": "xAI",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/662259346250305885",
+   "date": "2026-11-09T10:17:42.0255190+00:00",
+   "description": "&nbsp;...models, better models power more useful products, and what we learn from people using those products shapes what we build next. AI TUTOR, VIDEO - TEMPORARY (WEEKEND SHIFT) In this role, you will help train and refine Grok's ability to interpret and generate video content...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10619,40 +10607,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-8855011565226659465",
-   "title": "Physics Private Tutoring Jobs",
-   "company": "Superprof",
-   "location": "Toledo, OH",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-8855011565226659465",
-   "date": "2026-11-22T00:00:00.0000000",
-   "description": "&nbsp;...opened in over 28 countries around the world in order to be a window of education for those who want to teach and learn. We enable our tutors to set their own rates, work from home, tutor online or in-person and connect with thousands of motivated students through our...&nbsp;",
-   "tags": [
-    "Part-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-2455710975108085809",
-   "title": "Business Teacher (Postsecondary - AI Training)",
-   "company": "Alignerr",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-2455710975108085809",
-   "date": "2026-11-18T19:29:35.1000000",
-   "description": "&nbsp;...Business Teacher (Postsecondary – AI Training) $35-70/hr Remote Freelance STEM We're looking for experienced postsecondary Business instructors to help shape the next generation of AI. Your classroom expertise will directly influence how AI understands and communicates...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:2367433158872857159",
    "title": "AI Tutor, Applied Math - Temporary",
    "company": "SpaceXSI",
@@ -10693,6 +10647,58 @@
    "url": "https://jooble.org/jdp/7966503227314871135",
    "date": "2026-11-17T00:00:00.0000000",
    "description": "&nbsp;...A leading AI consultancy is seeking an AI Tutor in Physics to contribute to advanced generative AI projects. This fully remote, freelance role requires a Bachelor's, Master's, or PhD in Physics and advanced English skills. Responsibilities include generating problem prompts...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-9115470683485338917",
+   "title": "Physics Private Tutoring Jobs",
+   "company": "Superprof",
+   "location": "Orlando, FL",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-9115470683485338917",
+   "date": "2026-11-22T00:00:00.0000000",
+   "description": "&nbsp;...opened in over 28 countries around the world in order to be a window of education for those who want to teach and learn. We enable our tutors to set their own rates, work from home, tutor online or in-person and connect with thousands of motivated students through our...&nbsp;",
+   "tags": [
+    "Part-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:8944361933486229820",
+   "title": "Chemistry Private Tutoring Jobs",
+   "company": "Superprof",
+   "location": "Indianapolis, IN",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/8944361933486229820",
+   "date": "2026-11-19T00:00:00.0000000",
+   "description": "&nbsp;...Company Profile Superprof is the leading tutoring platform in the USA, connecting passionate individuals with eager learners. We operate in over 63 countries, making education accessible to everyone, everywhere. Superprof is the perfect opportunity for students, graduates...&nbsp;",
+   "tags": [
+    "Part-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2455710975108085809",
+   "title": "Business Teacher (Postsecondary - AI Training)",
+   "company": "Alignerr",
+   "location": "United States",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-2455710975108085809",
+   "date": "2026-11-18T19:29:35.1000000",
+   "description": "&nbsp;...Business Teacher (Postsecondary – AI Training) $35-70/hr Remote Freelance STEM We're looking for experienced postsecondary Business instructors to help shape the next generation of AI. Your classroom expertise will directly influence how AI understands and communicates...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10815,6 +10821,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-3986756786293236810",
+   "title": "Women's Fit Model",
+   "company": "The Normal Brand",
+   "location": "Saint Louis, MO",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/-3986756786293236810",
+   "date": "2026-11-19T00:00:00.0000000",
+   "description": "&nbsp;...wholesale partners, and sells online through its website, which serves customers across the United States and globally at WOMEN’S FIT MODEL: This is a part-time opportunity to be a part of the design process and to influence the comfort and fit of our clothing. You will...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:6531144305476569768",
    "title": "Prompt Engineer",
    "company": "latitude",
@@ -10849,12 +10871,12 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:3800103313092526505",
+   "id": "jooble:-7178625472319759921",
    "title": "Field Service Engineer (Remote TN) Mechanical Electrical",
    "company": "Thermal Product Solutions",
-   "location": "Tennessee",
+   "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/3800103313092526505",
+   "url": "https://jooble.org/jdp/-7178625472319759921",
    "date": "2026-11-20T00:00:00.0000000",
    "description": "&nbsp;...other corrective action. Coordinates problem resolution with engineering, customer service, and other personnel to expedite repairs....&nbsp;&nbsp;...Manages difficult or emotional customer situations; Responds promptly to customer needs; Solicits customer feedback to improve service...&nbsp;",
    "tags": [
@@ -10901,24 +10923,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:6307550744428204831",
-   "title": "Senior Detection & Security Automation Engineer",
-   "company": "Precisely US Jobs",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/6307550744428204831",
-   "date": "2026-11-10T00:00:00.0000000",
-   "description": "&nbsp;...seeking a highly skilled Senior Detection & Security Automation Engineer to drive the evolution of our security monitoring, detection,...&nbsp;&nbsp;...assessing AI tools for security risk (data leakage, shadow AI, prompt injection); familiarity with AI governance frameworks and enterprise...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-4671167129991124213",
    "title": "IT/OT Controls Engineer",
    "company": "E Tech Group",
@@ -10937,14 +10941,32 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:5629156696011618867",
-   "title": "Automation Engineer",
-   "company": "RFA",
+   "id": "jooble:6307550744428204831",
+   "title": "Senior Detection & Security Automation Engineer",
+   "company": "Precisely US Jobs",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/5629156696011618867",
-   "date": "2026-11-11T00:00:00.0000000",
-   "description": "&nbsp;...Automation Engineer RFA is investing heavily in automation and AI to improve client experience, reduce ticket volume, and free our...&nbsp;&nbsp;..., Microsoft Copilot, ChatGPT, Claude) in daily work, including prompt engineering and critical review of AI-generated code and output...&nbsp;",
+   "url": "https://jooble.org/jdp/6307550744428204831",
+   "date": "2026-11-10T00:00:00.0000000",
+   "description": "&nbsp;...seeking a highly skilled Senior Detection & Security Automation Engineer to drive the evolution of our security monitoring, detection,...&nbsp;&nbsp;...assessing AI tools for security risk (data leakage, shadow AI, prompt injection); familiarity with AI governance frameworks and enterprise...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-8962859377968810748",
+   "title": "Forward Deployed Engineer, Intelligent Automation",
+   "company": "Mimica",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-8962859377968810748",
+   "date": "2026-11-05T00:00:00.0000000",
+   "description": "&nbsp;...with AI. Your Mission We're hiring a Forward Deployed Engineer (FDE) to join Mimica's Intelligent Automation team. You'll embed...&nbsp;&nbsp;...AI solutions with frontier models (e.g. Claude, Gemini, GPT) – prompt and context design, tool calling, retrieval (RAG), multi-step agents...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -11019,6 +11041,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-9103820323902519624",
+   "title": "AI Conversation Evaluator",
+   "company": "micro1",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-9103820323902519624",
+   "date": "2026-11-19T00:00:00.0000000",
+   "description": "AI Conversation Evaluator Contractor Remote - Global (English required) Opportunity Snapshot Pay: $45-70/hour Time commitment: Approximately 7.5 hours total Project kickoff: Sunday, November 15 Project duration: Short-term project, expected to run through November 18 You...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:800651789230661700",
    "title": "Remote Internal/EM Medicine AI Evaluator",
    "company": "Turing",
@@ -11035,14 +11073,62 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-9103820323902519624",
-   "title": "AI Conversation Evaluator",
-   "company": "micro1",
-   "location": "New York, NY",
+   "id": "jooble:8276959461852097697",
+   "title": "Remote Clinical AI Evaluator & Task Designer",
+   "company": "Planet Pharma",
+   "location": "San Francisco, CA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-9103820323902519624",
-   "date": "2026-11-19T00:00:00.0000000",
-   "description": "AI Conversation Evaluator Contractor Remote - Global (English required) Opportunity Snapshot Pay: $45-70/hour Time commitment: Approximately 7.5 hours total Project kickoff: Sunday, November 15 Project duration: Short-term project, expected to run through November 18 You...&nbsp;",
+   "url": "https://jooble.org/jdp/8276959461852097697",
+   "date": "2026-11-17T00:00:00.0000000",
+   "description": "Planet Pharma is seeking experienced clinicians to evaluate frontier AI models in real clinical work. You will design realistic tasks such as SOAP notes, reconciliations, triage decisions, discharge summaries, patient education, or protocols, and run them through frontier...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-9128061370459604684",
+   "title": "Remote Photographer: AI Image Quality Evaluator (US)",
+   "company": "NEPSE Trading",
+   "location": "Tallahassee, FL",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-9128061370459604684",
+   "date": "2026-11-20T00:00:00.0000000",
+   "description": "EliteBrain is seeking photographers to remotely evaluate and improve visual data quality for AI systems. You will upload original photos, compare them with AI-generated images, and provide detailed feedback in clear English. The role is remote within the United States as...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:4085974004091678918",
+   "title": "Remote Photographer — AI Image Quality Evaluator (US)",
+   "company": "pofft Technology Inc.",
+   "location": "Tallahassee, FL",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/4085974004091678918",
+   "date": "2026-11-21T00:00:00.0000000",
+   "description": "pofft Technology Inc. seeks photography professionals to support AI image quality evaluation on a remote contract basis within the United States. You will compare original photos with AI-generated images and provide detailed feedback to improve data quality for next‑generation...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:1600682629379807262",
+   "title": "Remote News Analyst — AI-Enhanced Editorial Evaluator",
+   "company": "Turing",
+   "location": "San Francisco, CA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/1600682629379807262",
+   "date": "2026-11-20T00:00:00.0000000",
+   "description": "Turing Enterprises, Inc. in the San Francisco area is seeking a freelance journalist to help evaluate and improve AI using newsroom expertise, editorial judgment, and clear communication. No prior AI experience required. You will design and assess real-world editorial and...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11099,70 +11185,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:8276959461852097697",
-   "title": "Remote Clinical AI Evaluator & Task Designer",
-   "company": "Planet Pharma",
-   "location": "San Francisco, CA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/8276959461852097697",
-   "date": "2026-11-17T00:00:00.0000000",
-   "description": "Planet Pharma is seeking experienced clinicians to evaluate frontier AI models in real clinical work. You will design realistic tasks such as SOAP notes, reconciliations, triage decisions, discharge summaries, patient education, or protocols, and run them through frontier...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-9128061370459604684",
-   "title": "Remote Photographer: AI Image Quality Evaluator (US)",
-   "company": "NEPSE Trading",
-   "location": "Tallahassee, FL",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-9128061370459604684",
-   "date": "2026-11-20T00:00:00.0000000",
-   "description": "EliteBrain is seeking photographers to remotely evaluate and improve visual data quality for AI systems. You will upload original photos, compare them with AI-generated images, and provide detailed feedback in clear English. The role is remote within the United States as...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:1600682629379807262",
-   "title": "Remote News Analyst — AI-Enhanced Editorial Evaluator",
-   "company": "Turing",
-   "location": "San Francisco, CA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/1600682629379807262",
-   "date": "2026-11-20T00:00:00.0000000",
-   "description": "Turing Enterprises, Inc. in the San Francisco area is seeking a freelance journalist to help evaluate and improve AI using newsroom expertise, editorial judgment, and clear communication. No prior AI experience required. You will design and assess real-world editorial and...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:4085974004091678918",
-   "title": "Remote Photographer — AI Image Quality Evaluator (US)",
-   "company": "pofft Technology Inc.",
-   "location": "Tallahassee, FL",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/4085974004091678918",
-   "date": "2026-11-21T00:00:00.0000000",
-   "description": "pofft Technology Inc. seeks photography professionals to support AI image quality evaluation on a remote contract basis within the United States. You will compare original photos with AI-generated images and provide detailed feedback to improve data quality for next‑generation...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-2076724868473492766",
    "title": "Remote AI Chemistry Task Designer and Evaluator",
    "company": "Planet Pharma",
@@ -11195,14 +11217,30 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:2600387461507812523",
+   "id": "jooble:2777837244754884202",
    "title": "Analytical Evaluator - AI Feedback - AI Trainer",
    "company": "Mercor",
-   "location": "Washington DC",
+   "location": "Seattle, WA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/2600387461507812523",
+   "url": "https://jooble.org/jdp/2777837244754884202",
    "date": "2026-11-16T00:00:00.0000000",
    "description": "&nbsp;...Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors...&nbsp;&nbsp;...: $70/hour Location: Remote Role Responsibilities Evaluate AI-generated responses to strengthen reasoning and rigor in model...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2254460971333618102",
+   "title": "Remote Legal AI Trainer & Evaluator",
+   "company": "DataAnnotation",
+   "location": "Washington DC",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-2254460971333618102",
+   "date": "2026-11-21T00:00:00.0000000",
+   "description": "DataAnnotation is seeking an experienced legal professional to train AI chatbots by solving complex legal problems and evaluating outputs. The role requires expert legal reasoning and a J.D. Responsibilities include providing diverse legal challenges to AI models and assessing...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11238,22 +11276,6 @@
    "tags": [
     "Temporary"
    ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-2254460971333618102",
-   "title": "Remote Legal AI Trainer & Evaluator",
-   "company": "DataAnnotation",
-   "location": "Washington DC",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-2254460971333618102",
-   "date": "2026-11-21T00:00:00.0000000",
-   "description": "DataAnnotation is seeking an experienced legal professional to train AI chatbots by solving complex legal problems and evaluating outputs. The role requires expert legal reasoning and a J.D. Responsibilities include providing diverse legal challenges to AI models and assessing...&nbsp;",
-   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -11311,22 +11333,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-1302843745105713207",
-   "title": "Remote AI Design Critique Lead — UI/UX Quality Evaluator",
-   "company": "Aston Carter",
-   "location": "Boston, MA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-1302843745105713207",
-   "date": "2026-11-19T00:00:00.0000000",
-   "description": "Aston Carter is seeking an AI Design Evaluator to assess the quality of AI-generated design outputs across UI/UX, web, graphics, and presentations. You will provide structured feedback and measurable improvements based on industry standards. This remote role requires deep...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-8859686431332636818",
    "title": "Cardiology AI Trainer — Remote Expert Evaluator",
    "company": "DataAnnotation",
@@ -11335,6 +11341,22 @@
    "url": "https://jooble.org/jdp/-8859686431332636818",
    "date": "2026-11-20T00:00:00.0000000",
    "description": "DataAnnotation is seeking an experienced cardiologist or clinician to help train AI models in cardiology by reviewing AI-generated clinical answers, judging their accuracy and safety. You will rate responses, compare two independent answers, log discrepancies, and provide...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-1302843745105713207",
+   "title": "Remote AI Design Critique Lead — UI/UX Quality Evaluator",
+   "company": "Aston Carter",
+   "location": "Boston, MA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-1302843745105713207",
+   "date": "2026-11-19T00:00:00.0000000",
+   "description": "Aston Carter is seeking an AI Design Evaluator to assess the quality of AI-generated design outputs across UI/UX, web, graphics, and presentations. You will provide structured feedback and measurable improvements based on industry standards. This remote role requires deep...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11377,24 +11399,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-58056972580959900",
-   "title": "Account Executive",
-   "company": "appen-2",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-58056972580959900",
-   "date": "2026-11-13T05:07:26.9081967+00:00",
-   "description": "&nbsp;...customer-first mindset with the ability to influence cross-functional internal teams ~ Comfort building relationships face to face through regular in-person client meetings across the Bay Area ~ Experience in AI training data, RLHF, or model evaluation highly valued...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-9064148463215273615",
    "title": "Research Scientist",
    "company": "adaption",
@@ -11413,6 +11417,24 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-58056972580959900",
+   "title": "Account Executive",
+   "company": "appen-2",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-58056972580959900",
+   "date": "2026-11-13T05:07:26.9081967+00:00",
+   "description": "&nbsp;...customer-first mindset with the ability to influence cross-functional internal teams ~ Comfort building relationships face to face through regular in-person client meetings across the Bay Area ~ Experience in AI training data, RLHF, or model evaluation highly valued...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-6354013301753180838",
    "title": "Interventional Cardiologist",
    "company": "micro1",
@@ -11421,6 +11443,24 @@
    "url": "https://jooble.org/jdp/-6354013301753180838",
    "date": "2026-11-21T00:00:00.0000000",
    "description": "&nbsp;...at B2 level or above Preferred: complex coronary or structural heart procedures, or earlier medical AI evaluation, annotation or RLHF work Suits practicing or recently practicing interventional cardiologists who can spot a flawed procedural recommendation and explain...&nbsp;",
+   "tags": [
+    "Temporary"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:810769024057409008",
+   "title": "Interventional Cardiologist",
+   "company": "micro1",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/810769024057409008",
+   "date": "2026-11-11T00:00:00.0000000",
+   "description": "&nbsp;...complex coronary interventions or structural heart procedures. Previous participation in medical AI evaluation, data annotation, or RLHF projects. Selection Process Application AI Interview Domain-Specific Screening Onboarding Call Prior AI experience...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -11467,14 +11507,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:810769024057409008",
-   "title": "Interventional Cardiologist",
-   "company": "micro1",
+   "id": "jooble:-3159191919592021013",
+   "title": "SWE Expert",
+   "company": "Massive",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/810769024057409008",
-   "date": "2026-11-11T00:00:00.0000000",
-   "description": "&nbsp;...complex coronary interventions or structural heart procedures. Previous participation in medical AI evaluation, data annotation, or RLHF projects. Selection Process Application AI Interview Domain-Specific Screening Onboarding Call Prior AI experience...&nbsp;",
+   "url": "https://jooble.org/jdp/-3159191919592021013",
+   "date": "2026-11-08T09:29:49.6825287+00:00",
+   "description": "&nbsp;...latest model releases closely enough to explain how they differ You understand how tasks and rewards get gamed. Familiarity with RLHF, reward models, reward hacking, or test, CI, and verification infrastructure is a plus. For the pod lead track, you've trained, calibrated...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -11494,24 +11534,6 @@
    "date": "2026-11-08T09:25:31.5697093+00:00",
    "description": "&nbsp;...development and maintenance of annotation schemas and guidelines for LLM training data (e.g., instruction-tuning, preference labeling, RLHF) Evaluate and quality-check datasets used for pre-training, fine-tuning, and alignment of language models Support the...&nbsp;",
    "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-3159191919592021013",
-   "title": "SWE Expert",
-   "company": "Massive",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-3159191919592021013",
-   "date": "2026-11-08T09:29:49.6825287+00:00",
-   "description": "&nbsp;...latest model releases closely enough to explain how they differ You understand how tasks and rewards get gamed. Familiarity with RLHF, reward models, reward hacking, or test, CI, and verification infrastructure is a plus. For the pod lead track, you've trained, calibrated...&nbsp;",
-   "tags": [
-    "Temporary"
-   ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -11675,22 +11697,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-7702917468306695890",
-   "title": "Research Operations, External Artifacts",
-   "company": "Anthropic",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-7702917468306695890",
-   "date": "2026-11-21T01:25:55.0618783+00:00",
-   "description": "&nbsp;...models (LLMs) at a conceptual level, including fluency with vocabulary such as pretraining, reinforcement learning from human feedback ( RLHF) , context windows, evals, and red-teaming Data communication literacy; able to identify how a chart or table could be made...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-6275805069376624545",
    "title": "Engineering Manager, Machine Learning",
    "company": "Airbnb",
@@ -11699,6 +11705,22 @@
    "url": "https://jooble.org/jdp/-6275805069376624545",
    "date": "2026-11-17T01:12:44.4296337+00:00",
    "description": "&nbsp;...Nice to have Experience with LLMs in production, including evaluation, grounding and guardrails, and alignment techniques (SFT, RLHF, DPO) Experience with ranking, matching, forecasting, or optimization systems (for example search, recommendations, routing, or capacity...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-7702917468306695890",
+   "title": "Research Operations, External Artifacts",
+   "company": "Anthropic",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-7702917468306695890",
+   "date": "2026-11-21T01:25:55.0618783+00:00",
+   "description": "&nbsp;...models (LLMs) at a conceptual level, including fluency with vocabulary such as pretraining, reinforcement learning from human feedback ( RLHF) , context windows, evals, and red-teaming Data communication literacy; able to identify how a chart or table could be made...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11759,14 +11781,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:5803691820525060451",
-   "title": "Domain Contributor - Evaluation Specialist",
-   "company": "micro1",
+   "id": "jooble:8822210654658990911",
+   "title": "Project Lead - AI Training",
+   "company": "Turing",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/5803691820525060451",
-   "date": "2026-11-21T00:00:00.0000000",
-   "description": "&nbsp;...model shortcomings and apply rubrics consistently What the listing asks for Preferred: hands-on work in AI training, annotation, RLHF or evaluation Preferred: deep expertise in history, library science, law, finance, journalism or technology history Preferred:...&nbsp;",
+   "url": "https://jooble.org/jdp/8822210654658990911",
+   "date": "2026-11-09T12:36:17.9821688+00:00",
+   "description": "&nbsp;...~ Data-driven decision-making and familiarity with performance metrics. ~ Experience in annotation, data labeling, AI training, RLHF, SFT, or model evaluation is preferred. Perks of Freelancing With Turing: Work at the forefront of AI applications in accounting...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -11777,14 +11799,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:8822210654658990911",
-   "title": "Project Lead - AI Training",
-   "company": "Turing",
+   "id": "jooble:5803691820525060451",
+   "title": "Domain Contributor - Evaluation Specialist",
+   "company": "micro1",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/8822210654658990911",
-   "date": "2026-11-09T12:36:17.9821688+00:00",
-   "description": "&nbsp;...~ Data-driven decision-making and familiarity with performance metrics. ~ Experience in annotation, data labeling, AI training, RLHF, SFT, or model evaluation is preferred. Perks of Freelancing With Turing: Work at the forefront of AI applications in accounting...&nbsp;",
+   "url": "https://jooble.org/jdp/5803691820525060451",
+   "date": "2026-11-21T00:00:00.0000000",
+   "description": "&nbsp;...model shortcomings and apply rubrics consistently What the listing asks for Preferred: hands-on work in AI training, annotation, RLHF or evaluation Preferred: deep expertise in history, library science, law, finance, journalism or technology history Preferred:...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -11813,22 +11835,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:5227754760716207595",
-   "title": "Technical Product Manager, Trust & Safety",
-   "company": "Innodata Inc.",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/5227754760716207595",
-   "date": "2026-11-22T01:36:41.3115332+00:00",
-   "description": "&nbsp;...technical products in ML, AI data, security, or trust & safety. ~ Hands-on familiarity with how LLMs are trained and evaluated: SFT, RLHF/ RLAIF, reward models, verifiers, and benchmark design. ~ Working knowledge of agentic AI: tool use, computer-use agents, multi-...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:8001562167779986311",
    "title": "Domain Expert, Python",
    "company": "Turing",
@@ -11840,6 +11846,22 @@
    "tags": [
     "Temporary"
    ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:1650236369722008301",
+   "title": "Senior Machine Learning Engineer, Payments",
+   "company": "Airbnb",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/1650236369722008301",
+   "date": "2026-11-16T03:07:11.1906949+00:00",
+   "description": "&nbsp;...programming (Python/Java) and data engineering skills. ~ Proven mastery of modern AI/LLM workflows — prompt engineering, fine tuning (LoRA, RLHF) , hallucination mitigation, safety guardrails, and rigorous online/offline testing to minimize training/inference drift and ensure...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -11889,38 +11911,6 @@
    "url": "https://jooble.org/jdp/-1772385679374197520",
    "date": "2026-11-22T00:00:00.0000000",
    "description": "&nbsp;... Quality Specialist- Behavioral Health Pay: $16/hour ***Remote work is not available for this position. Must be able to commute to Orlando, FL daily.*** ***Remote work is not available for this position. Must be able to commute to Orlando, FL daily.*** Who are...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-6878071715901631647",
-   "title": "AI Safety Specialist - Fully Remote | Upto $22/hr",
-   "company": "Mercor",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-6878071715901631647",
-   "date": "2026-11-18T00:00:00.0000000",
-   "description": "&nbsp;...Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors...&nbsp;&nbsp;...injections, misuse cases, and bias exploitation. Generate high- quality human data. Annotate failures, classify vulnerabilities, and flag...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-1989332136035763465",
-   "title": "AI Safety Specialist - Fully Remote | Up to $22/hr",
-   "company": "Mercor",
-   "location": "New York, NY",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-1989332136035763465",
-   "date": "2026-11-14T00:00:00.0000000",
-   "description": "&nbsp;...Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors...&nbsp;&nbsp;...injections, misuse cases, and bias exploitation. Generate high- quality human data by annotating failures, classifying vulnerabilities,...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -12333,6 +12323,24 @@
    "description": "Required Skills Python Java JavaScript Offer Details: Commitments Required : At least 4 hours per day and minimum 20 hours per week with overlap of 4 hours with PST. (We have 3 options of time commitment: 20 hrs/week, 30 hrs/week or 40 hrs/week) Engagement Type : Contractor assignment (no medical/paid leave) Duration of Contract : 6 Weeks (Freelance) Perks: Work in a fully remote environment. Opportunity to work on cutting-edge AI projects with leading LLM companies. Location : India, Pakistan,…",
    "tags": [
     "IT Jobs"
+   ],
+   "source": "Adzuna (IN)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": "INR",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:in:5974940943",
+   "title": "Digital Solution Area Specialists - Copilot",
+   "company": "Microsoft",
+   "location": "Bangalore, Karnataka",
+   "workType": "onsite",
+   "url": "https://www.adzuna.in/details/5974940943?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-22T16:56:43Z",
+   "description": "Overview In the AI Business Solutions (ABS) Specialists team we are looking for passionate, experienced, and credible specialist sellers with a drive for developing and winning strategic opportunities that deliver end-to-end ABS thought leadership driving significant customer value and enabling transformational customer outcomes with Microsoft 365 Solutions including Productivity, Security and Gen AI based Microsoft 365 Copilot solutions . As an ABS Specialist you will build digital transformat…",
+   "tags": [
+    "Sales Jobs"
    ],
    "source": "Adzuna (IN)",
    "salaryMin": null,
@@ -12763,24 +12771,6 @@
    "url": "https://www.adzuna.in/details/5973104005?utm_medium=api&utm_source=cd632dce",
    "date": "2026-11-20T22:28:59Z",
    "description": "Mission If you ask a hospital today how much a treatment will cost, the answer is usually: “We don’t know.” Not because providers don’t want to tell you but because patient cost is computed across insurance plans, negotiated rates, and billing rules that are fragmented, opaque, and not designed for real-time transparency. What should be a simple question requires navigating a web of systems that don’t talk to each other. So humans do that work instead. They log into portals, call payers, follow…",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (IN)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "INR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:in:5973099960",
-   "title": "EHS AI Specialist",
-   "company": "3M",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://www.adzuna.in/details/5973099960?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-20T22:26:18Z",
-   "description": "3M has a long-standing reputation as a company committed to innovation. We provide the freedom to explore and encourage curiosity and creativity. We gain new insight from diverse thinking, and take risks on new ideas. Here, you can apply your talent in bold ways that matter. Job Description: Collaborate with Innovative 3Mers Around the World Choosing where to start and grow your career has a major impact on your professional and personal life, so it’s equally important you know that the company…",
    "tags": [
     "IT Jobs"
    ],
@@ -13246,7 +13236,7 @@
    "company": "Mercor",
    "location": "Detroit, Wayne County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5974689915?se=GPWNbF_m8RGK1Jozpv_WtA&utm_medium=api&utm_source=cd632dce&v=1CD4FF895E9FE17E7EF915506B276626E86B2DCE",
+   "url": "https://www.adzuna.com/land/ad/5974689915?se=HCsMCWrm8RGK1Jozpv_WtA&utm_medium=api&utm_source=cd632dce&v=1CD4FF895E9FE17E7EF915506B276626E86B2DCE",
    "date": "2026-11-22T00:24:51Z",
    "description": "Job Description Job Description About the job \\n Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . \\n Position: Mechanical / CAD Engineer Type: Contract Compensation: $60–$100/hour Location: Remote \\n Role Responsibilities \\n \\n Guide research and engineering teams to close knowledge gaps and improve AI model perfor…",
    "tags": [
@@ -13264,7 +13254,7 @@
    "company": "Mercor",
    "location": "Houston, Harris County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5974688573?se=GPWNbF_m8RGK1Jozpv_WtA&utm_medium=api&utm_source=cd632dce&v=A0FB45D96D33F171BDE071B7D592E494D3A631FC",
+   "url": "https://www.adzuna.com/land/ad/5974688573?se=HCsMCWrm8RGK1Jozpv_WtA&utm_medium=api&utm_source=cd632dce&v=A0FB45D96D33F171BDE071B7D592E494D3A631FC",
    "date": "2026-11-22T00:23:38Z",
    "description": "Job Description Job Description About the job \\n Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey . \\n Position: Nurse Practitioners Type: Contract Compensation: $70–$110/hour Location: Remote Duration: 4–6 weeks Commitment: 20 hours/week \\n Role Responsibilities \\n \\n Evaluate AI-generated clinical assessments , tre…",
    "tags": [
@@ -13493,12 +13483,30 @@
    "salaryPeriod": "year"
   },
   {
+   "id": "adzuna:us:5974941732",
+   "title": "Communications Officer (AI Specialist) – COMSI – (Contractual)",
+   "company": "International Monetary Fund",
+   "location": "Washington, Washington, D.C.",
+   "workType": "onsite",
+   "url": "https://www.adzuna.com/details/5974941732?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-22T06:29:02Z",
+   "description": "Work for the IMF. Work for the World. The Communications Department (COM) develops and coordinates the IMF’s external and internal communications strategy, shapes key messages, and responds to the evolving global communications environment. The Strategy and Impact Division (COMSI) plays a central role in shaping strategic communication priorities, developing narratives and executive communications, assessing impact, and advancing practical innovation in AI analytics. COMSI is seeking a highly m…",
+   "tags": [
+    "IT Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 59453.48,
+   "salaryMax": 59453.48,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
    "id": "adzuna:us:5974888444",
    "title": "Head of CX AI and Knowledge, gTech Ads",
    "company": "Google",
    "location": "Boulder, Boulder County",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5974888444?se=bL9ubV_m8RGK1Jozpv_WtA&utm_medium=api&utm_source=cd632dce&v=215F18349FA2B7F74617A480910AACFDEC0F2BBD",
+   "url": "https://www.adzuna.com/land/ad/5974888444?se=tBjMCWrm8RGuPayoyp3FzQ&utm_medium=api&utm_source=cd632dce&v=215F18349FA2B7F74617A480910AACFDEC0F2BBD",
    "date": "2026-11-22T04:24:04Z",
    "description": "info_outline X The application window will be open until at least December 4, 2026. This opportunity will remain online based on business needs which may be before or after the specified date. Minimum qualifications: Bachelor’s degree or equivalent practical experience. 15 years of experience in a project management or a customer-facing role. 5 years of experience in people management. Preferred qualifications: 10 years of experience leading global technology, Artificial Intelligence (AI) produ…",
    "tags": [
@@ -13601,6 +13609,60 @@
    "salaryPeriod": "year"
   },
   {
+   "id": "adzuna:us:5974949628",
+   "title": "AI Performance Test Architect",
+   "company": "Flexon Technologies Talent360.ai",
+   "location": "Tampa, Hillsborough County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5974949628?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-22T06:35:04Z",
+   "description": "Role: Al Performance Test Architect Location: Tampa, Fl-Remote Duration: 6 Months Technical Skills Load Testing Tools : Deep expertise in tools such as JMeter, LoadRunner, Gatling, k6, NeoLoad, or BlazeMeter. APM & Observability: Strong hands-on experience with Datadog, Azure Application Insights, and exposure to Dynatrace, New Relic, AppDynamics, Splunk, Grafana, or Prometheus. Bottleneck Analysis : Expert-level skills in performance bottleneck identification across CPU, memory, threads, GC, d…",
+   "tags": [
+    "IT Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 119353.4,
+   "salaryMax": 119353.4,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5974935945",
+   "title": "Fullstack AI Engineer",
+   "company": "Calfus Inc.",
+   "location": "Hawthorn Woods, Lake County",
+   "workType": "onsite",
+   "url": "https://www.adzuna.com/land/ad/5974935945?se=3mk8Cmrm8RGK1Jozpv_WtA&utm_medium=api&utm_source=cd632dce&v=3B0750513C5F09960C5CB6B3B4BEE0C4A58FE835",
+   "date": "2026-11-22T06:18:39Z",
+   "description": "Job Description About Calfus \\n Calfus builds Aetherion, the agentic AI platform for the enterprise. Companies use it to turn manual, human-run processes into autonomous, governed agent workflows, and everything we build and sell runs on it. \\n \\n Our forward-deployed engineers (FDEs) embed with customers to take Aetherion live against their hardest, highest-value processes, working from Pleasanton, Redmond, Vancouver, Pune, and Bangalore. That work spans healthcare revenue cycle, supply chain,…",
+   "tags": [
+    "IT Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 140424.14,
+   "salaryMax": 140424.14,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5974930333",
+   "title": "AI Data Scientist",
+   "company": "Tokio Marine HCC",
+   "location": "Kennesaw, Cobb County",
+   "workType": "onsite",
+   "url": "https://www.adzuna.com/details/5974930333?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-22T05:56:14Z",
+   "description": "Tokio Marine HCC (TMHCC) brings 50 years of service to the specialty insurance industry, today offering over 100 products to commercial customers in 180 countries around the world. Organic growth and over 60 successful acquisitions have grown our 2022 Gross Written Premium (GWP) to $5 Billion. Our workforce has grown to 4,300 worldwide … big, but not so big that you cannot make a difference. Our Good Company values, including integrity, empowerment, and commitment to customer service, and a cul…",
+   "tags": [
+    "IT Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 133283.02,
+   "salaryMax": 133283.02,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
    "id": "adzuna:us:5974902262",
    "title": "Security Engineer",
    "company": "Tetra Tech",
@@ -13615,42 +13677,6 @@
    "source": "Adzuna (US)",
    "salaryMin": 140000,
    "salaryMax": 150000,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5974882912",
-   "title": "Fullstack AI Engineer",
-   "company": "Calfus Inc.",
-   "location": "Mundelein, Lake County",
-   "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5974882912?se=YrQUbl_m8RGfx_Pr_uTsjg&utm_medium=api&utm_source=cd632dce&v=CD1845A23431F8B6638523A5FDA2419C01DF0FE5",
-   "date": "2026-11-22T04:05:20Z",
-   "description": "Job Description About Calfus \\n Calfus builds Aetherion, the agentic AI platform for the enterprise. Companies use it to turn manual, human-run processes into autonomous, governed agent workflows, and everything we build and sell runs on it. \\n \\n Our forward-deployed engineers (FDEs) embed with customers to take Aetherion live against their hardest, highest-value processes, working from Pleasanton, Redmond, Vancouver, Pune, and Bangalore. That work spans healthcare revenue cycle, supply chain,…",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 124809.02,
-   "salaryMax": 124809.02,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5974873541",
-   "title": "Event Manager",
-   "company": "Pyramid Global Hospitality",
-   "location": "US",
-   "workType": "onsite",
-   "url": "https://www.adzuna.com/details/5974873541?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-22T03:50:36Z",
-   "description": "Pyramid Global Hospitality is a leading hospitality management company with a portfolio of more than 200 hotels and resorts and over 18,000 associates across the United States, Caribbean, and Europe. Our platform includes Benchmark Resorts & Hotels , a collection of distinctive independent properties; Axiom Hospitality , our European hotel management company; and PYRAMIDWORKS , which provides integrated workplace and facilities services. With corporate offices in Boston, The Woodlands, Texas, a…",
-   "tags": [
-    "Hospitality & Catering Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 65003.43,
-   "salaryMax": 65003.43,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
@@ -13732,7 +13758,7 @@
    "company": "Oscar Associates  Limited",
    "location": "UK",
    "workType": "remote",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5953061738?se=An6Mbl_m8RGB-bDIy5dDgQ&utm_medium=api&utm_source=cd632dce&v=9293DA910DEF686F55B80FC40DC24B625DD7988F",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5953061738?se=XPqWCmrm8RGuPayoyp3FzQ&utm_medium=api&utm_source=cd632dce&v=9293DA910DEF686F55B80FC40DC24B625DD7988F",
    "date": "2026-11-04T15:02:08Z",
    "description": "Freelance AI & Data Bootcamp Trainer Location: UK-based, remote Contract: Initial 16 weeks | Monday-Thursday Hours: 1pm-4pm or 6pm-9pm IR35: Outside IR35, subject to final assessment Engagement: Umbrella or limited company The Opportunity We're working with a growing UK training provider looking for an experienced AI & Data Bootcamp Trainer to deliver an intensive, 16-week programme. You'll deliver practical, interactive sessions to help learners develop job-ready skills across data analysis, v…",
    "tags": [
@@ -13804,7 +13830,7 @@
    "company": "AWD Online",
    "location": "London, UK",
    "workType": "remote",
-   "url": "https://www.adzuna.co.uk/jobs/land/ad/5974398389?se=_CpYb1_m8RG91cPrrZroFA&utm_medium=api&utm_source=cd632dce&v=EA247B5FFD364B9745DD78EFCA816A5A75AAE84E",
+   "url": "https://www.adzuna.co.uk/jobs/land/ad/5974398389?se=VqUyC2rm8RGHeaLRbaNuwQ&utm_medium=api&utm_source=cd632dce&v=EA247B5FFD364B9745DD78EFCA816A5A75AAE84E",
    "date": "2026-11-21T17:41:01Z",
    "description": "Argentinian Spanish Localisation Specialist / Translator Work remotely from anywhere in the world on a self-employed contractor basis, using Argentinian Spanish expertise to localise AI-generated, marketing, website, app and product content with accuracy, cultural relevance and a natural brand voice. If you've also worked in the following roles, we'd also like to hear from you: Spanish Translator, Spanish Linguist, Localisation Linguist, Language Specialist, Translation Specialist, Spanish Loca…",
    "tags": [
@@ -14380,7 +14406,7 @@
    "company": "Microsoft",
    "location": "Sydney, Sydney Region",
    "workType": "onsite",
-   "url": "https://www.adzuna.com.au/land/ad/5972678750?se=6FYAc1_m8RGxz9-eUdfqSQ&utm_medium=api&utm_source=cd632dce&v=0C6893563AAB294D349914BA2B91773CF8D37DC4",
+   "url": "https://www.adzuna.com.au/land/ad/5972678750?se=bnKLDmrm8RGB-bDIy5dDgQ&utm_medium=api&utm_source=cd632dce&v=0C6893563AAB294D349914BA2B91773CF8D37DC4",
    "date": "2026-11-20T19:31:44Z",
    "description": "Overview The Small and Medium Business (SMB) segment at Microsoft is at the leading edge of growth and transformation. It’s a tremendous growth engine for the company dedicated to bringing the Microsoft cloud to millions of SMB customers worldwide through scalable routes to market, growing revenue, market share and net new customers while enabling a high level of customer and partner experience. As a Partner Solution Sales specialist for AI Business Process , you will grow Microsoft's business …",
    "tags": [
@@ -14416,7 +14442,7 @@
    "company": "Davidson",
    "location": "Brisbane CBD, Brisbane",
    "workType": "onsite",
-   "url": "https://www.adzuna.com.au/land/ad/5971576082?se=6FYAc1_m8RGxz9-eUdfqSQ&utm_medium=api&utm_source=cd632dce&v=D4481506DA88CA329929DB9AD0A90E936642AEBD",
+   "url": "https://www.adzuna.com.au/land/ad/5971576082?se=bnKLDmrm8RGB-bDIy5dDgQ&utm_medium=api&utm_source=cd632dce&v=D4481506DA88CA329929DB9AD0A90E936642AEBD",
    "date": "2026-11-19T23:30:25Z",
    "description": "Initial 6 month contract within QLD Government Up to $122.06 per hour, excluding Superannuation All applicants must have full Australian working rights and able to meet in office requirements in Brisbane. The Opportunity Davidson is partnering with a major Queensland Government organisation to recruit an experienced Senior Azure AI Developer for an initial 6-month contract based in Brisbane CBD, with flexible working arrangements. This is an opportunity to contribute to the organisation's growi…",
    "tags": [
@@ -14434,7 +14460,7 @@
    "company": "Deloitte",
    "location": "Düsseldorf, Nordrhein-Westfalen",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5974898012?se=uI4KdV_m8RGfx_Pr_uTsjg&utm_medium=api&utm_source=cd632dce&v=DCF79A9126357BF7207DDE16E14B760F526585E6",
+   "url": "https://www.adzuna.de/land/ad/5974898012?se=PHlVEGrm8RGHeaLRbaNuwQ&utm_medium=api&utm_source=cd632dce&v=DCF79A9126357BF7207DDE16E14B760F526585E6",
    "date": "2026-11-22T10:56:15Z",
    "description": "Deloitte offers leading audit and consulting services in Audit & Assurance, Tax & Legal, Consulting, and Advisory – for nearly 90% of the Fortune Global 500® and numerous private companies. We deliver innovative thinking, solve complex challenges, and promote sustainable growth. With around 470,000 employees worldwide, we offer outstanding career opportunities – driven by a strong sense of “we” and a diversity of perspectives and skills. The AI Experience Center (“AIXC”) is a highly innovative …",
    "tags": [
@@ -14452,7 +14478,7 @@
    "company": "CompuGroup Medical Deutschland AG",
    "location": "Deutschland",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5974843900?se=uI4KdV_m8RGfx_Pr_uTsjg&utm_medium=api&utm_source=cd632dce&v=CDBEAFC6914AA40C3FE79F19ADDE089BF711CA01",
+   "url": "https://www.adzuna.de/land/ad/5974843900?se=PHlVEGrm8RGHeaLRbaNuwQ&utm_medium=api&utm_source=cd632dce&v=CDBEAFC6914AA40C3FE79F19ADDE089BF711CA01",
    "date": "2026-11-22T09:04:34Z",
    "description": "Recruiting ist mehr als Besetzen. Vergessen Sie nicht, Ihren Lebenslauf zu überprüfen, bevor Sie sich bewerben. Lesen Sie sich auch alle Anforderungen für diese Stelle durch. Es geht darum, Menschen zu finden, die etwas bewegen. CGM entwickelt Softwarelösungen, die das Gesundheitswesen intelligenter, einfacher und besser machen. In 19 Ländern arbeiten fast 8.000 Menschen an einer gemeinsamen Vision: Wissen so einzusetzen, dass es Leben rettet. Jetzt suchen wir dich. Eine Recruiting-Persönlichke…",
    "tags": [
