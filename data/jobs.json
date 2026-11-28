@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-28T11:02:08.088902+00:00",
- "count": 854,
+ "generatedAt": "2026-11-28T12:03:32.623431+00:00",
+ "count": 850,
  "jobs": [
   {
    "id": "remotive:2091212",
@@ -500,6 +500,27 @@
     "datadog"
    ],
    "source": "Remotive",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "arbeitnow:bi-development-mit-schwerpunkt-ki-enablement-berlin-307907",
+   "title": "BI Development (m/w/d) mit Schwerpunkt KI-Enablement",
+   "company": "EXTERNUM UG (haftungsbeschränkt)",
+   "location": "Berlin",
+   "workType": "remote",
+   "url": "https://www.arbeitnow.com/jobs/companies/externum-ug-haftungsbeschrankt/bi-development-mit-schwerpunkt-ki-enablement-berlin-307907",
+   "date": "2026-11-28T10:30:51+00:00",
+   "description": "WIR SUCHEN DICH Als externes Personalberatungsunternehmen suchen wir im Auftrag des renommierten Sicherheitsdienstleisters – W.I.S. Sicherheit + Service – eine(n) zuverlässige(n) Mitarbeiter*in (m/w/d) BI Development mit Schwerpunkt KI-Enablement für das zentrale Reporting. DEIN NEUER ARBEITSPLATZ Die W.I.S. Sicherheit + Service bietet seit vielen Jahren zuverlässige und hochwertige Sicherheits- und Servicedienstleistungen in Deutschland und schafft dabei ein stabiles, wertschätzendes und zukunftssicheres Arbeitsumfeld. Mitarbeitende aus über 70 Nationen tragen gemeinsam zum Unternehmenserfolg bei und fördern ein starkes, multikulturelles Miteinander. Im Tagesgeschäft entstehen viele Daten zu Personal, Einsätzen und Finanzen, die zentral in Qlik Sense ausgewertet werden. Du arbeitest eng mit dem BI-Manager und IT-Leiter zusammen und übernimmst von Anfang an eigene Themen. Die Entscheidungswege sind kurz, und gute Ideen werden umgesetzt. KI setzt die W.I.S. dort ein, wo sie im Arbeitsalltag hilft. Dich erwartet ein sicherer und zukunftsweisender Arbeitsplatz in menschlich angenehmer Atmosphäre DEINE AUFGABEN Entwicklung und Pflege unserer Qlik Sense Apps und Datenmodelle Aufbau der ",
+   "tags": [
+    "Remote",
+    "Business Intelligence",
+    "Unbefristeter arbeitsvertrag",
+    "berufserfahren"
+   ],
+   "source": "Arbeitnow",
    "salaryMin": null,
    "salaryMax": null,
    "salaryCurrency": null,
@@ -2406,26 +2427,6 @@
     "AÜ-Hensoldt",
     "Experienced",
     "fulltime fixed term"
-   ],
-   "source": "Arbeitnow",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "arbeitnow:finance-manager-finance-data-automation-gn-at-atlantic-berlin-65088",
-   "title": "Finance Manager (Finance, Data & Automation) (gn) @ Atlantic, Berlin",
-   "company": "atlantic.vc",
-   "location": "Berlin, Berlin, Germany",
-   "workType": "unknown",
-   "url": "https://www.arbeitnow.com/jobs/companies/atlanticvc/finance-manager-finance-data-automation-gn-at-atlantic-berlin-65088",
-   "date": "2026-11-27T18:31:21+00:00",
-   "description": "About Atlantic Atlantic is the first believer in founders, science and bold ideas. We lead pre-seed rounds across Europe with speed and conviction, backing ambitious founders from day one and supporting them hands-on, especially with fundraising and hiring. As a thesis-driven fund, we have built deep expertise in four technology areas: AI &amp; Compute, Energy &amp; Climate, Industrial &amp; Robotics, and Space &amp; Security. Since 2016, we have partnered with over 150 European founders in their earliest days, including those behind category-defining companies such as Choco, GetYourGuide, Wandelbots, Softr, Harmattan, Again, Synthflow and Mirelo. For us, there is no 'too bold' or 'too early'. Just founders venturing into the unknown. The role As our Finance Manager, you'll run the day-to-day of Atlantic's fund finance: across portfolio monitoring, cash flow and invoicing, fund accounting and reporting, compliance, and special projects. You'll report directly to our Head of Finance and work closely with our Partners, our fund administrator and our tax advisor. Beyond the day-to-day, you’ll have a clear mandate to automate. The goal is to cut manual work in half and let portfolio in",
-   "tags": [
-    "Core Team",
-    "Mid",
-    "fulltime permanent"
    ],
    "source": "Arbeitnow",
    "salaryMin": null,
@@ -8876,6 +8877,22 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:3226631738543905388",
+   "title": "ERP Senior Specialist Advisor",
+   "company": "NTT DATA, Inc.",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/3226631738543905388",
+   "date": "2026-11-27T00:00:00.0000000",
+   "description": "Role: Oracle Integration Cloud (OIC) Specialist We are looking for an experienced Oracle Integration Cloud (OIC) Specialist with strong hands-on expertise in designing, developing, deploying, and supporting integrations across Oracle Fusion Cloud and external applications...",
+   "tags": [],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-4018434577431163203",
    "title": "Business Intelligence Senior Specialist",
    "company": "NTT DATA, Inc.",
@@ -8900,22 +8917,6 @@
    "url": "https://jooble.org/jdp/-3912766583499992467",
    "date": "2026-11-06T00:00:00.0000000",
    "description": "Role purpose Design, build, migrate, and support technical components required for the Fusion divestiture, including OTBI analyses, BI Publisher reports, data extracts, OIC integrations, APIs, automation scripts, conversion utilities, scheduling, monitoring, and cutover...",
-   "tags": [],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:3226631738543905388",
-   "title": "ERP Senior Specialist Advisor",
-   "company": "NTT DATA, Inc.",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/3226631738543905388",
-   "date": "2026-11-27T00:00:00.0000000",
-   "description": "Role: Oracle Integration Cloud (OIC) Specialist We are looking for an experienced Oracle Integration Cloud (OIC) Specialist with strong hands-on expertise in designing, developing, deploying, and supporting integrations across Oracle Fusion Cloud and external applications...",
    "tags": [],
    "source": "Jooble (India)",
    "salaryMin": null,
@@ -9104,24 +9105,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-2731064909527676937",
-   "title": "After-School Tutor",
-   "company": "Bluebell Tutors",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/-2731064909527676937",
-   "date": "2026-11-26T09:18:48.6230000",
-   "description": "Bluebell Tutors, a tutoring center in Mumbai, India, is hiring an After-School Tutor (2 openings). You will help students catch up, keep up and get ahead in small groups and one-to-one. What you will do: - Tutor students one-to-one and in small groups - Use our lesson...&nbsp;",
-   "tags": [
-    "Part-time"
-   ],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-1194063172029832688",
    "title": "Early Years Educator",
    "company": "Crown Early Learning",
@@ -9132,6 +9115,24 @@
    "description": "Crown Early Learning, a childcare center in Hyderabad, India, is hiring an Early Years Educator (2 openings). You will lead fun, hands-on learning for toddlers and preschoolers in a warm, caring setting. What you will do: - Plan and lead play-based activities - Help children...",
    "tags": [
     "Full-time"
+   ],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2731064909527676937",
+   "title": "After-School Tutor",
+   "company": "Bluebell Tutors",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/-2731064909527676937",
+   "date": "2026-11-26T09:18:48.6230000",
+   "description": "Bluebell Tutors, a tutoring center in Mumbai, India, is hiring an After-School Tutor (2 openings). You will help students catch up, keep up and get ahead in small groups and one-to-one. What you will do: - Tutor students one-to-one and in small groups - Use our lesson...&nbsp;",
+   "tags": [
+    "Part-time"
    ],
    "source": "Jooble (India)",
    "salaryMin": null,
@@ -9184,24 +9185,6 @@
    "url": "https://jooble.org/jdp/-5386176883829964045",
    "date": "2026-07-29T00:00:00.0000000",
    "description": "&nbsp;...we’d love to hear from you! What is the opportunity?: You have an analytical mind and a passion for the craft of software engineering, and you love solving problems and learning new things. Technologies come and go, but that excites you because of the endless...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:8074014279785053039",
-   "title": "Manager - Manufacturing Engineering",
-   "company": "Herman Miller Furniture (India) Pvt. Ltd.",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/8074014279785053039",
-   "date": "2026-10-30T00:00:00.0000000",
-   "description": "&nbsp;...with our values, so we can build a more sustainable, equitable, and beautiful future for everyone. Manager - Manufacturing Engineering Report to Production Manager Location: MillerKnoll Bidadi Factory General Purpose The Manager - Manufacturing...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -9370,14 +9353,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:124217674425938022",
+   "id": "jooble:5269104964620589139",
    "title": "Electrician",
-   "company": "Bluebell Electrical",
+   "company": "Kingsmere Electrical",
    "location": "India",
    "workType": "onsite",
-   "url": "https://jooble.org/jdp/124217674425938022",
-   "date": "2026-11-23T08:58:14.1570000",
-   "description": "Bluebell Electrical, an electrical contractor in Bengaluru, India, is hiring an Electrician (2 openings). You will install, test and repair electrical systems in homes and commercial buildings. What you will do: - Install wiring, lighting, sockets and distribution boards...",
+   "url": "https://jooble.org/jdp/5269104964620589139",
+   "date": "2026-11-25T08:44:16.5900000",
+   "description": "Kingsmere Electrical, an electrical contractor in Kolkata, India, is hiring an Electrician (2 openings). You will install, test and repair electrical systems in homes and commercial buildings. What you will do: - Install wiring, lighting, sockets and distribution boards...",
    "tags": [
     "Full-time"
    ],
@@ -9474,22 +9457,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:7241173434899399972",
-   "title": "Consultant (Salesforce Configuration)",
-   "company": "Komodo Health",
-   "location": "India",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/7241173434899399972",
-   "date": "2026-11-28T01:42:23.0520555+00:00",
-   "description": "We Breathe Life Into Data At Komodo Health, our mission is to reduce the global burden of disease. And we believe that smarter use of data is essential to this mission. That’s why we built the Healthcare Map — the industry’s largest, most complete, precise view of...",
-   "tags": [],
-   "source": "Jooble (India)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-6146113313070524359",
    "title": "Consultant - Assessment SME (Engineering)",
    "company": "ETS GCC",
@@ -9501,6 +9468,22 @@
    "tags": [
     "Full-time"
    ],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:7241173434899399972",
+   "title": "Consultant (Salesforce Configuration)",
+   "company": "Komodo Health",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/7241173434899399972",
+   "date": "2026-11-28T01:42:23.0520555+00:00",
+   "description": "We Breathe Life Into Data At Komodo Health, our mission is to reduce the global burden of disease. And we believe that smarter use of data is essential to this mission. That’s why we built the Healthcare Map — the industry’s largest, most complete, precise view of...",
+   "tags": [],
    "source": "Jooble (India)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9560,12 +9543,30 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:2972448344056145877",
+   "id": "jooble:-7621014117389783094",
+   "title": "Android Developer",
+   "company": "Crown Apps",
+   "location": "India",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/-7621014117389783094",
+   "date": "2026-11-26T09:18:48.5200000",
+   "description": "Crown Apps, an app development studio in Mumbai, India, is hiring an Android Developer (2 openings). You will build and improve the mobile apps our customers rely on every day. This role is on-site in our Mumbai office. What you will do: - Build features for our iOS and...",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (India)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-527832631968137643",
    "title": "Coder (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Palm Bay, FL",
+   "location": "Oak Ridge, TN",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/2972448344056145877",
+   "url": "https://jooble.org/jdp/-527832631968137643",
    "date": "2026-11-28T00:00:00.0000000",
    "description": "&nbsp;...Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including...&nbsp;",
    "tags": [],
@@ -9584,6 +9585,24 @@
    "url": "https://jooble.org/jdp/4532189667713143468",
    "date": "2026-11-09T00:00:00.0000000",
    "description": "&nbsp;...Project Overview We are sourcing independent Search Engine Evaluation Specialists to provide their expertise for an AI benchmark evaluation project. As AI models increasingly interpret search intent, analyze indexing protocols, and evaluate search rank responses, their...&nbsp;",
+   "tags": [
+    "Temporary"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:2110619779083838111",
+   "title": "AI Trainer (Life Sciences)",
+   "company": "Prointegrate",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/2110619779083838111",
+   "date": "2026-11-26T00:00:00.0000000",
+   "description": "&nbsp;...looking for Computational Life Scientists with prior professional AI training or model-evaluation experience to support a project...&nbsp;&nbsp;...graders, or benchmark problems. # Experience reviewing other AI trainers’ technical submissions. # Experience with NumPy, SciPy, pandas...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -9622,24 +9641,6 @@
    "description": "Brunel is partnering with DataAnnotation to connect experienced Life Sciences professionals with an innovative AI training program. This opportunity brings together deep scientific expertise and artificial intelligence to help evaluate and improve AI-generated content...&nbsp;",
    "tags": [
     "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:2110619779083838111",
-   "title": "AI Trainer (Life Sciences)",
-   "company": "Prointegrate",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/2110619779083838111",
-   "date": "2026-11-26T00:00:00.0000000",
-   "description": "&nbsp;...looking for Computational Life Scientists with prior professional AI training or model-evaluation experience to support a project...&nbsp;&nbsp;...graders, or benchmark problems. # Experience reviewing other AI trainers’ technical submissions. # Experience with NumPy, SciPy, pandas...&nbsp;",
-   "tags": [
-    "Temporary"
    ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9714,17 +9715,15 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:7359965314687991224",
-   "title": "Legal Counsel Specialist - Freelance AI Trainer Project",
+   "id": "jooble:-9057312586946053363",
+   "title": "Antibiotic Resistance Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/7359965314687991224",
-   "date": "2026-11-09T00:00:00.0000000",
-   "description": "&nbsp;...Are you a seasoned attorney eager to shape the future of AI? Large-scale language models are evolving from clever chatbots into powerful...&nbsp;&nbsp;...PTO do not apply. Job title: Legal Counsel Specialist - AI Trainer Employment type: Contract Workplace type: Remote...&nbsp;",
-   "tags": [
-    "Temporary"
-   ],
+   "url": "https://jooble.org/jdp/-9057312586946053363",
+   "date": "2026-11-25T00:00:00.0000000",
+   "description": "You will converse with a language model on antibiotic resistance and microbiology scenarios, verify its factual accuracy and reasoning, and document failure modes to help improve its reasoning. This is a remote freelance contract paid hourly. Skills: Antibiotic Resistance...",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -9748,6 +9747,24 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:7359965314687991224",
+   "title": "Legal Counsel Specialist - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/7359965314687991224",
+   "date": "2026-11-09T00:00:00.0000000",
+   "description": "&nbsp;...Are you a seasoned attorney eager to shape the future of AI? Large-scale language models are evolving from clever chatbots into powerful...&nbsp;&nbsp;...PTO do not apply. Job title: Legal Counsel Specialist - AI Trainer Employment type: Contract Workplace type: Remote...&nbsp;",
+   "tags": [
+    "Temporary"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-7950460225880829436",
    "title": "AI Trainer",
    "company": "VDart",
@@ -9764,38 +9781,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-4404803190010222750",
-   "title": "Philosophy Specialist - Freelance AI Trainer Project",
-   "company": "Meridial",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-4404803190010222750",
-   "date": "2026-11-25T00:00:00.0000000",
-   "description": "You will converse with advanced language models on philosophical topics, verify accuracy and logical soundness, and document reproducible error traces to improve model reasoning. The role is a remote freelance contract paid hourly.",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-9057312586946053363",
-   "title": "Antibiotic Resistance Specialist - Freelance AI Trainer Project",
-   "company": "Meridial",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-9057312586946053363",
-   "date": "2026-11-25T00:00:00.0000000",
-   "description": "You will converse with a language model on antibiotic resistance and microbiology scenarios, verify its factual accuracy and reasoning, and document failure modes to help improve its reasoning. This is a remote freelance contract paid hourly. Skills: Antibiotic Resistance...",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-2587269884303622807",
    "title": "Spanish Audio Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
@@ -9804,6 +9789,22 @@
    "url": "https://jooble.org/jdp/-2587269884303622807",
    "date": "2026-11-24T00:00:00.0000000",
    "description": "Spanish Audio Specialist - Freelance AI Trainer Project World Wide - Remote A project dedicated to assessing and benchmarking advanced agentic audio models against leading systems. The program's mission is to evaluate and optimize model performance for real-world customer...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-4404803190010222750",
+   "title": "Philosophy Specialist - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-4404803190010222750",
+   "date": "2026-11-25T00:00:00.0000000",
+   "description": "You will converse with advanced language models on philosophical topics, verify accuracy and logical soundness, and document reproducible error traces to improve model reasoning. The role is a remote freelance contract paid hourly.",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9844,22 +9845,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-6632588372567669012",
-   "title": "LaTex Specialist (Fluent in Thai) - Freelance AI Trainer Project",
-   "company": "Meridial",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-6632588372567669012",
-   "date": "2026-11-27T00:00:00.0000000",
-   "description": "&nbsp;...LaTeX Specialist (Fluent in Thai) - Freelance AI Trainer Project World Wide - Remote Are you a LaTeX expert fluent in Thai eager to shape the future of AI? Large-scale language models are evolving from clever chatbots into powerful engines of scientific discovery...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:2438537380868476902",
    "title": "Computer & Information Systems Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
@@ -9892,14 +9877,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-4969779171632619319",
-   "title": "Healthcare & Social Assistance Specialist - Freelance AI Trainer Project",
+   "id": "jooble:-1364023736669114310",
+   "title": "Video Editing Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-4969779171632619319",
-   "date": "2026-11-25T03:40:25.3359252+00:00",
-   "description": "&nbsp;...design healthcare and social assistance prompts, write scoring rubrics, and fact-check outputs to produce benchmark evaluation data for AI models. The work is freelance and fully remote. Skills: Prompt Writing, Rubric Development, Fact-Checking, Medical Terminology,...&nbsp;",
+   "url": "https://jooble.org/jdp/-1364023736669114310",
+   "date": "2026-11-25T03:40:22.8590695+00:00",
+   "description": "You will converse with language models on video editing and post-production scenarios, verify their technical and creative accuracy, and document reproducible errors to improve model evaluation. The role is a remote freelance contract paid hourly. Skills: Adobe Premiere...",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9908,14 +9893,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-2735189039413333",
-   "title": "Search Engine Evaluation Specialist - Freelance AI Trainer Project",
+   "id": "jooble:-2367695757563822282",
+   "title": "Wetlab Protocol Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-2735189039413333",
-   "date": "2026-11-25T03:40:22.8694308+00:00",
-   "description": "Design realistic search engine evaluation tasks, prompts, and objective scoring rubrics to generate training and benchmark data for AI models. Work is freelance and remote, paid hourly. Skills: Search Engine Optimization, Indexing, Ranking Factors, Rubric Design, Prompt...&nbsp;",
+   "url": "https://jooble.org/jdp/-2367695757563822282",
+   "date": "2026-11-25T03:40:22.8492153+00:00",
+   "description": "You will challenge a language model on wetlab protocols, troubleshooting and lab safety, verify its accuracy and workflow logic, and document failure modes to improve its reasoning. The work is remote, contract, and paid $8-$65 per hour. Skills: PCR, qPCR, Cell Culture...",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9924,14 +9909,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-1077638772883188345",
-   "title": "Physics Specialist - Freelance AI Trainer Project",
+   "id": "jooble:4817609479716470392",
+   "title": "Anthropology Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-1077638772883188345",
-   "date": "2026-11-25T03:40:22.8798991+00:00",
-   "description": "You will converse with advanced language models on physics topics, verify their accuracy and reasoning, document failure modes, and suggest improvements to prompts and evaluation metrics. Skills: Physics, Prompt Engineering, LLM Evaluation.",
+   "url": "https://jooble.org/jdp/4817609479716470392",
+   "date": "2026-11-25T03:40:27.7506133+00:00",
+   "description": "You will converse with language models on anthropology topics, verify factual and logical accuracy, and document failure modes to help improve model reasoning and evaluation. The role is a remote freelance contract paid hourly.",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9940,14 +9925,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:1590508875017469736",
-   "title": "Rust Coding Specialist - Freelance AI Trainer Project",
+   "id": "jooble:-3092426429094954045",
+   "title": "Government Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/1590508875017469736",
-   "date": "2026-11-25T03:40:22.8718253+00:00",
-   "description": "You will converse with an AI model on Rust software engineering tasks, verify its logical accuracy and code quality, and document failure modes to improve model training and evaluation. The work is freelance and remote in the US. Skills: Rust, Systems Programming, Asynchronous...&nbsp;",
+   "url": "https://jooble.org/jdp/-3092426429094954045",
+   "date": "2026-11-25T03:40:25.3387247+00:00",
+   "description": "Create realistic public policy and civic administration prompts and write objective scoring rubrics to evaluate AI model outputs. Fact-check the content against government standards and legislative frameworks. Skills: Prompt Writing, Rubric Design, Fact-Checking, Public...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -9956,14 +9941,78 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-5682360171338183241",
-   "title": "Microbiology Specialist - Freelance AI Trainer Project",
+   "id": "jooble:-5048467540773736691",
+   "title": "Plant Viruses Specialist - Freelance AI Trainer Project",
    "company": "Meridial",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-5682360171338183241",
-   "date": "2026-11-25T03:40:22.8907999+00:00",
-   "description": "You will converse with language models on microbiology lab scenarios and theory, verify factual accuracy, and document failure modes to improve model reasoning. The role is a remote freelance contract for microbiology experts. Skills: Microbiology, Virology, Bacteriology...",
+   "url": "https://jooble.org/jdp/-5048467540773736691",
+   "date": "2026-11-25T03:40:22.8778489+00:00",
+   "description": "You will converse with language models on plant virology scenarios, verify factual accuracy, and document failure modes to help train and evaluate AI. The work is freelance and paid hourly.",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:6458265536409249311",
+   "title": "Video Game Specialist (US) - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/6458265536409249311",
+   "date": "2026-11-25T03:40:22.8572345+00:00",
+   "description": "You will play through virtual environments in an AI- generated world model, complete objectives, and document navigation, physics and responsiveness issues to help train AI systems. The work is freelance and remote for US-based gamers with strong PC gaming experience....&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:6069417936834595782",
+   "title": "Art History Specialist - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/6069417936834595782",
+   "date": "2026-11-25T03:40:27.7470303+00:00",
+   "description": "You will converse with language models on art history topics, verify factual accuracy and reasoning, document reproducible errors, and suggest improvements to prompts and evaluation metrics. The work is a remote freelance contract paid hourly.",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:4582638894704905524",
+   "title": "Information Specialist - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/4582638894704905524",
+   "date": "2026-11-25T03:40:25.3253014+00:00",
+   "description": "Create realistic information science prompts, detailed evaluation rubrics, and benchmark data to assess how AI models handle information architecture and retrieval tasks. Fact-check outputs against data governance and information management standards. Skills: Metadata...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:8832013162691997889",
+   "title": "Isolating Pathogens Specialist - Freelance AI Trainer Project",
+   "company": "Meridial",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/8832013162691997889",
+   "date": "2026-11-25T03:40:25.3226799+00:00",
+   "description": "You will converse with language models on pathogen isolation and clinical microbiology scenarios, verify their accuracy, and document reproducible error traces to improve model reasoning. The role is a remote freelance contract paid hourly. Skills: Microbiology, Pathogen...",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10184,22 +10233,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-527832631968137643",
-   "title": "Coder (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Oak Ridge, TN",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-527832631968137643",
-   "date": "2026-11-28T00:00:00.0000000",
-   "description": "&nbsp;...looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering...&nbsp;&nbsp;.... \\n Design and solve diverse coding problems used to train AI systems. \\n Write clear, high-quality code and technical explanations...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-8429265845202419731",
    "title": "Data & AI Solutions Consultant",
    "company": "VusionGroup SA",
@@ -10286,22 +10319,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-6257097595899054596",
-   "title": "Technology Trainer - Anthropic Enablement-Western US",
-   "company": "NewRocket",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-6257097595899054596",
-   "date": "2026-11-16T00:00:00.0000000",
-   "description": "&nbsp;...Technology Trainer – Anthropic Enablement About NewRocket NewRocket, a global, full-service Elite ServiceNow and Anthropic partner...&nbsp;&nbsp;...integrations, and enough hands-on experience with Claude or comparable LLM platforms to teach and troubleshoot confidently. ~ Proven...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-4242777967009242373",
    "title": "Audio/Voice/Annotation Trainer - Italian Language",
    "company": "Turing",
@@ -10313,6 +10330,22 @@
    "tags": [
     "Temporary"
    ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-6257097595899054596",
+   "title": "Technology Trainer - Anthropic Enablement-Western US",
+   "company": "NewRocket",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-6257097595899054596",
+   "date": "2026-11-16T00:00:00.0000000",
+   "description": "&nbsp;...Technology Trainer – Anthropic Enablement About NewRocket NewRocket, a global, full-service Elite ServiceNow and Anthropic partner...&nbsp;&nbsp;...integrations, and enough hands-on experience with Claude or comparable LLM platforms to teach and troubleshoot confidently. ~ Proven...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10370,24 +10403,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-3060339871704390369",
-   "title": "Franchise Business Coach - Residential Restoration",
-   "company": "Homefront Brands",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-3060339871704390369",
-   "date": "2026-11-19T00:00:00.0000000",
-   "description": "&nbsp;...remediation, fire and smoke restoration, reconstruction, and operational best practices. This individual serves as a trusted advisor, trainer, coach, and technical resource to franchise owners across the country. This position plays a critical role in accelerating...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:6389414334472956446",
    "title": "Life Skills Coach 3",
    "company": "The ARC Fresno Madera Counties",
@@ -10406,15 +10421,17 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-2689573428661836001",
-   "title": "Freelance Culture, Wellness & Creativity Coach",
-   "company": "Culture Vitale",
-   "location": "Chicago, IL",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/-2689573428661836001",
-   "date": "2026-11-26T00:00:00.0000000",
-   "description": "Culture Vitale is expanding its network of experts, facilitators and creatives to lead workshops, sessions, programs and retreats worldwide. We welcome specialists in wellness, arts/artisanal, and coaching who thrive with groups and individuals. As a freelancer, you register...",
-   "tags": [],
+   "id": "jooble:-3060339871704390369",
+   "title": "Franchise Business Coach - Residential Restoration",
+   "company": "Homefront Brands",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-3060339871704390369",
+   "date": "2026-11-19T00:00:00.0000000",
+   "description": "&nbsp;...remediation, fire and smoke restoration, reconstruction, and operational best practices. This individual serves as a trusted advisor, trainer, coach, and technical resource to franchise owners across the country. This position plays a critical role in accelerating...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10430,6 +10447,22 @@
    "url": "https://jooble.org/jdp/-1084756489257632193",
    "date": "2026-11-23T00:00:00.0000000",
    "description": "ProSidian Consulting is seeking an Exercise & Nutrition Motivational Keynote/Guest Speaker for a contract contingent role in the Education and Academia sector. The position focuses on delivering expert-driven talks, audience engagement, and post-event resources across CONUS...",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2689573428661836001",
+   "title": "Freelance Culture, Wellness & Creativity Coach",
+   "company": "Culture Vitale",
+   "location": "Chicago, IL",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/-2689573428661836001",
+   "date": "2026-11-26T00:00:00.0000000",
+   "description": "Culture Vitale is expanding its network of experts, facilitators and creatives to lead workshops, sessions, programs and retreats worldwide. We welcome specialists in wellness, arts/artisanal, and coaching who thrive with groups and individuals. As a freelancer, you register...",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10454,12 +10487,12 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:2213078563762268813",
+   "id": "jooble:2972448344056145877",
    "title": "Coder (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Sandy Springs, GA",
+   "location": "Palm Bay, FL",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/2213078563762268813",
+   "url": "https://jooble.org/jdp/2972448344056145877",
    "date": "2026-11-28T00:00:00.0000000",
    "description": "&nbsp;...Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including...&nbsp;",
    "tags": [],
@@ -10470,17 +10503,15 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-9088054295021560151",
-   "title": "AI Specialist",
-   "company": "Brooksource",
-   "location": "Charlotte, NC",
-   "workType": "hybrid",
-   "url": "https://jooble.org/jdp/-9088054295021560151",
-   "date": "2026-11-28T00:00:00.0000000",
-   "description": "&nbsp;... AI Optimization Engineer Location: Charlotte, NC (Hybrid, 3 days on-site at Optimist Hall Location) or Remote within the U.S. (must be able to work EST hours) Compensation: $80 - $95/hour plus benefits Duration: 12-month contract with strong potential for extension...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
+   "id": "jooble:-6664473853492233887",
+   "title": "Senior MCP / Agentic AI Specialist | Onshore",
+   "company": "Photon",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-6664473853492233887",
+   "date": "2026-11-18T00:00:00.0000000",
+   "description": "&nbsp;...Senior MCP / Agentic AI Specialist Department: Agentic AI & Platform Engineering · Level: Senior / Staff We are looking for a Senior MCP / Agentic AI Specialist to design, build, and secure the Model Context Protocol (MCP) infrastructure that connects large language...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10524,6 +10555,24 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-9088054295021560151",
+   "title": "AI Specialist",
+   "company": "Brooksource",
+   "location": "Charlotte, NC",
+   "workType": "hybrid",
+   "url": "https://jooble.org/jdp/-9088054295021560151",
+   "date": "2026-11-28T00:00:00.0000000",
+   "description": "&nbsp;... AI Optimization Engineer Location: Charlotte, NC (Hybrid, 3 days on-site at Optimist Hall Location) or Remote within the U.S. (must be able to work EST hours) Compensation: $80 - $95/hour plus benefits Duration: 12-month contract with strong potential for extension...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:6794890847069995114",
    "title": "Senior AI Enablement Specialist",
    "company": "Virtual Vocations Inc",
@@ -10532,22 +10581,6 @@
    "url": "https://jooble.org/jdp/6794890847069995114",
    "date": "2026-11-24T00:00:00.0000000",
    "description": "&nbsp;...To support the Transformation Office, the full-time Senior AI Enablement Specialist will develop expertise in enterprise AI tools, drive AI adoption, and facilitate transformation initiatives, all while working remotely. Key responsibilities Build hands-on expertise...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:8280903369811560409",
-   "title": "AI Enablement Specialist",
-   "company": "PitchBook Data",
-   "location": "Seattle, WA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/8280903369811560409",
-   "date": "2026-11-25T00:00:00.0000000",
-   "description": "&nbsp;...well as remotely. We share a passion for technology and happily share our expertise among ourselves and our customers. The AI Enablement Specialist helps PitchBook employees become confident, effective, and responsible users of AI. Working primarily with non-technical...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10574,17 +10607,15 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-5623657090193691663",
+   "id": "jooble:8280903369811560409",
    "title": "AI Enablement Specialist",
-   "company": "Wilson Sonsini",
-   "location": "Remote",
+   "company": "PitchBook Data",
+   "location": "Seattle, WA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-5623657090193691663",
-   "date": "2026-11-20T00:00:00.0000000",
-   "description": "&nbsp;...spirit allow exceptional opportunities for professional achievement and career growth. Wilson Sonsini is looking for an AI Enablement Specialist to join the firm's Innovation team. The AI Enablement Specialist plays a key role in advancing legal service delivery through...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
+   "url": "https://jooble.org/jdp/8280903369811560409",
+   "date": "2026-11-25T00:00:00.0000000",
+   "description": "&nbsp;...well as remotely. We share a passion for technology and happily share our expertise among ourselves and our customers. The AI Enablement Specialist helps PitchBook employees become confident, effective, and responsible users of AI. Working primarily with non-technical...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -10628,14 +10659,32 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-6664473853492233887",
-   "title": "Senior MCP / Agentic AI Specialist | Onshore",
-   "company": "Photon",
+   "id": "jooble:-5623657090193691663",
+   "title": "AI Enablement Specialist",
+   "company": "Wilson Sonsini",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-6664473853492233887",
-   "date": "2026-11-18T00:00:00.0000000",
-   "description": "&nbsp;...Senior MCP / Agentic AI Specialist Department: Agentic AI & Platform Engineering · Level: Senior / Staff We are looking for a Senior MCP / Agentic AI Specialist to design, build, and secure the Model Context Protocol (MCP) infrastructure that connects large language...&nbsp;",
+   "url": "https://jooble.org/jdp/-5623657090193691663",
+   "date": "2026-11-20T00:00:00.0000000",
+   "description": "&nbsp;...spirit allow exceptional opportunities for professional achievement and career growth. Wilson Sonsini is looking for an AI Enablement Specialist to join the firm's Innovation team. The AI Enablement Specialist plays a key role in advancing legal service delivery through...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:3192047158940134931",
+   "title": "AI Enablement Specialist",
+   "company": "Treliant by Huron Consulting Group",
+   "location": "United States",
+   "workType": "onsite",
+   "url": "https://jooble.org/jdp/3192047158940134931",
+   "date": "2026-11-25T00:00:00.0000000",
+   "description": "&nbsp;...to three people — the minimum viable size for genuine follow-the-sun coverage without burnout risk on the team's senior specialist. You will deliver AI fluency and platform training programs for India-region business-unit stakeholders, own a designated platform or...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10652,22 +10701,6 @@
    "url": "https://jooble.org/jdp/5756976059154026922",
    "date": "2026-11-23T00:00:00.0000000",
    "description": "Job Title: People. AI PMO SpecialistLocation: France or UK or USJob SummaryThe People.AI Program manages a global portfolio of AI use...&nbsp;&nbsp;...Electric Services. Reporting to the Program Director, the PMO Specialist keeps day-to-day operations, governance and reporting running smoothly...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-3273149782891327199",
-   "title": "AI Enablement Specialist",
-   "company": "Huron Consulting Group",
-   "location": "United States",
-   "workType": "onsite",
-   "url": "https://jooble.org/jdp/-3273149782891327199",
-   "date": "2026-11-25T00:00:00.0000000",
-   "description": "&nbsp;...to three people — the minimum viable size for genuine follow-the-sun coverage without burnout risk on the team's senior specialist. You will deliver AI fluency and platform training programs for India-region business-unit stakeholders, own a designated platform or...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -10790,22 +10823,6 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:3505680851009209385",
-   "title": "Remote Marketing Instructor for AI Training",
-   "company": "Alignerr Corp.",
-   "location": "Atlanta, GA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/3505680851009209385",
-   "date": "2026-11-23T00:00:00.0000000",
-   "description": "Alignerr Corp. is seeking experienced marketing educators to evaluate and improve AI- generated content, focusing on branding, consumer behavior, and GTM strategy. This remote, task-based contract role complements Alignerr's AI data development efforts. You will review...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
    "id": "jooble:-4176909893616889678",
    "title": "Tutor Conversation AI Evaluator",
    "company": "AuraOne Human Data",
@@ -10814,6 +10831,22 @@
    "url": "https://jooble.org/jdp/-4176909893616889678",
    "date": "2026-10-07T13:07:59.1100000",
    "description": "&nbsp;... Tutor Conversation AI Evaluator is a remote review track for evaluating AI outputs across tutor conversation ai specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:3505680851009209385",
+   "title": "Remote Marketing Instructor for AI Training",
+   "company": "Alignerr Corp.",
+   "location": "Atlanta, GA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/3505680851009209385",
+   "date": "2026-11-23T00:00:00.0000000",
+   "description": "Alignerr Corp. is seeking experienced marketing educators to evaluate and improve AI- generated content, focusing on branding, consumer behavior, and GTM strategy. This remote, task-based contract role complements Alignerr's AI data development efforts. You will review...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11002,14 +11035,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-894559616229944488",
-   "title": "Franchise Business Coach",
-   "company": "Neighborly Inc",
-   "location": "Waco, TX",
-   "workType": "hybrid",
-   "url": "https://jooble.org/jdp/-894559616229944488",
-   "date": "2026-11-26T07:24:21.3470000",
-   "description": "&nbsp;...of service-oriented business operations. Work Environment & Schedule: Full-time, Monday–Friday, 8:00 AM–5:00 PM CT. Hybrid work model- Remote to be considered Office locations: 500 E John Carpenter Fwy, Irving, TX 1010 N University Parks Drive, Waco, TX Competitive...&nbsp;",
+   "id": "jooble:-2062433833758862898",
+   "title": "Prompt Engineer",
+   "company": "SWITS DIGITAL Private Limited",
+   "location": "United States",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-2062433833758862898",
+   "date": "2026-11-27T00:00:00.0000000",
+   "description": "&nbsp;...Role: Prompt Engineer Location: Remote JOB DESCRIPTION Required Skills ~3+ years of hands-on prompt engineering experience, ideally with production LLM systems ~ Deep practical knowledge of prompting techniques: chain-of-thought, few-...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11026,22 +11059,6 @@
    "url": "https://jooble.org/jdp/-5310007537231468780",
    "date": "2026-11-25T11:43:05.0200000",
    "description": "&nbsp;...Context / Prompt Engineer Location: United States (Client Onsite Hybrid (Mountain View, CA)/ Remote) Fractal Analytics is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-2062433833758862898",
-   "title": "Prompt Engineer",
-   "company": "SWITS DIGITAL Private Limited",
-   "location": "United States",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-2062433833758862898",
-   "date": "2026-11-27T00:00:00.0000000",
-   "description": "&nbsp;...Role: Prompt Engineer Location: Remote JOB DESCRIPTION Required Skills ~3+ years of hands-on prompt engineering experience, ideally with production LLM systems ~ Deep practical knowledge of prompting techniques: chain-of-thought, few-...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11068,14 +11085,32 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-7178625472319759921",
+   "id": "jooble:3800103313092526505",
    "title": "Field Service Engineer (Remote TN) Mechanical Electrical",
    "company": "Thermal Product Solutions",
-   "location": "Remote",
+   "location": "Tennessee",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-7178625472319759921",
+   "url": "https://jooble.org/jdp/3800103313092526505",
    "date": "2026-11-20T00:00:00.0000000",
    "description": "&nbsp;...other corrective action. Coordinates problem resolution with engineering, customer service, and other personnel to expedite repairs....&nbsp;&nbsp;...Manages difficult or emotional customer situations; Responds promptly to customer needs; Solicits customer feedback to improve service...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2465638890069102758",
+   "title": "Senior AI Integration Specialist and Prompt Engineer",
+   "company": "SAIC",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-2465638890069102758",
+   "date": "2026-11-13T00:00:00.0000000",
+   "description": "&nbsp;...SAIC is seeking a Senior AI Integration Specialist and Prompt Engineer to translate subject matter expertise and contract, regulatory, and policy requirements into structured prompts, automation workflows, and validation methods. Working under the Program Quality Manager...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -11156,6 +11191,42 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:3780007131403332468",
+   "title": "Field Service Engineer - Must be within 1 hour drive of El Centro, CA",
+   "company": "General Dynamics Information Technology",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/3780007131403332468",
+   "date": "2026-11-18T00:00:00.0000000",
+   "description": "&nbsp;..., CA Must be able to lift at least 35 pounds HOW A FIELD ENGINEER WILL MAKE AN IMPACT Technical Support and Troubleshooting:...&nbsp;&nbsp;...Assist with customer needs and strive to resolve any issues in a prompt manner. Documentation and Reporting: ·A Field Engineer must...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-3680683598576872073",
+   "title": "Field Service Engineer - Chicago, IL",
+   "company": "Danaher Corporation",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-3680683598576872073",
+   "date": "2026-11-10T00:00:00.0000000",
+   "description": "&nbsp;...System which makes everything possible. The Field Service Engineer will be responsible for customer satisfaction in all aspects of...&nbsp;&nbsp;...Drive a sense of urgency to ensure customer needs are addressed promptly and with an emphasis on a “first time fix”. To manage a...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:6725449216549182349",
    "title": "Data Science AI Evaluator",
    "company": "Huxley Associates",
@@ -11164,6 +11235,22 @@
    "url": "https://jooble.org/jdp/6725449216549182349",
    "date": "2026-11-26T00:00:00.0000000",
    "description": "Data Science AI Evaluator (Remote)Exciting opportunity to help improve frontier AI models by evaluating their ability to perform real-world data science work. We're looking for experienced data scientists who can design realistic tasks, assess AI-generated analyses, SQL...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-5015107328660265853",
+   "title": "Remote Humanitarian AI Ethics & Protection Evaluator",
+   "company": "YO AI Labs",
+   "location": "New York, NY",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-5015107328660265853",
+   "date": "2026-11-26T00:00:00.0000000",
+   "description": "YO AI Labs is seeking experienced Humanitarian Aid Representatives to contribute expertise in humanitarian operations, civilian protection...&nbsp;&nbsp;...and International Humanitarian Law (IHL) to an AI training and evaluation project. You will help evaluate and refine AI-generated...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11188,14 +11275,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-5015107328660265853",
-   "title": "Remote Humanitarian AI Ethics & Protection Evaluator",
-   "company": "YO AI Labs",
-   "location": "New York, NY",
+   "id": "jooble:-4689599745026591037",
+   "title": "AI HR Evaluator & Talent Expert — Flexible Remote",
+   "company": "Prolific",
+   "location": "San Jose, CA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-5015107328660265853",
-   "date": "2026-11-26T00:00:00.0000000",
-   "description": "YO AI Labs is seeking experienced Humanitarian Aid Representatives to contribute expertise in humanitarian operations, civilian protection...&nbsp;&nbsp;...and International Humanitarian Law (IHL) to an AI training and evaluation project. You will help evaluate and refine AI-generated...&nbsp;",
+   "url": "https://jooble.org/jdp/-4689599745026591037",
+   "date": "2026-11-27T00:00:00.0000000",
+   "description": "Prolific is seeking HR and Talent Professionals in San Jose, California to join their Expert Network. Responsibilities include evaluating AI- generated content and creating HR scenarios. Ideal candidates will have professional HR experience, strong compliance expertise,...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11228,22 +11315,6 @@
    "url": "https://jooble.org/jdp/4085974004091678918",
    "date": "2026-11-26T00:00:00.0000000",
    "description": "pofft Technology Inc. seeks photography professionals to support AI image quality evaluation on a remote contract basis within the United States. You will compare original photos with AI-generated images and provide detailed feedback to improve data quality for next‑generation...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-4689599745026591037",
-   "title": "AI HR Evaluator & Talent Expert — Flexible Remote",
-   "company": "Prolific",
-   "location": "San Jose, CA",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-4689599745026591037",
-   "date": "2026-11-27T00:00:00.0000000",
-   "description": "Prolific is seeking HR and Talent Professionals in San Jose, California to join their Expert Network. Responsibilities include evaluating AI- generated content and creating HR scenarios. Ideal candidates will have professional HR experience, strong compliance expertise,...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11318,14 +11389,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:7048332056923843127",
-   "title": "Insurance Policy AI Evaluator",
+   "id": "jooble:9012586029777010786",
+   "title": "Government Benefits AI Evaluator",
    "company": "AuraOne Human Data",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/7048332056923843127",
-   "date": "2026-10-08T07:47:46.4830000",
-   "description": "&nbsp;...Insurance Policy AI Evaluator is a remote review track for evaluating AI outputs across insurance workflows. Reviewers grade calculations, narrative reasoning, and policy adherence; flag compliance and reconciliation issues; and document the correct treatment so the modeling...&nbsp;",
+   "url": "https://jooble.org/jdp/9012586029777010786",
+   "date": "2026-11-10T00:28:58.8000000",
+   "description": "&nbsp;...Government Benefits AI Evaluator is a remote evaluation track for reviewing government benefits ai evaluation prompts and responses against AuraOne's quality rubric. Reviewers compare paired outputs, label edge cases, and write the kind of structured feedback the modeling...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11334,14 +11405,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-4496500923416830485",
-   "title": "Nuclear AI Safety Evaluators & SMEs",
+   "id": "jooble:-5343304966420815166",
+   "title": "Explosives AI Safety Evaluators & SMEs",
    "company": "Pasiflora AI",
    "location": "United States",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-4496500923416830485",
+   "url": "https://jooble.org/jdp/-5343304966420815166",
    "date": "2026-10-14T00:00:00.0000000",
-   "description": "&nbsp;... AI Safety Evaluation Project | Remote | Contract Locations: US, Canada, UK, Europe, and Australia We are seeking qualified scientific and technical professionals to support an AI safety evaluation project focused on nuclear-related content. The work involves reviewing...&nbsp;",
+   "description": "&nbsp;... AI Safety Evaluation Project | Remote | Contract Locations: US, Canada, UK, Europe, and Australia We are seeking qualified scientific and technical professionals to support an AI safety evaluation project focused on explosives and energetic-materials content. The...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -11352,14 +11423,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:7579717277548342059",
-   "title": "Terms of Service AI Evaluator",
+   "id": "jooble:8537795052582087467",
+   "title": "Secure Code Review AI Evaluator",
    "company": "AuraOne Human Data",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/7579717277548342059",
-   "date": "2026-10-08T07:47:45.8600000",
-   "description": "&nbsp;...Terms of Service AI Evaluator is a remote evaluation track for reviewing terms of service ai evaluation prompts and responses against AuraOne's quality rubric. Reviewers compare paired outputs, label edge cases, and write the kind of structured feedback the modeling team...&nbsp;",
+   "url": "https://jooble.org/jdp/8537795052582087467",
+   "date": "2026-09-27T01:07:56.9230000",
+   "description": "&nbsp;...Secure Code Review AI Evaluator is a remote red-team track for stress-testing AI systems against adversarial prompts. Reviewers craft attack scenarios, document the failure mode, and pair each successful jailbreak with the rubric clause it violated so the safety team...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11368,17 +11439,65 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-7274412586755190283",
-   "title": "AI Evaluator - Education (Experienced Gemini Users)",
-   "company": "Turing",
-   "location": "United States",
+   "id": "jooble:-6154716130898428505",
+   "title": "Employment Law AI Evaluator",
+   "company": "AuraOne Human Data",
+   "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-7274412586755190283",
-   "date": "2026-10-27T00:00:00.0000000",
-   "description": "&nbsp;...Help improve leading AI models through research, reasoning and educational evaluation. This remote opportunity is for students and working professionals who already use the Gemini App regularly for learning. What you’ll do Research and fact-check information from...&nbsp;",
+   "url": "https://jooble.org/jdp/-6154716130898428505",
+   "date": "2026-11-10T00:28:58.4970000",
+   "description": "&nbsp;...Employment Law AI Evaluator is a remote review track for evaluating AI outputs in legal review workflows. Reviewers grade citation accuracy, statutory reasoning, and policy adherence; flag risk; and document the corrected analysis so the modeling team can train on it....&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:4503890584480366914",
+   "title": "STEM Explanation AI Evaluator",
+   "company": "AuraOne Human Data",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/4503890584480366914",
+   "date": "2026-10-07T13:07:57.9930000",
+   "description": "&nbsp;...STEM Explanation AI Evaluator is a remote review track for evaluating AI outputs across stem research reasoning, calculations, and research workflows. Reviewers grade derivations and assumptions, reproduce key results, and document the correct method so the modeling team...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-6542222760265909832",
+   "title": "Food Delivery AI Response Evaluator",
+   "company": "micro1",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-6542222760265909832",
+   "date": "2026-11-22T00:00:00.0000000",
+   "description": "&nbsp;... Evaluators review the answers an AI assistant gives to food delivery customers, judging quality, relevance and accuracy across order questions, delivery status updates and problem resolution. They flag weak or inappropriate replies, suggest short fixes and write sample...&nbsp;",
    "tags": [
     "Temporary"
    ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-1807747677002225372",
+   "title": "AI Response Evaluator - Remote, Part-Time (Evenings & Weekends) | Now Building Our Talent Pool",
+   "company": "Judit Inc",
+   "location": "Atlanta, GA",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-1807747677002225372",
+   "date": "2026-11-20T00:00:00.0000000",
+   "description": "&nbsp;...Judit Inc. is building a talent pool for an upcoming remote project with one of our clients, a company that helps train and improve AI assistants. Please read this first: we are building a pipeline. These positions are not approved yet. We're lining people up now...&nbsp;",
+   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -11394,6 +11513,24 @@
    "url": "https://jooble.org/jdp/-3417673370657948935",
    "date": "2026-11-16T00:00:00.0000000",
    "description": "&nbsp;... AI Conversation Evaluator - Remote Employment Type: Contractor Work Arrangement: Remote – Global Language Requirement: English Compensation: $45–$70 per hour Estimated Time Commitment: Approximately 7.5 hours Project Duration: November 15–18, 2026...&nbsp;",
+   "tags": [
+    "Temporary"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-7274412586755190283",
+   "title": "AI Evaluator - Education (Experienced Gemini Users)",
+   "company": "Turing",
+   "location": "United States",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-7274412586755190283",
+   "date": "2026-10-27T00:00:00.0000000",
+   "description": "&nbsp;...Help improve leading AI models through research, reasoning and educational evaluation. This remote opportunity is for students and working professionals who already use the Gemini App regularly for learning. What you’ll do Research and fact-check information from...&nbsp;",
    "tags": [
     "Temporary"
    ],
@@ -11420,14 +11557,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:5484235006821247189",
-   "title": "Materials Science AI Evaluator",
+   "id": "jooble:7048332056923843127",
+   "title": "Insurance Policy AI Evaluator",
    "company": "AuraOne Human Data",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/5484235006821247189",
-   "date": "2026-10-26T19:10:47.0700000",
-   "description": "&nbsp;...Materials Science AI Evaluator is a remote review track for evaluating AI outputs across materials science reasoning, calculations, and research workflows. Reviewers grade derivations and assumptions, reproduce key results, and document the correct method so the modeling...&nbsp;",
+   "url": "https://jooble.org/jdp/7048332056923843127",
+   "date": "2026-10-08T07:47:46.4830000",
+   "description": "&nbsp;...Insurance Policy AI Evaluator is a remote review track for evaluating AI outputs across insurance workflows. Reviewers grade calculations, narrative reasoning, and policy adherence; flag compliance and reconciliation issues; and document the correct treatment so the modeling...&nbsp;",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11436,97 +11573,17 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-584823203164245035",
-   "title": "Science Curriculum AI Evaluator",
-   "company": "AuraOne Human Data",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-584823203164245035",
-   "date": "2026-10-07T13:08:01.6730000",
-   "description": "&nbsp;...Science Curriculum AI Evaluator is a remote review track for evaluating AI outputs across science curriculum ai specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:676739632841545201",
-   "title": "Emergency Medicine AI Evaluator",
-   "company": "AuraOne Human Data",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/676739632841545201",
-   "date": "2026-10-07T13:08:00.2300000",
-   "description": "&nbsp;...Emergency Medicine AI Evaluator is a remote clinical-review track for evaluating AI outputs that touch emergency medicine. Reviewers grade differential reasoning, dosing logic, and guideline adherence; flag patient-safety issues; and document the corrected clinical reasoning...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:2069412402130473062",
-   "title": "Litigation and Legal Research AI Evaluator",
-   "company": "AuraOne Human Data",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/2069412402130473062",
-   "date": "2026-10-13T06:13:40.5170000",
-   "description": "&nbsp;...Litigation and Legal Research AI Evaluator is a remote review track for evaluating AI outputs in litigation workflows. Reviewers grade citation accuracy, statutory reasoning, and policy adherence; flag risk; and document the corrected analysis so the modeling team can...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:8716843137205436108",
-   "title": "Special Operations AI Scenario Evaluator - Remote Worldwide",
-   "company": "OpenTrain AI",
-   "location": "Las Vegas, NV",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/8716843137205436108",
-   "date": "2026-11-23T09:09:50.4830000",
-   "description": "&nbsp;...fully remote worldwide, subject to supported locations. Bring your firsthand special operations experience to practical AI scenario evaluation work you can do remotely. OpenTrain needs specialists who can judge whether AI-written mission scenarios are realistic,...&nbsp;",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-7735492029697060265",
-   "title": "French AI Response Evaluator - Remote Freelance",
+   "id": "jooble:5408146486024750797",
+   "title": "French AI Response Evaluator (Remote)",
    "company": "e2f",
    "location": "San Jose, CA",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-7735492029697060265",
+   "url": "https://jooble.org/jdp/5408146486024750797",
    "date": "2026-11-02T00:00:00.0000000",
    "description": "&nbsp;...Are you fluent in French (FR) and interested in working on AI- related projects? We're currently looking for detail-oriented...&nbsp;&nbsp;...individuals to join our talent pool for an upcoming AI Response Evaluation and Fact-Checking project . This freelance, remote opportunity...&nbsp;",
    "tags": [
     "Temporary"
    ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:8537795052582087467",
-   "title": "Secure Code Review AI Evaluator",
-   "company": "AuraOne Human Data",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/8537795052582087467",
-   "date": "2026-09-27T01:07:56.9230000",
-   "description": "&nbsp;...Secure Code Review AI Evaluator is a remote red-team track for stress-testing AI systems against adversarial prompts. Reviewers craft attack scenarios, document the failure mode, and pair each successful jailbreak with the rubric clause it violated so the safety team...&nbsp;",
-   "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
    "salaryMax": null,
@@ -11586,16 +11643,16 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-2076336479167601726",
-   "title": "Cardiac Electrophysiologist",
-   "company": "micro1",
+   "id": "jooble:-1499482475250611231",
+   "title": "R&D Lead Engineer",
+   "company": "qdrant.tech",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-2076336479167601726",
-   "date": "2026-11-22T00:00:00.0000000",
-   "description": "&nbsp;...English at B2 level or above Preferred: experience with ablation and implantable devices, or with medical annotation, AI evaluation or RLHF Suits practicing or recently practicing electrophysiologists who want hourly remote work checking how well AI reasons about...&nbsp;",
+   "url": "https://jooble.org/jdp/-1499482475250611231",
+   "date": "2026-11-25T04:58:47.2983948+00:00",
+   "description": "&nbsp;...storage engines, concurrency, or correctness at scale Experience with reinforcement learning or RL-based post-training, such as RLHF Experience with ML hardware beyond standard GPU clusters, such as custom accelerators or unusual network topologies Why join us...&nbsp;",
    "tags": [
-    "Temporary"
+    "Full-time"
    ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11622,16 +11679,32 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-1499482475250611231",
-   "title": "R&D Lead Engineer",
-   "company": "qdrant.tech",
+   "id": "jooble:4916664441776170972",
+   "title": "Linguist II",
+   "company": "SGS Consulting",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-1499482475250611231",
-   "date": "2026-11-25T04:58:47.2983948+00:00",
-   "description": "&nbsp;...storage engines, concurrency, or correctness at scale Experience with reinforcement learning or RL-based post-training, such as RLHF Experience with ML hardware beyond standard GPU clusters, such as custom accelerators or unusual network topologies Why join us...&nbsp;",
+   "url": "https://jooble.org/jdp/4916664441776170972",
+   "date": "2026-11-08T09:25:31.5697093+00:00",
+   "description": "&nbsp;...development and maintenance of annotation schemas and guidelines for LLM training data (e.g., instruction-tuning, preference labeling, RLHF) Evaluate and quality-check datasets used for pre-training, fine-tuning, and alignment of language models Support the...&nbsp;",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-2076336479167601726",
+   "title": "Cardiac Electrophysiologist",
+   "company": "micro1",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-2076336479167601726",
+   "date": "2026-11-22T00:00:00.0000000",
+   "description": "&nbsp;...English at B2 level or above Preferred: experience with ablation and implantable devices, or with medical annotation, AI evaluation or RLHF Suits practicing or recently practicing electrophysiologists who want hourly remote work checking how well AI reasons about...&nbsp;",
    "tags": [
-    "Full-time"
+    "Temporary"
    ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11658,14 +11731,30 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:4916664441776170972",
-   "title": "Linguist II",
-   "company": "SGS Consulting",
+   "id": "jooble:4138838201425770573",
+   "title": "Research Scientist, LLM",
+   "company": "techire ai",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/4916664441776170972",
-   "date": "2026-11-08T09:25:31.5697093+00:00",
-   "description": "&nbsp;...development and maintenance of annotation schemas and guidelines for LLM training data (e.g., instruction-tuning, preference labeling, RLHF) Evaluate and quality-check datasets used for pre-training, fine-tuning, and alignment of language models Support the...&nbsp;",
+   "url": "https://jooble.org/jdp/4138838201425770573",
+   "date": "2026-11-25T15:14:01.9948662+00:00",
+   "description": "&nbsp;...learning, on distributed GPU clusters. Your work is expected to reach production products used by thousands of businesses. Skills: PyTorch, Transformers, Distributed Training, Reinforcement Learning, RLHF, Pre-training, Post-training, Multimodal Models, Diffusion Models.",
+   "tags": [],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:7217204487144181589",
+   "title": "Machine Learning Engineer",
+   "company": "10a Labs",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/7217204487144181589",
+   "date": "2026-11-26T05:19:15.6905849+00:00",
+   "description": "&nbsp;...evaluation pipelines, benchmarks and tooling. You will also train and fine-tune models for safety and security applications. Skills: Python, PyTorch, JAX, Reinforcement Learning, LLMs, Computer Vision, Multimodal ML, Model Context Protocol, RLHF, Distributed Training.",
    "tags": [],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11692,64 +11781,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:7217204487144181589",
-   "title": "Machine Learning Engineer",
-   "company": "10a Labs",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/7217204487144181589",
-   "date": "2026-11-26T05:19:15.6905849+00:00",
-   "description": "&nbsp;...evaluation pipelines, benchmarks and tooling. You will also train and fine-tune models for safety and security applications. Skills: Python, PyTorch, JAX, Reinforcement Learning, LLMs, Computer Vision, Multimodal ML, Model Context Protocol, RLHF, Distributed Training.",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:4138838201425770573",
-   "title": "Research Scientist, LLM",
-   "company": "techire ai",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/4138838201425770573",
-   "date": "2026-11-25T15:14:01.9948662+00:00",
-   "description": "&nbsp;...learning, on distributed GPU clusters. Your work is expected to reach production products used by thousands of businesses. Skills: PyTorch, Transformers, Distributed Training, Reinforcement Learning, RLHF, Pre-training, Post-training, Multimodal Models, Diffusion Models.",
-   "tags": [],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-9068231983362165137",
+   "id": "jooble:-5681236423062812767",
    "title": "Research Staff, LLMs",
-   "company": "Deepgram",
+   "company": "deepgram",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-9068231983362165137",
-   "date": "2026-11-20T00:00:00.0000000",
-   "description": "&nbsp;...their underlying architecture Understanding of distributed training and distributed inference schemes for LLMs Familiarity with RLHF labeling and training pipelines Up-to-date knowledge of recent LLM techniques and developments The Challenge We are seeking...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-5131919111606431303",
-   "title": "Human Data Architect",
-   "company": "surge-ai",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-5131919111606431303",
-   "date": "2026-11-13T04:59:32.4621701+00:00",
-   "description": "&nbsp;...intersection of ML post-training and human data collection methodology. You'll need to understand what makes a good SFT example, what an RLHF pipeline needs to produce useful training signal, and how to structure evaluation datasets that actually discriminate between model...&nbsp;",
+   "url": "https://jooble.org/jdp/-5681236423062812767",
+   "date": "2026-11-13T06:57:54.0930000",
+   "description": "&nbsp;...equivalent demonstrated experience Published research in deep learning, particularly on LLMs or deep neural networks Familiarity with RLHF labeling and training pipelines Experience with distributed inference or efficient LLM serving Exposure to speech, audio, or...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -11770,6 +11809,24 @@
    "description": "&nbsp;...structural heart procedures. Background in medical AI evaluation, data annotation, or Reinforcement Learning from Human Feedback ( RLHF) . Selection Process # Application # AI interview # Domain-specific screening # Onboarding call Prior AI experience...&nbsp;",
    "tags": [
     "Temporary"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
+   "id": "jooble:-5131919111606431303",
+   "title": "Human Data Architect",
+   "company": "surge-ai",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-5131919111606431303",
+   "date": "2026-11-13T04:59:32.4621701+00:00",
+   "description": "&nbsp;...intersection of ML post-training and human data collection methodology. You'll need to understand what makes a good SFT example, what an RLHF pipeline needs to produce useful training signal, and how to structure evaluation datasets that actually discriminate between model...&nbsp;",
+   "tags": [
+    "Full-time"
    ],
    "source": "Jooble (Remote)",
    "salaryMin": null,
@@ -11900,6 +11957,24 @@
    "salaryPeriod": null
   },
   {
+   "id": "jooble:-1370735409503292283",
+   "title": "Senior Prompt Designer II",
+   "company": "Livecareer",
+   "location": "Remote",
+   "workType": "remote",
+   "url": "https://jooble.org/jdp/-1370735409503292283",
+   "date": "2026-11-18T00:00:00.0000000",
+   "description": "&nbsp;...What's good to have - Experience with resume builder products, HR tech, or career content platforms - Familiarity with fine-tuning, RLHF, or preference data collection workflows - Experience with structured output validation (JSON Schema, Pydantic, or equivalent) - Familiarity...&nbsp;",
+   "tags": [
+    "Full-time"
+   ],
+   "source": "Jooble (Remote)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": null,
+   "salaryPeriod": null
+  },
+  {
    "id": "jooble:-7702917468306695890",
    "title": "Research Operations, External Artifacts",
    "company": "Anthropic",
@@ -11924,24 +11999,6 @@
    "url": "https://jooble.org/jdp/7163088513462665313",
    "date": "2026-11-23T00:00:00.0000000",
    "description": "&nbsp;...practical experience. ~ Experience with LLM post-training and alignment, including supervised fine-tuning, reinforcement learning, RLHF, DPO, or related techniques. ~ Experience with image or video generation models, multimodal understanding models, or production...&nbsp;",
-   "tags": [
-    "Full-time"
-   ],
-   "source": "Jooble (Remote)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": null,
-   "salaryPeriod": null
-  },
-  {
-   "id": "jooble:-1370735409503292283",
-   "title": "Senior Prompt Designer II",
-   "company": "Livecareer",
-   "location": "Remote",
-   "workType": "remote",
-   "url": "https://jooble.org/jdp/-1370735409503292283",
-   "date": "2026-11-18T00:00:00.0000000",
-   "description": "&nbsp;...What's good to have - Experience with resume builder products, HR tech, or career content platforms - Familiarity with fine-tuning, RLHF, or preference data collection workflows - Experience with structured output validation (JSON Schema, Pydantic, or equivalent) - Familiarity...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -12208,14 +12265,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-674692999095202533",
-   "title": "Quality Review Specialist III",
-   "company": "Qlarant",
+   "id": "jooble:-286112009359778218",
+   "title": "Quality Management Specialist",
+   "company": "Aptive",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-674692999095202533",
+   "url": "https://jooble.org/jdp/-286112009359778218",
    "date": "2026-11-23T00:00:00.0000000",
-   "description": "&nbsp;...Qlarant is a not-for-profit corporation that partners with public and private sectors to create high quality, safe, and efficient delivery of health care and human services programs. We have multiple lines of business including population health, utilization review, managed...&nbsp;",
+   "description": "&nbsp;...Job Summary Quality Management Specialist Aptive Resources is seeking a Quality Management Specialist to support the Department of Veterans Affairs (VA) Office of Research and Development (ORD) Cooperative Studies Program (CSP) under the Field Enterprise Research...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -12226,14 +12283,14 @@
    "salaryPeriod": null
   },
   {
-   "id": "jooble:-286112009359778218",
-   "title": "Quality Management Specialist",
-   "company": "Aptive",
+   "id": "jooble:-674692999095202533",
+   "title": "Quality Review Specialist III",
+   "company": "Qlarant",
    "location": "Remote",
    "workType": "remote",
-   "url": "https://jooble.org/jdp/-286112009359778218",
+   "url": "https://jooble.org/jdp/-674692999095202533",
    "date": "2026-11-23T00:00:00.0000000",
-   "description": "&nbsp;...Job Summary Quality Management Specialist Aptive Resources is seeking a Quality Management Specialist to support the Department of Veterans Affairs (VA) Office of Research and Development (ORD) Cooperative Studies Program (CSP) under the Field Enterprise Research...&nbsp;",
+   "description": "&nbsp;...Qlarant is a not-for-profit corporation that partners with public and private sectors to create high quality, safe, and efficient delivery of health care and human services programs. We have multiple lines of business including population health, utilization review, managed...&nbsp;",
    "tags": [
     "Full-time"
    ],
@@ -13522,380 +13579,380 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981669523",
-   "title": "Full Stack Software Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Minneapolis, Hennepin County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669523?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=54285BD403896E6787BB04D734DC8C2394B01D61",
-   "date": "2026-11-28T05:45:49Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 86695.5,
-   "salaryMax": 86695.5,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981669279",
-   "title": "Design-System Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Boca Raton, Palm Beach County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669279?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=4D3D7A118333CDE624D8D8D992A34A2D872828B2",
-   "date": "2026-11-28T05:45:33Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 77896.91,
-   "salaryMax": 77896.91,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981669264",
-   "title": "Data Software Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Sunnyvale, Santa Clara County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669264?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=F66D0A438D1E95E6EE87CD03B1D0A817D520E99A",
-   "date": "2026-11-28T05:45:33Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 87696.2,
-   "salaryMax": 87696.2,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981669269",
-   "title": "Full Stack Software Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Chandler, Maricopa County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669269?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=322DBE63E996329596BE5A347164C0B3AE27AF03",
-   "date": "2026-11-28T05:45:33Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 79248.98,
-   "salaryMax": 79248.98,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981669271",
+   "id": "adzuna:us:5981698236",
    "title": "UI Engineer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Orlando, Orange County",
+   "location": "Kansas City, Wyandotte County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669271?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=648E02A73F87E3C6CB6F45D3E732818EDB9D4A13",
-   "date": "2026-11-28T05:45:33Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "url": "https://www.adzuna.com/details/5981698236?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:43:32Z",
+   "description": "Job Description About the Role: /n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. /n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 79675.24,
-   "salaryMax": 79675.24,
+   "salaryMin": 80467.18,
+   "salaryMax": 80467.18,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981669242",
-   "title": "Design-System Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "El Mirage, Maricopa County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669242?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=1C6E34CF85141ED48A207F3EA74049280E208CD9",
-   "date": "2026-11-28T05:45:31Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 73810.14,
-   "salaryMax": 73810.14,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981669236",
-   "title": "Coder (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Stow, Middlesex County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669236?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=976A0781EA1106777B0701C24D0A2DDE0649E5C7",
-   "date": "2026-11-28T05:45:30Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 72407.31,
-   "salaryMax": 72407.31,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981669240",
+   "id": "adzuna:us:5981697165",
    "title": "Full Stack Software Developer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Bentonville, Benton County",
+   "location": "Cincinnati, Hamilton County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669240?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=4D26D8E4753C621D8802BB1480412D10CBAEB2C4",
-   "date": "2026-11-28T05:45:30Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "url": "https://www.adzuna.com/details/5981697165?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:41:58Z",
+   "description": "Job Description About the Role: /n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. /n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 82186.38,
-   "salaryMax": 82186.38,
+   "salaryMin": 82773.16,
+   "salaryMax": 82773.16,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981669233",
-   "title": "Data Software Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Georgetown, Williamson County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669233?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=14F543B9258AFEB81B2931166ECF320B4C62FC0D",
-   "date": "2026-11-28T05:45:30Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 84281.29,
-   "salaryMax": 84281.29,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981669239",
-   "title": "Software Developer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Okemos, Ingham County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981669239?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=F344ACCC30EFC57BD6E422742C70496FE9519B34",
-   "date": "2026-11-28T05:45:30Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 84869.92,
-   "salaryMax": 84869.92,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981668798",
+   "id": "adzuna:us:5981697140",
    "title": "Full Stack Software Developer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Savannah, Chatham County",
+   "location": "Silver Spring, Montgomery County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668798?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=162D0DC80EE4178A08D3CFF047F1853AF6D7324B",
-   "date": "2026-11-28T05:45:01Z",
+   "url": "https://www.adzuna.com/details/5981697140?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:41:57Z",
+   "description": "Job Description About the Role: /n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. /n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 81366.73,
+   "salaryMax": 81366.73,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696584",
+   "title": "UX Engineer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Fort Sam Houston, Bexar County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696584?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:42Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 82296.65,
-   "salaryMax": 82296.65,
+   "salaryMin": 93154.77,
+   "salaryMax": 93154.77,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981668797",
+   "id": "adzuna:us:5981696582",
+   "title": "Software Engineer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Travelers Rest, Greenville County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696582?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:41Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 84726.38,
+   "salaryMax": 84726.38,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696580",
+   "title": "UX Engineer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Morrisville, Wake County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696580?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:41Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 89273.15,
+   "salaryMax": 89273.15,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696581",
+   "title": "UI Engineer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Textile Finance, Los Angeles County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696581?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:41Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 95339.05,
+   "salaryMax": 95339.05,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696578",
+   "title": "Software Engineer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Savage, Anne Arundel County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696578?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:40Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 92495.97,
+   "salaryMax": 92495.97,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696577",
    "title": "Full Stack Software Engineer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Okemos, Ingham County",
+   "location": "San Mateo, San Mateo County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668797?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=A516AF2CB6CEE7A6853C300A69527AD9327EC3B2",
-   "date": "2026-11-28T05:45:01Z",
+   "url": "https://www.adzuna.com/details/5981696577?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:40Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 88426.16,
-   "salaryMax": 88426.16,
+   "salaryMin": 82303.48,
+   "salaryMax": 82303.48,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981668796",
+   "id": "adzuna:us:5981696576",
    "title": "Programmer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "College Park, Prince George's County",
+   "location": "Hoonah, Hoonah-Angoon",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668796?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=B4F4ED995883D82FCABFF908585A43332B15F40F",
-   "date": "2026-11-28T05:45:01Z",
+   "url": "https://www.adzuna.com/details/5981696576?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:40Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 83907.48,
-   "salaryMax": 83907.48,
+   "salaryMin": 117222.96,
+   "salaryMax": 117222.96,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981668795",
-   "title": "UI Engineer (part-time work from home) - AI Trainer",
+   "id": "adzuna:us:5981696379",
+   "title": "Coder (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Sunnyvale, Santa Clara County",
+   "location": "Glendale, Denver",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668795?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=80F2DD38BAFC3FD347A3FA74BA4A7D070FA00FFC",
-   "date": "2026-11-28T05:45:01Z",
+   "url": "https://www.adzuna.com/details/5981696379?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:24Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 84103.44,
-   "salaryMax": 84103.44,
+   "salaryMin": 78394.3,
+   "salaryMax": 78394.3,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981668794",
+   "id": "adzuna:us:5981696376",
+   "title": "Mobile Software Engineer (part time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Frazer, Chester County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696376?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:23Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 92781.77,
+   "salaryMax": 92781.77,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696367",
+   "title": "Programmer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Preble, Brown County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696367?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:23Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 94349.16,
+   "salaryMax": 94349.16,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696375",
    "title": "Software Developer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Phenix City, Russell County",
+   "location": "Gardena, Los Angeles County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668794?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=AC29D23A62A0C4646B71EA9CC1028425F9E33FF2",
-   "date": "2026-11-28T05:45:00Z",
+   "url": "https://www.adzuna.com/details/5981696375?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:23Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 81868.7,
-   "salaryMax": 81868.7,
+   "salaryMin": 96108.98,
+   "salaryMax": 96108.98,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981668790",
-   "title": "Design-System Engineer (part-time work from home) - AI Trainer",
+   "id": "adzuna:us:5981696365",
+   "title": "Programmer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Des Plaines, Cook County",
+   "location": "Winter Hill, Middlesex County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668790?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=F90C720E542C40707549E696AFBC55059C4FB0C6",
-   "date": "2026-11-28T05:45:00Z",
+   "url": "https://www.adzuna.com/details/5981696365?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:22Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 82325.54,
-   "salaryMax": 82325.54,
+   "salaryMin": 114417.98,
+   "salaryMax": 114417.98,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981668750",
-   "title": "Full Stack Software Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Oakland, Alameda County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668750?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=2747D2FC7FA4078DBF90292D63D83C86DD5E3E98",
-   "date": "2026-11-28T05:44:56Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 89742.8,
-   "salaryMax": 89742.8,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981668739",
-   "title": "Data Software Engineer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Kingman, Mohave County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668739?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=727C4D75B2535E4F94D86E9CABA38ED888130A50",
-   "date": "2026-11-28T05:44:56Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 83960.31,
-   "salaryMax": 83960.31,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981668742",
+   "id": "adzuna:us:5981696356",
    "title": "Software Developer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Vermillion, Clay County",
+   "location": "Cherry Hills, Arapahoe County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668742?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=037892CA7586BA44F590AAC4A6A5A2FE2B9130F2",
-   "date": "2026-11-28T05:44:56Z",
+   "url": "https://www.adzuna.com/details/5981696356?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:22Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 80104.64,
-   "salaryMax": 80104.64,
+   "salaryMin": 96383.6,
+   "salaryMax": 96383.6,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:us:5981668754",
-   "title": "Full Stack Software Developer (part-time work from home) - AI Trainer",
-   "company": "DataAnnotation",
-   "location": "Jessup, Howard County",
-   "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668754?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=090C8FB491396FCC03AF28B1F7EFCF0E32ABC8AA",
-   "date": "2026-11-28T05:44:56Z",
-   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
-   "tags": [
-    "Part time Jobs"
-   ],
-   "source": "Adzuna (US)",
-   "salaryMin": 81628.1,
-   "salaryMax": 81628.1,
-   "salaryCurrency": "USD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:us:5981668483",
+   "id": "adzuna:us:5981696359",
    "title": "Full Stack Software Engineer (part-time work from home) - AI Trainer",
    "company": "DataAnnotation",
-   "location": "Tyler, Smith County",
+   "location": "West Jordan, Salt Lake County",
    "workType": "remote",
-   "url": "https://www.adzuna.com/land/ad/5981668483?se=9ImpFRvr8RGgp9ofPpeEiA&utm_medium=api&utm_source=cd632dce&v=0B35EAD36F7E39AB87BBC0E37F013F2EF7532DBD",
-   "date": "2026-11-28T05:44:39Z",
+   "url": "https://www.adzuna.com/details/5981696359?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:22Z",
    "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
    "tags": [
     "Part time Jobs"
    ],
    "source": "Adzuna (US)",
-   "salaryMin": 84391.88,
-   "salaryMax": 84391.88,
+   "salaryMin": 91787.45,
+   "salaryMax": 91787.45,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981696360",
+   "title": "Mobile Software Engineer (part time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "North Florence, Lauderdale County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981696360?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:22Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 82472.25,
+   "salaryMax": 82472.25,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981695716",
+   "title": "UX Engineer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Hampton Roads, Hampton City",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981695716?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:04Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 94469.45,
+   "salaryMax": 94469.45,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981695720",
+   "title": "Programmer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Sierra Bonita, Cochise County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981695720?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:04Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 140108.58,
+   "salaryMax": 140108.58,
+   "salaryCurrency": "USD",
+   "salaryPeriod": "year"
+  },
+  {
+   "id": "adzuna:us:5981695699",
+   "title": "Programmer (part-time work from home) - AI Trainer",
+   "company": "DataAnnotation",
+   "location": "Laurel Park, Harrison County",
+   "workType": "remote",
+   "url": "https://www.adzuna.com/details/5981695699?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-28T06:40:03Z",
+   "description": "Job Description About the Role: \\n We are looking for existing software engineers and developers to help advance AI development. As a member of DataAnnotation's Software Engineering team, you'll be part of a growing community of over 100,000 professionals, including front-end, back-end, full-stack, machine learning, DevOps, and other software engineers who are driving real-world impact in AI development. \\n Our platform offers an engaging blend of flexibility and challenge. You'll work closely …",
+   "tags": [
+    "Part time Jobs"
+   ],
+   "source": "Adzuna (US)",
+   "salaryMin": 85212.17,
+   "salaryMax": 85212.17,
    "salaryCurrency": "USD",
    "salaryPeriod": "year"
   },
@@ -14247,7 +14304,7 @@
    "company": "Johnson Controls",
    "location": "Waynesboro, Franklin County",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5981667865?se=8mexGBvr8RGTKtsZlPx8Mw&utm_medium=api&utm_source=cd632dce&v=348346D8A217823EC95599054B126AFBB44E67B0",
+   "url": "https://www.adzuna.com/land/ad/5981667865?se=cHDmriPr8RGvAsq1NU0vhQ&utm_medium=api&utm_source=cd632dce&v=348346D8A217823EC95599054B126AFBB44E67B0",
    "date": "2026-11-28T05:42:56Z",
    "description": "Job Description Build your best future with the Johnson Controls Team: \\n \\n As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. As a member of the Johnson Controls Future Leaders Internship Program, you will learn to use your valuable skill set, knowledge, and passion to excel in a dynamic and competitive global environment. Our Internship Program is a unique opportunity to put classroo…",
    "tags": [
@@ -14265,7 +14322,7 @@
    "company": "Booz Allen Hamilton",
    "location": "North Carolina, US",
    "workType": "onsite",
-   "url": "https://www.adzuna.com/land/ad/5981662518?se=8mexGBvr8RGTKtsZlPx8Mw&utm_medium=api&utm_source=cd632dce&v=026293F76526125183DE1C10C4D6AE30C2AC41D9",
+   "url": "https://www.adzuna.com/land/ad/5981662518?se=cHDmriPr8RGvAsq1NU0vhQ&utm_medium=api&utm_source=cd632dce&v=026293F76526125183DE1C10C4D6AE30C2AC41D9",
    "date": "2026-11-28T05:21:47Z",
    "description": "Data Scientist The Opportunity: As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. As a data scientist, …",
    "tags": [
@@ -14800,42 +14857,6 @@
    "salaryPeriod": "year"
   },
   {
-   "id": "adzuna:ca:5981031486",
-   "title": "AI Safety & Evaluation Specialist - Remote",
-   "company": "YO HR Consultancy",
-   "location": "Alberta, Canada",
-   "workType": "remote",
-   "url": "https://www.adzuna.ca/details/5981031486?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-27T13:56:47Z",
-   "description": "Job Description: Privacy & Data Protection Specialist Role Type: Contractor Location: United States Commitment: Part-Time, Project-Based Duration: 6 Weeks About the Role We are seeking experienced Privacy and Data Protection Professionals to evaluate how personal AI agents handle sensitive information. In this role, you will test AI agents, review their responses, and identify potential privacy violations, inappropriate disclosures, and data-protection risks. You will apply your professional ex…",
-   "tags": [
-    "IT Jobs"
-   ],
-   "source": "Adzuna (CA)",
-   "salaryMin": 104000,
-   "salaryMax": 187200,
-   "salaryCurrency": "CAD",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:ca:5979911808",
-   "title": "Electrical Engineering Expert (Canada)",
-   "company": "AuraOne Human Data",
-   "location": "Alberta, Canada",
-   "workType": "remote",
-   "url": "https://www.adzuna.ca/details/5979911808?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-26T12:26:14Z",
-   "description": "Electrical Engineering Expert (Canada) is a remote review track for evaluating AI outputs across electrical engineering specialist operations workflows. Reviewers grade workflow correctness, policy adherence, and stakeholder fit; flag operational risk; and document the right next step so the modeling team can train on it. Why this role matters Electrical Engineering specialist operations AI has to fit into an actual day at work. AuraOne uses experienced operators to grade outputs the way a seni…",
-   "tags": [
-    "Engineering Jobs"
-   ],
-   "source": "Adzuna (CA)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "CAD",
-   "salaryPeriod": "year"
-  },
-  {
    "id": "adzuna:ca:5981648994",
    "title": "Senior AI Developer",
    "company": "Poka",
@@ -15183,7 +15204,7 @@
    "company": "TecTake GmbH",
    "location": "Deutschland",
    "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5980566252?se=DIGtJRvr8RGdZ4VJeE2E6Q&utm_medium=api&utm_source=cd632dce&v=1C626134254B78C9DF78493BC4C880146A70D763",
+   "url": "https://www.adzuna.de/land/ad/5980566252?se=VALZuSPr8RG9S4jfcVf4Cw&utm_medium=api&utm_source=cd632dce&v=1C626134254B78C9DF78493BC4C880146A70D763",
    "date": "2026-11-27T10:57:14Z",
    "description": "Junior Specialist Automation & AI (m/w/d) Unbefristet. Vollzeit. Höchberg, Bayern, Deutschland. tectake ist ein dynamisches E-Commerce-Unternehmen mit einem breiten und stetig wachsenden Produktsortiment rund um Wohnen, Haushalt, Freizeit und Hobby. Durch kontinuierliche Optimierungen und innovative Ideen setzen wir unsere erfolgreiche Entwicklung sowohl auf nationaler als auch auf internationaler Ebene fort. Um unsere Prozesse weiter zu optimieren und das Potenzial neuer Technologien gezielt z…",
    "tags": [
@@ -15192,96 +15213,6 @@
    "source": "Adzuna (DE)",
    "salaryMin": null,
    "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5980510799",
-   "title": "Senior AI & IT Recruiting Specialist (m/w/d)",
-   "company": "CompuGroup Medical Deutschland AG",
-   "location": "Deutschland",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5980510799?se=DIGtJRvr8RGdZ4VJeE2E6Q&utm_medium=api&utm_source=cd632dce&v=E7F81FB62F4C609B71278443D5EFEFA27D7D4D61",
-   "date": "2026-11-27T09:02:55Z",
-   "description": "Recruiting ist mehr als Besetzen. Es geht darum, Menschen zu finden, die etwas bewegen. Lesen Sie den Überblick über dieses Stellenangebot, um zu verstehen, welche Fähigkeiten, einschließlich relevanter Soft Skills und Softwarepaket-Kenntnisse, erforderlich sind. CGM entwickelt Softwarelösungen, die das Gesundheitswesen intelligenter, einfacher und besser machen. In 19 Ländern arbeiten fast 8.000 Menschen an einer gemeinsamen Vision: Wissen so einzusetzen, dass es Leben rettet. Jetzt suchen wir…",
-   "tags": [
-    "Stellen aus Personal & Personalbeschaffung"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5980493377",
-   "title": "Data Architekt (m/w/d)",
-   "company": "Instaffo GmbH",
-   "location": "Bult, Hannover",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/details/5980493377?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-27T08:42:02Z",
-   "description": "Du bist interessiert an der Stelle als Data Architekt (m/w/d) bei M&M Software GmbH ? Auf Instaffo kannst du dich für diesen und weitere Jobs ohne großen Aufwand bewerben. Erstelle dein Profil in unter 2 Minuten und starte den Bewerbungsprozess mit nur wenigen Klicks. Bitte beachte, dass für diese Stelle eine Arbeitserlaubnis für Deutschland erforderlich ist. Die Sprachanforderungen für diese Stelle sind: Deutsch - Fließend (C1), Englisch - Konversationssicher (B1-B2) Die geschätzte Gehaltsspan…",
-   "tags": [
-    "Unknown"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5980471354",
-   "title": "AI & Automation Specialist (m/w/d)",
-   "company": "source.kitchen GmbH",
-   "location": "Deutschland",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/land/ad/5980471354?se=DIGtJRvr8RGdZ4VJeE2E6Q&utm_medium=api&utm_source=cd632dce&v=0AC027E4577CEF31F3414F45E0B132B615A795D6",
-   "date": "2026-11-27T08:22:50Z",
-   "description": "Wer sind wir? Wir sind , ein junges, spezialisiertes Team und treiben die Entwicklung von Apps und Künstlicher Intelligenz voran. Dabei sind wir Teil der Hypoport-Gruppe, einem Technologiedienstleistungsnetzwerk der FinTech-, PropTech- und InsurTech-Branche. Über die Rolle Viele Kolleg:innen haben Ideen, wie Künstliche Intelligenz und Automatisierung ihren Arbeitsalltag erleichtern könnten. Was häufig fehlt, ist die Zeit oder das technische Know-how, daraus funktionierende Lösungen zu bauen. Al…",
-   "tags": [
-    "IT-Stellen"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5979998536",
-   "title": "Advisor Partner Technical Architect",
-   "company": "ServiceNow",
-   "location": "München, München (Kreis)",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/details/5979998536?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-26T20:31:03Z",
-   "description": "Job Description ServiceNow is seeking a Advisor Partner Technical Architect to serve as the primary strategic interface for our Global and Strategic Regional partners. In this role, you will drive holistic partner growth through pre-sales technical excellence, business development, solution strategy, and AI-first technology adoption. You will combine trusted advisory relationships with partner executives, industry-aligned solution architecture, and go-to-market leadership into a single accounta…",
-   "tags": [
-    "Beraterstellen"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5979950207",
-   "title": "Junior AI Specialist (m/w/d)",
-   "company": "A-TEAM Personalmanagement",
-   "location": "Eschborn, Main-Taunus-Kreis",
-   "workType": "onsite",
-   "url": "https://www.adzuna.de/details/5979950207?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-26T18:58:52Z",
-   "description": "A-TEAM bietet dir diese spannende Karrierechance als Junior AI Specialist (gn) bei Samsung Electronics , dem Global Player für Smartphones, Tablets & Co., in Eschborn . Die Position ist ab sofort für 1,5 Jahre zu besetzen. Deine Aufgaben Du testest und bewertest KI-Funktionen, beispielsweise Textgenerierung, Übersetzungen, Zusammenfassungen sowie Bild- und Videofunktionen. Du analysierst KI-generierte Inhalte hinsichtlich sprachlicher Qualität, Kontexttreue und möglicher Fehler Du dokumentierst…",
-   "tags": [
-    "Stellen aus PR, Werbung & Marketing"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": 41000,
-   "salaryMax": 41000,
    "salaryCurrency": "EUR",
    "salaryPeriod": "year"
   },
@@ -15412,6 +15343,24 @@
    "salaryPeriod": "year"
   },
   {
+   "id": "adzuna:de:5975096952",
+   "title": "KI Prompt Engineer/AI Consultant (m/w/d) – 100% remote",
+   "company": "mycareernow GmbH",
+   "location": "Kirdorf, Bad Homburg",
+   "workType": "remote",
+   "url": "https://www.adzuna.de/details/5975096952?utm_medium=api&utm_source=cd632dce",
+   "date": "2026-11-22T14:27:38Z",
+   "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
+   "tags": [
+    "IT-Stellen"
+   ],
+   "source": "Adzuna (DE)",
+   "salaryMin": null,
+   "salaryMax": null,
+   "salaryCurrency": "EUR",
+   "salaryPeriod": "year"
+  },
+  {
    "id": "adzuna:de:5975096947",
    "title": "KI Prompt Engineer/AI Consultant (m/w/d) – 100% remote",
    "company": "mycareernow GmbH",
@@ -15436,24 +15385,6 @@
    "location": "Bergkamen, Unna (Kreis)",
    "workType": "remote",
    "url": "https://www.adzuna.de/details/5975096961?utm_medium=api&utm_source=cd632dce",
-   "date": "2026-11-22T14:27:38Z",
-   "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
-   "tags": [
-    "IT-Stellen"
-   ],
-   "source": "Adzuna (DE)",
-   "salaryMin": null,
-   "salaryMax": null,
-   "salaryCurrency": "EUR",
-   "salaryPeriod": "year"
-  },
-  {
-   "id": "adzuna:de:5975096952",
-   "title": "KI Prompt Engineer/AI Consultant (m/w/d) – 100% remote",
-   "company": "mycareernow GmbH",
-   "location": "Kirdorf, Bad Homburg",
-   "workType": "remote",
-   "url": "https://www.adzuna.de/details/5975096952?utm_medium=api&utm_source=cd632dce",
    "date": "2026-11-22T14:27:38Z",
    "description": "mycareernow GmbH mycareernow ist ein nach AZAV zertifizierter Bildungsträger mit klarem Fokus auf Projektmanagement und Künstliche Intelligenz. Unsere praxisnahen Weiterbildungen bereiten dich gezielt auf den nächsten Karriereschritt vor – mit echten Projekten, erfahrenen Trainer*innen und starkem Bezug zur Arbeitswelt. Ob Prompt Engineering oder den Umgang mit den neuesten KI-Tools: Wir vermitteln dir genau das Know-how, das du für deinen beruflichen Neustart brauchst. Dabei begleiten wir dich…",
    "tags": [
